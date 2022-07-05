@@ -45,6 +45,7 @@
   * [Batch upload tool](developer/iscn/batch-upload-tool.md)
   * [ISCN Badge](developer/iscn/iscn-badge.md)
   * [ISCN IPFS plugin](developer/iscn/iscn-ipfs-plugin.md)
+* [LikeNFT Module Specs](developer/likenft/likenft-specs.md)
 * [likecoin-js](developer/likecoin-js.md)
 * [Ecosystem Statistics Badge](developer/badge.md)
 * [Raise Proposal](developer/raise-proposal.md)
