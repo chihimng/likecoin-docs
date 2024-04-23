@@ -19,6 +19,8 @@ Genesis: https://raw.githubusercontent.com/likecoin/mainnet/master/genesis.json
   * The upgrade should be automated by cosmovisor at height 9,419,200
 * v4.1.1
   * The upgrade should be automated by cosmovisor at height 12,102,100
+* v4.2.0
+  * The upgrade should be automated by cosmovisor at height 14,103,500
 
 #### Testnet
 
@@ -36,3 +38,5 @@ Genesis: https://raw.githubusercontent.com/likecoin/testnets/master/likecoin-pub
   * The upgrade should be automated by cosmovisor at height 6,041,650
 * v4.1.1
   * The upgrade should be automated by cosmovisor at height 8,546,600
+* v4.2.0
+  * The upgrade should be automated by cosmovisor at height 10,535,900

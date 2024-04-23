@@ -2,27 +2,27 @@
 description: ChungKing is the fourth major upgrade to the LikeCoin chain
 ---
 
-# ChungKing++ Upgrade
+# ChungKing+ Upgrade
 
 #### Please join the [#mainnet-validators](https://discord.gg/yGUqtcHGjv) channel.
 
 ### Changelog
 
-* Upgrade ibc-go to 6.3.0
-* Upgrade cosmos-sdk to 0.46.16
+* Upgrade ibc-go to 6.2.1
+* Upgrade cosmovisor in container image to 1.5
 
 ### IBC Upgrade
 
-This release upgrade ibc module to v6.3.0. This upgrade does not not include any significant features except an ibc-go upgrade for a vulnerability patch.
+This release upgrade ibc module to v6. This is a minor upgrade before the 0.47 sdk upgrade which is expected to take some time for development and testing.
 
 ### Timeline
 
-| Event            | Time            |
-| ---------------- | --------------- |
-| Testnet Proposal | 8th April 2024  |
-| Testnet Deploy   | 10th April 2024 |
-| Mainnet Proposal | 12th April 2024 |
-| Mainnet Deploy   | 23th April 2024 |
+| Event            | Time          |
+| ---------------- | ------------- |
+| Testnet Proposal | 15th Nov 2023 |
+| Testnet Deploy   | 16th Nov 2023 |
+| Mainnet Proposal | W4 Nov 2023   |
+| Mainnet Deploy   | W2 Dec 2023   |
 
 #### Chain Upgrades List
 
@@ -33,7 +33,6 @@ This release upgrade ibc module to v6.3.0. This upgrade does not not include any
 | StarFerry    | v3.0.0         | `.liked/cosmovisor/upgrades/v3.0.0/bin/liked` |
 | ChungKing    | v4.0.0         | `.liked/cosmovisor/upgrades/v4.0.0/bin/liked` |
 | ChungKing+   | v4.1.1         | `.liked/cosmovisor/upgrades/v4.1.1/bin/liked` |
-| ChungKing++  | v4.2.0         | `.liked/cosmovisor/upgrades/v4.2.0/bin/liked` |
 
 #### System Requirements During Upgrade
 
@@ -63,31 +62,31 @@ Operators who could not arrange a capable machine might opt to temporarily stop 
 
 #### Workflow
 
-1. `v4.2.0` is tagged on repo and binary builds are released on github via CI
+1. `v4.1.1` is tagged on repo and binary builds are released on github via CI
 2. Upgrade proposal is raised on-chain, which specifies the following parameters:
-   * Upgrade Name: `v4.2.0`
-   * Upgrade Height: 14103500
+   * Upgrade Name: `v4.1.1`
+   * Upgrade Height: 12102100
    *   Upgrade Info:
 
        ```json
        {
          "binaries": {
-           "linux/amd64": "https://github.com/likecoin/likecoin-chain/releases/download/v4.2.0/likecoin-chain_4.2.0_Linux_x86_64.tar.gz",
-           "linux/arm64": "https://github.com/likecoin/likecoin-chain/releases/download/v4.2.0/likecoin-chain_4.2.0_Linux_arm64.tar.gz",
-           "darwin/amd64": "https://github.com/likecoin/likecoin-chain/releases/download/v4.2.0/likecoin-chain_4.2.0_Darwin_x86_64.tar.gz",
-           "darwin/arm64": "https://github.com/likecoin/likecoin-chain/releases/download/v4.2.0/likecoin-chain_4.2.0_Darwin_arm64.tar.gz",
-           "windows/amd64": "https://github.com/likecoin/likecoin-chain/releases/download/v4.2.0/likecoin-chain_4.2.0_Windows_x86_64.zip"
+           "linux/amd64": "https://github.com/likecoin/likecoin-chain/releases/download/v4.1.1/likecoin-chain_4.1.1_Linux_x86_64.tar.gz",
+           "linux/arm64": "https://github.com/likecoin/likecoin-chain/releases/download/v4.1.1/likecoin-chain_4.1.1_Linux_arm64.tar.gz",
+           "darwin/amd64": "https://github.com/likecoin/likecoin-chain/releases/download/v4.1.1/likecoin-chain_4.1.1_Darwin_x86_64.tar.gz",
+           "darwin/arm64": "https://github.com/likecoin/likecoin-chain/releases/download/v4.1.1/likecoin-chain_4.1.1_Darwin_arm64.tar.gz",
+           "windows/amd64": "https://github.com/likecoin/likecoin-chain/releases/download/v4.1.1/likecoin-chain_4.1.1_Windows_x86_64.zip"
          }
        }
        ```
-3. After the proposal is approved, operators should place the `v4.2.0` binary at the Cosmovisor upgrades folder BEFORE the upgrade time. Alternatively, operators can configure cosmovisor to download binaries automatically.
+3. After the proposal is approved, operators should place the `v4.1.1` binary at the Cosmovisor upgrades folder BEFORE the upgrade time. Alternatively, operators can configure cosmovisor to download binaries automatically.
 4. Cosmovisor will automatically switch binaries at the scheduled block height. Operators will not be required to run migrations or restart chain manually. However, operators are recommended to be present during the upgrade time in case of any unforeseen issues.
 
 #### Instructions for Validator Operators
 
 **Migrate to Cosmovisor**
 
-To support the automatic upgrade, operators should **migrate to host their node with Cosmovisor** beforehand, which is supported since `v1.2.0`. A setup guide with migration instructions is available [here](likecoin-chain-node/setup-a-node/).
+To support the automatic upgrade, operators should **migrate to host their node with Cosmovisor** beforehand, which is supported since `v1.2.0`. A setup guide with migration instructions is available [here](../likecoin-chain-node/setup-a-node/).
 
 Operators can also test their setup and practice the migration flow on testnet before the actual upgrade.
 
@@ -104,7 +103,7 @@ Once the proposal is approved on-chain, operators should either download or buil
 The path to the new binary should be:
 
 ```shell
-.liked/cosmovisor/upgrades/v4.2.0/bin/liked
+.liked/cosmovisor/upgrades/v4.1.1/bin/liked
 ```
 
 Alternatively, operators can enable the auto-download feature of Cosmovisor by setting environment variable `DAEMON_ALLOW_DOWNLOAD_BINARIES` to `true`, which is the default if our setup script or docker image was used. To be safe, we recommend you do prepare the binary manually.
@@ -135,13 +134,13 @@ To skip an upgrade on short notice, operators shall append `--unsafe-skip-upgrad
 
 This is in addition to adding the skip upgrade flag step above.
 
-Point the `current` binary symlink to the previous version (`v4.1.1` for this upgrade):
+Point the `current` binary symlink to the previous version (`v4.0.0` for this upgrade):
 
 ```shell
  cd ~/.liked/cosmovisor
  rm current
- ln -s $(pwd)/v4.1.1 current
- rm -r upgrades/v4.2.0
+ ln -s $(pwd)/v4.0.0 current
+ rm -r upgrades/v4.1.1
  rm ~/.liked/data/upgrade-info.json
 ```
 
@@ -158,7 +157,7 @@ rm ~/.liked/data/upgrade-info.json
 
 **CI/CD Release**
 
-Once a release candidate is validated on devnet / testnet, please tag the commit with version `v4.2.0`. CI will test and build with the tagged commit, then release it on GitHub.
+Once a release candidate is validated on devnet / testnet, please tag the commit with version `v4.1.1`. CI will test and build with the tagged commit, then release it on GitHub.
 
 Please also push commits to `release/v4.x` and update branch names in node setup guides.
 
@@ -167,14 +166,14 @@ Please also push commits to `release/v4.x` and update branch names in node setup
 The proposer should submit a proposal with below command:
 
 ```shell
- ./liked tx gov submit-legacy-proposal software-upgrade "v4.2.0" \
-  --title 'LikeCoin v4.2.0 ChungKing++ Upgrade' \
-  --description "LikeCoin ChungKing++ Upgrade\n\nBy voting YES you approve that the chain to do a software upgrade [v4.2.0](https://github.com/likecoin/likecoin-chain/releases/tag/v4.2.0) on block height 14103500, which is estimated to occur on April 23th, around UTC 11:00.\n\n## Upgrade features\n\n- Upgrade ibc-go to 6.3.0\n\n- Upgrade cosmos-sdk to 0.46.16\n\n## Getting prepared for the upgrade\n\nNo state migration is expected for this upgrade. However all nodes are still recommended to have at least 16GB of memory. Not enough memory would result in corrupted data during upgrade.\n\nNode operators are advised to use cosmovisor, please refer to the following guides for setup and upgrade procedure. \n\nhttps://docs.like.co/validator/likecoin-chain-node/setup-a-node#to-existing-operators\n\n## Details of upgrade time\n\nThe proposal targets the upgrade proposal block to be 14103500, anticipated to be at April 23th, around UTC 11:00AM. Note that block times have high variance, so keep monitoring the time.\n\nThe upgrade is anticipated to take less than 60 minutes, during which time, there will not be any on-chain activity on the network.\n\nIn the event of an issue at upgrade time, we should coordinate via the validators channel in Discord.\n\nThis upgrade does not not include any significant features except an ibc-go upgrade for a vulnerability patch.\n\nhttps://app.like.co/view/iscn:%2F%2Flikecoin-chain%2FzLN30V-Jzmq5yDOFnBNlYuYd6u6FiHMTGGt16Qr5vBg\n" \
-  --from $ACCOUNT \
-  --upgrade-height $UPGRADE_HEIGHT \
-  --upgrade-info '{"binaries":{"linux/amd64":"https://github.com/likecoin/likecoin-chain/releases/download/v4.2.0/likecoin-chain_4.2.0_Linux_x86_64.tar.gz?checksum=sha256:07f138489ae4b2d31a95132db3efd1e0848eeb70afe33a89a8a326a1dc0d94c9","linux/arm64":"https://github.com/likecoin/likecoin-chain/releases/download/v4.2.0/likecoin-chain_4.2.0_Linux_arm64.tar.gz?checksum=sha256:2fc26a97b2eb8ac7c6bd2dc453b9bc6b6b301b3e9faeb6b5a1e98e1637b2e34e","darwin/amd64":"https://github.com/likecoin/likecoin-chain/releases/download/v4.2.0/likecoin-chain_4.2.0_Darwin_x86_64.tar.gz?checksum=sha256:a0287b0fcd085908f2b27a829534a0b2a6e47b65a17fd5724f3061ef220b23d9","darwin/arm64":"https://github.com/likecoin/likecoin-chain/releases/download/v4.2.0/likecoin-chain_4.2.0_Darwin_arm64.tar.gz?checksum=sha256:66e845ca29866af10f7ba99a57c3e1ce438de6232a66aa2ca4a726c04cde7de0"}}' \
-  --deposit 10000000nanolike \
-  --chain-id "likecoin-mainnet-2"
+ ./liked tx gov submit-legacy-proposal software-upgrade "v4.1.1" \
+ --title 'LikeCoin v4.1.1 ChungKing+ Upgrade' \
+ --description "LikeCoin ChungKing+ Upgrade\n\nBy voting YES you approve that the chain to do a software upgrade [v4.1.1](https://github.com/likecoin/likecoin-chain/releases/tag/v4.1.1) on block height 12102100, which is estimated to occur on Dec 7th, around UTC 11:00.\n\n## Upgrade features\n\n- Upgrade ibc-go to 6.2.1\n\n- Upgrade cosmovisor in container image to 1.15\n\n## Getting prepared for the upgrade\n\nNo state migration is expected for this upgrade. However all nodes are still recommended to have at least 16GB of memory. Not enough memory would result in corrupted data during upgrade.\n\nNode operators are advised to use cosmovisor, please refer to the following guides for setup and upgrade procedure. Node operators are also advised to upgrade cosmovisor to 1.5.0\n\nhttps://docs.like.co/validator/likecoin-chain-node/setup-a-node#to-existing-operators\n\n## Details of upgrade time\n\nThe proposal targets the upgrade proposal block to be 12102100, anticipated to be at Dec 7th, around UTC 11:00AM. Note that block times have high variance, so keep monitoring the time.\n\nThe upgrade is anticipated to take less than 60 minutes, during which time, there will not be any on-chain activity on the network.\n\nIn the event of an issue at upgrade time, we should coordinate via the validators channel in discord.\n\nThis upgrade does not not include any significant features except the IBC v6 upgrade. This is meant to be a final minor upgrade before the cosmos-sdk 0.47 upgrade, which is expected to contain huge changes.\n\nhttps://app.like.co/view/iscn:%2F%2Flikecoin-chain%2FcfDXloB0gTfMgoHM0WAwzyqr1vUXD57w6Jac9BtoDhE%2F1\n" \
+ --from $ACCOUNT \
+ --upgrade-height $UPGRADE_HEIGHT \
+  --upgrade-info '{"binaries":{"linux/amd64":"https://github.com/likecoin/likecoin-chain/releases/download/v4.1.1/likecoin-chain_4.1.1_Linux_x86_64.tar.gz?checksum=sha256:82b8a66959998dae7e249b0b0a29c6bdca118638e1cad5bc5c8821002f6051cc","linux/arm64":"https://github.com/likecoin/likecoin-chain/releases/download/v4.1.1/likecoin-chain_4.1.1_Linux_arm64.tar.gz?checksum=sha256:8635ce8e7e3c1bf0599469a75fd1579c10c7e593a35bff6572cc1c66a9ca6072","darwin/amd64":"https://github.com/likecoin/likecoin-chain/releases/download/v4.1.1/likecoin-chain_4.1.1_Darwin_x86_64.tar.gz?checksum=sha256:17a7532031adeffdae3bbeb0bed2f8e159f16889ffd734826e34a595411c0953","darwin/arm64":"https://github.com/likecoin/likecoin-chain/releases/download/v4.1.1/likecoin-chain_4.1.1_Darwin_arm64.tar.gz?checksum=sha256:35da3c84e447431bf6c16a1c11f8993fd013cc161578aa5fef855c59f72caa39"}}' \
+ --deposit 10000000nanolike \
+ --chain-id "likecoin-mainnet-2"
 ```
 
 The proposal content, especially `upgrade-info` should be validated on testnet beforehand.
