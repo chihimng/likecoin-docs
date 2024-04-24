@@ -360,7 +360,7 @@ At this stage, you should back up `~/.liked/config` and `~/.liked/keyring-file` 
 ~/liked query tendermint-validator-set | grep "$(~/liked tendermint show-address)"
 ```
 
-You can also check via chain explorers: [dao.like.co](https://dao.like.co), [Big Dipper](https://likecoin.bigdipper.live/)
+You can also check via chain explorers: [dao.like.co](https://dao.like.co), [Mintscan](https://www.mintscan.io/likecoin)
 
 ### Common operations for validator
 

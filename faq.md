@@ -41,7 +41,7 @@ description: Frequently Asked Questions
 
 * [Is there a decentralized wallet for LikeCoin?](general-guides/wallet/)
 * [How to transfer LikeCoin?](general-guides/wallet/like-pay.md)[  ](general-guides/wallet/keplr/)
-* [Does LikeCoin support hardware wallets?](general-guides/wallet/hardware-wallet.md)
+* [Does LikeCoin support hardware wallets?](archive/archive/wallet/hardware-wallet.md)
 * [Is there a multisig wallet for LikeCoin?](general-guides/wallet/multisig.md)
 * [How to find my wallet address?](general-guides/wallet/wallet-address.md)
 * [Any block explorer for LikeCoin?](general-guides/wallet/block-explorer/)
