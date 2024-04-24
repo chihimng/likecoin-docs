@@ -42,7 +42,7 @@ Usually called [_LikeCoin_](https://like.co/) for short, it is the de facto toke
 
 ### LikeCoin chain <a href="#aa59" id="aa59"></a>
 
-A distributed ledger of the open government of _LikeCoin DAO_. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on _LikeCoin chain_ is open and can be visualized on [**Big Dipper**](../general-guides/wallet/block-explorer/big-dipper.md) and [**Mintscan**](../general-guides/wallet/block-explorer/mintscan.md).
+A distributed ledger of the open government of _LikeCoin DAO_. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on _LikeCoin chain_ is open and can be visualized on [**Big Dipper**](../archive/archive/wallet/big-dipper.md) and [**Mintscan**](../general-guides/wallet/block-explorer/mintscan.md).
 
 The very first beta of _LikeCoin chain_, code-named **KaiTak**, was released on Apr 2019 and was upgraded to **Taipei** on Sept 2019 as the new beta testnet. First public release of _LikeCoin chain_, **SheungWan**, was just launched on Nov 15, signaling the establishment of _LikeCoin DAO_.
 
