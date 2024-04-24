@@ -274,7 +274,7 @@
     * [ISCN Wallet](archive/archive/writing-nft/iscn-wallet.md)
   * [Wallet](archive/archive/wallet/README.md)
     * [Big Dipper](archive/archive/wallet/big-dipper.md)
-    * [Ledger](archive/archive/wallet/hardware-wallet.md)
+    * [Ledger](general-guides/wallet/hardware-wallet.md)
   * [Liker Land](archive/archive/liker-land/README.md)
     * [My Content Jockey](archive/archive/liker-land/today-headline.md)
     * [Readling List](archive/archive/liker-land/readling-list.md)

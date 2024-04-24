@@ -1,6 +1,24 @@
 # Activites and Events
 
 {% tabs %}
+{% tab title="2024" %}
+### 03/28 nDX Meetup
+
+[灣新聞數位創新計畫（nDX）](https://ndx.dta.tw/%E6%95%B8%E4%BD%8D%E7%B6%93%E6%BF%9F%E6%9A%A8%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E5%8D%94%E6%9C%83%EF%BC%88dta%EF%BC%89%E4%BB%8A%E6%97%A5%E8%88%89%E8%BE%A6%E5%AA%92%E9%AB%94%E4%BA%A4%E6%B5%81ndx-meet/)
+
+### 03/22 Women Techmakers Hong Kong
+
+[IWD'2024 "Impact the Future"](https://www.facebook.com/WTMHongKong/posts/pfbid02zSFdCKxLppga38wnpnKte87XJabERYfpUffL1V7FC9ya8jXUQECfxPXh18F81awhl)
+
+### 03/08 Liker Land x Web3Press meetup 線下聚會
+
+[Liker Land 2024 的第一個線下交流聚會](https://lu.ma/dvya9553)
+
+### 03/07-08 WordCamp Asia 2024
+
+[Xingang Mountain Sponsors](https://asia.wordcamp.org/2024/sponsors/)
+{% endtab %}
+
 {% tab title="2023" %}
 ### 12/09 WeMedia Summit 2023
 
