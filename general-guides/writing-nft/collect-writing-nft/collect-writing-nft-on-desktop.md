@@ -10,15 +10,17 @@ You can purchase Writing NFT with LikeCoin, which not only supports creators' wo
 
 ## Step 1: Connect Wallet
 
-Go to the upper right corner of the [Liker Land](https://liker.land/) website and click "Connect Wallet".
+Go to the upper right corner of the Liker Land website and click "Enter Store".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
-Or click "Collect Now", "Collect" or the current NFT price and choose [Keplr](collect-writing-nft-on-desktop.md#keplr), [Cosmostation](collect-writing-nft-on-desktop.md#cosmostation), [Leap](collect-writing-nft-on-desktop.md#leap), [Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile), [Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) or [Liker Land app](collect-writing-nft-on-desktop.md#liker-land-app) to connect wallet, login and purchase NFT.
+Click "Login".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6-1-en.png" alt=""><figcaption><p>Choose Keplr, Cosmostation, Leap to login</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6-2-en.png" alt=""><figcaption><p>Choose Keplr, Cosmostation app or Liker ID to login</p></figcaption></figure>
+Or click "Collect Now", "Collect" or the current NFT price and choose [Keplr](collect-writing-nft-on-desktop.md#keplr), [Cosmostation](collect-writing-nft-on-desktop.md#cosmostation), [Leap](collect-writing-nft-on-desktop.md#leap), [Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile), [Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) or [Liker Land app](collect-writing-nft-on-desktop.md#liker-land-app), etc to connect wallet, login and purchase Writing NFT.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT 6-en.png" alt=""><figcaption><p>Various kind of logins</p></figcaption></figure>
 
 ## Step 2: Login and Purchase NFT
 
