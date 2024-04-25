@@ -14,6 +14,8 @@
 
 [Liker Land 2024 的第一個線下交流聚會](https://lu.ma/dvya9553)
 
+[Video](https://www.youtube.com/watch?v=K3TbsHo1-vs)
+
 ### 03/07-08 WordCamp Asia 2024
 
 [Xingang Mountain Sponsors](https://asia.wordcamp.org/2024/sponsors/)

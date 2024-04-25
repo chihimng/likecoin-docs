@@ -30,13 +30,13 @@ Users can also collect Writing NFT on a mobile browser by LIKE using [Keplr Mobi
 
 ### [One-Click Collect All Writing NFT](collect-all.md)
 
-Users can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to seamlessly purchase NFTs from the same creator via desktop or mobile browser.
+Users can use [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md) to seamlessly purchase Writing NFTs from the same creator via desktop or mobile browser.
 
 ***
 
 ## Start Collecting
 
-Go to the [Liker Land Book Store](https://liker.land/en/store) or [LikeCoin NFT Dashboard](tools.md) to check out the NFT that you want to buy, and click "Collect Now" to collect;
+Go to the [Liker Land Book Store Top Articles](https://liker.land/en/store/articles) or [LikeCoin NFT Dashboard](tools.md) to check out the NFT that you want to buy, and click "Collect Now" to collect;
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 1-en.png" alt=""><figcaption><p>Liker Land Homepage</p></figcaption></figure>
 
@@ -88,9 +88,21 @@ You will receive another email saying that the NFT has been sent to your wallet.
 
 ### Step 3: Check your NFT Collection
 
-Go to the upper right corner of the Liker Land website and click "Connect Wallet".
+Go to the upper right corner of the Liker Land website and click "Enter Store".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 12-en.png" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
+
+Click "Login".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+
+A pop-up window appears, click Keplr to login to Liker Land.
+
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 3-en.png" alt=""><figcaption><p>Click Keplr to login to Liker Land</p></figcaption></figure>
+
+A Keplr window will pop up asking for a connection, click "Approve".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 4.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
 
 Go to "[My Dashboard](https://liker.land/en/dashboard?tab=collected)" via the menu to view the NFT that you've collected.
 
@@ -108,19 +120,21 @@ Users who have a [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet
 
 ### Step 1: Log in to Keplr
 
-Go to the upper right corner of the Liker Land website and click "Connect Wallet".
+Go to the upper right corner of the Liker Land website and click "Enter Store".
 
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
+Click "Login".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 12-en (1).png" alt=""><figcaption><p>Connect Wallet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
-A pop-up window appears, click Keplr to login.
+A pop-up window appears, click Keplr to login to Liker Land.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Keplr-en.png" alt=""><figcaption><p>Click Keplr to log in</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 3-en.png" alt=""><figcaption><p>Click Keplr to login to Liker Land</p></figcaption></figure>
 
-When connecting for the first time, a Keplr window will pop up asking for a connection, click "Approve".
+A Keplr window will pop up asking for a connection, click "Approve".
 
-![Click "Approve" on Keplr](<../../../.gitbook/assets/NFT Portal 1a.png>)
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 4.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
 
 ### Step 2: Pay by Credit Card&#x20;
 
