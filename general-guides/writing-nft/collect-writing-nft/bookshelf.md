@@ -6,7 +6,7 @@ description: Check out other users' NFT collections
 
 Besides collecting via the [NFT Widget](nft-widget.md), collectors can also collect Writing NFTs from the creator's **Public** **Bookshelf** page (in the format https://liker.land/\[WalletAddress]). Creators and collectors can share the link to their collections through any channel.
 
-The Public Bookshelf includes the following features:
+The Bookshelf includes the following features:
 
 ## Collected
 
@@ -22,7 +22,7 @@ Displays the NFT created by this user.
 
 ## NFT Gems
 
-In addition to expressing the value of the collectibles in numbers, the Portfolio page further reflects the current price of Writing NFTs with gems of different grades. The color and shape of the gem on the work will change according to the market price, beautifying the Writing NFT display.
+In addition to expressing the value of the collectibles in numbers, the Bookshelf page further reflects the current price of Writing NFTs with gems of different grades. The color and shape of the gem on the work will change according to the market price, beautifying the Writing NFT display.
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 2.png" alt=""><figcaption><p>NFT Gems</p></figcaption></figure>
 
@@ -36,7 +36,7 @@ The "Favorite Creators" and "Top Fans" function enhances the relationship betwee
 
 ## List by order
 
-Users can now view any NFT portfolio by applying different sorting algorithms, including sorting:
+Users can now view any details on Bookshelf by applying different sorting algorithms, including sorting:
 
 * NFT type: All NFTs, Articles, Books
 

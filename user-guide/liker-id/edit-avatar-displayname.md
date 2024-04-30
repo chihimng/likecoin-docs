@@ -30,13 +30,13 @@ Click on the settings icon located at the lower right-hand corner and select "Pr
 
 Your name and avatar will appear in various [Liker Land](https://liker.land/) scenarios:
 
-### NFT Portfolio
+### Bookshelf
 
 {% content-ref url="../../general-guides/writing-nft/collect-writing-nft/bookshelf.md" %}
 [bookshelf.md](../../general-guides/writing-nft/collect-writing-nft/bookshelf.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/NFT Portfolio Liker ID.png" alt=""><figcaption><p>NFT Portfolio</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Portfolio Liker ID.png" alt=""><figcaption><p>Bookshelf</p></figcaption></figure>
 
 ### LikeCoin button
 

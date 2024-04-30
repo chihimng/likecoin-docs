@@ -52,7 +52,7 @@ Click on Public Bookshelf to directly link to your personal [Public Bookshelf](b
 
 ## Feature and Hide
 
-Users can organize their own portfolio by featuring or hiding NFT items (clicking the star on the top right hand corner). The featured NFT will be placed on top of the list, while the hidden NFT won’t be displayed in public view.
+Users can organize their own Bookshelf by featuring or hiding NFT items (clicking the star on the top right hand corner). The featured NFT will be placed on top of the list, while the hidden NFT won’t be displayed in public view.
 
 
 

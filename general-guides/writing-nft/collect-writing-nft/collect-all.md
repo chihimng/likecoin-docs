@@ -8,7 +8,7 @@ Using the One-Click Collect All feature allows users to purchase all Writing NFT
 
 ## Step 1: Login to your wallet and initiate One-Click Collect
 
-Please log in to your [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md). Then, on the creator's NFT Portfolio, click "Collect All".
+Please log in to your [Keplr](../../wallet/keplr/), [Cosmostation](../../wallet/cosmostation/), [Leap](../../wallet/leap/), [Keplr mobile](../../wallet/keplr-mobile/), [Cosmostation app](../../wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md). Then, on the creator's [Bookshelf](bookshelf.md), click "Collect All".
 
 <figure><img src="../../../.gitbook/assets/Collect All 1-en.png" alt=""><figcaption><p>Click "Collect All"</p></figcaption></figure>
 
