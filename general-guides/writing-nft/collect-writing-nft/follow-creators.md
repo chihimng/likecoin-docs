@@ -26,7 +26,7 @@ You will receive a confirmation email at your email address. Click the link in t
 
 ## Step 2: Follow the Creator
 
-On the left-hand column of the creator's [NFT Portfolio](nft-portfolio.md), click "Follow".
+On the left-hand column of the creator's [NFT Portfolio](bookshelf.md), click "Follow".
 
 <figure><img src="../../../.gitbook/assets/Follow 1-en.png" alt=""><figcaption><p>click "Follow"</p></figcaption></figure>
 

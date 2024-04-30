@@ -101,7 +101,7 @@
     * [One-Click Collect All Writing NFT](general-guides/writing-nft/collect-writing-nft/collect-all.md)
     * [Follow Creators](general-guides/writing-nft/collect-writing-nft/follow-creators.md)
     * [NFT Widget](general-guides/writing-nft/collect-writing-nft/nft-widget.md)
-    * [NFT Portfolio](general-guides/writing-nft/collect-writing-nft/nft-portfolio.md)
+    * [Bookshelf](general-guides/writing-nft/collect-writing-nft/bookshelf.md)
     * [My Dashboard](general-guides/writing-nft/collect-writing-nft/dashboard.md)
     * [Notifications](general-guides/writing-nft/collect-writing-nft/notifications.md)
     * [NFT Details](general-guides/writing-nft/collect-writing-nft/nft-details.md)

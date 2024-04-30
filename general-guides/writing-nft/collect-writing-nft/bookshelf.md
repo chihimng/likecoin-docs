@@ -2,11 +2,11 @@
 description: Check out other users' NFT collections
 ---
 
-# NFT Portfolio
+# Bookshelf
 
-Besides collecting via the [NFT Widget](nft-widget.md), collectors can also collect Writing NFTs from the creator's **NFT Portfolio** page (in the format https://liker.land/\[WalletAddress]). Creators and collectors can share the link to their collections through any channel.
+Besides collecting via the [NFT Widget](nft-widget.md), collectors can also collect Writing NFTs from the creator's **Public** **Bookshelf** page (in the format https://liker.land/\[WalletAddress]). Creators and collectors can share the link to their collections through any channel.
 
-The NFT Portfolio includes the following features:
+The Public Bookshelf includes the following features:
 
 ## Collected
 
@@ -45,6 +45,10 @@ Users can now view any NFT portfolio by applying different sorting algorithms, i
 * Creators
 
 <figure><img src="../../../.gitbook/assets/NFT Portfolio 6-en.png" alt=""><figcaption><p>Creators</p></figcaption></figure>
+
+* Keywords
+
+<figure><img src="../../../.gitbook/assets/NFT Portfolio 8-en.png" alt=""><figcaption></figcaption></figure>
 
 * By Type
 * By Price
