@@ -46,9 +46,9 @@ After viewing your followers, you can click on "Export my follower list" to expo
 
 ### Public Portfolio
 
-Click on Public Portfolio to directly link to your personal public [NFT Portfolio](nft-portfolio.md).
+Click on Public Portfolio to directly link to your personal [Public Bookshelf](nft-portfolio.md).
 
-<figure><img src="../../../.gitbook/assets/Dashboard 5-en.png" alt=""><figcaption><p>Public Portfolio</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Bookshelf-en.png" alt=""><figcaption><p>Public Bookshelf</p></figcaption></figure>
 
 ## Feature and Hide
 
