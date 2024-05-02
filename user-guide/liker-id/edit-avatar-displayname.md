@@ -32,8 +32,8 @@ Your name and avatar will appear in various [Liker Land](https://liker.land/) sc
 
 ### Bookshelf
 
-{% content-ref url="../../general-guides/writing-nft/collect-writing-nft/bookshelf.md" %}
-[bookshelf.md](../../general-guides/writing-nft/collect-writing-nft/bookshelf.md)
+{% content-ref url="../../depub/writing-nft/collect-writing-nft/bookshelf.md" %}
+[bookshelf.md](../../depub/writing-nft/collect-writing-nft/bookshelf.md)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Portfolio Liker ID.png" alt=""><figcaption><p>Bookshelf</p></figcaption></figure>

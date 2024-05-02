@@ -8,11 +8,11 @@ description: The blockchain of LikeCoin
 
 On **November 15, 2019**, LikeCoin upgraded from ERC-20 to the LikeCoin chain code name SheungWan based on the [Cosmos Hub](https://cosmos.network/) ecosystem.&#x20;
 
-On **August 18, 2021**, the LikeCoin chain upgraded to FoTan, which incorporates advanced features such as [International Standard Content Number (“ISCN”)](../decentralized-publishing/what-is-iscn.md), IBC (Inter-blockchain communication) and other features of [Stargate](https://stargate.cosmos.network/).
+On **August 18, 2021**, the LikeCoin chain upgraded to FoTan, which incorporates advanced features such as [International Standard Content Number (“ISCN”)](../../depub/what-is-iscn/), IBC (Inter-blockchain communication) and other features of [Stargate](https://stargate.cosmos.network/).
 
-On **July 21, 2022**, the LikeCoin chain upgraded to StarFerry. This upgrade features the [Writing NFT](../writing-nft/) module, and nft-related services, such as nft minting, blind box, and marketplace chain API.
+On **July 21, 2022**, the LikeCoin chain upgraded to StarFerry. This upgrade features the [Writing NFT](../../depub/writing-nft/) module, and nft-related services, such as nft minting, blind box, and marketplace chain API.
 
-On **June 5, 2023**, the LikeCoin chain upgraded to LikeCoin v4.0.0 ChungKing, enhanced NFT and [ISCN](../decentralized-publishing/what-is-iscn.md) functions, supported Ledger, minimum validator commission, group module multisig, etc.
+On **June 5, 2023**, the LikeCoin chain upgraded to LikeCoin v4.0.0 ChungKing, enhanced NFT and [ISCN](../../depub/what-is-iscn/) functions, supported Ledger, minimum validator commission, group module multisig, etc.
 
 
 

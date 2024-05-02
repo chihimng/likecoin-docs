@@ -14,23 +14,23 @@ description: Frequently Asked Questions
 * [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * [How to connect with other LikeCoin users in the community?](general-guides/community/)
 
-## [Writing NFT](general-guides/writing-nft/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+## [Writing NFT](depub/writing-nft/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
-* [FAQ](general-guides/writing-nft/)
+* [FAQ](depub/writing-nft/)
 
-## [Decentralized Publishing](general-guides/decentralized-publishing/) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+## [Decentralized Publishing](depub/decentralized-publishing.md) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
 * [What is Decentralized Publishing #DePub?](./)
 * [What is ISCN?](developer/iscn/)
-* [What is the relationship between ISCN and IPFS?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
-* [Why the decentralization nature of ISCN is good to content ecosystem?](general-guides/decentralized-publishing/benefits.md)
-* [Any cost for registering ISCN?](general-guides/decentralized-publishing/what-is-iscn.md)
-* [Is ISCN record permanent?](general-guides/decentralized-publishing/benefits.md)
-* [What will happen if the content is updated? Does ISCN support versioning?](general-guides/decentralized-publishing/what-is-iscn.md)
-* [Does ISCN support content stored on IPFS only?](general-guides/decentralized-publishing/iscn-ipfs-relationship.md)
-* [What type of content is supported by ISCN?](general-guides/decentralized-publishing/content-type.md)
-* [How to register a ISCN?](general-guides/decentralized-publishing/app.like.co/)
-* [Can I register for ISCN in a batch?](general-guides/decentralized-publishing/iscn-batch-uploader.md)
+* [What is the relationship between ISCN and IPFS?](depub/what-is-iscn/iscn-ipfs-relationship.md)
+* [Why the decentralization nature of ISCN is good to content ecosystem?](depub/what-is-iscn/benefits.md)
+* [Any cost for registering ISCN?](depub/what-is-iscn/)
+* [Is ISCN record permanent?](depub/what-is-iscn/benefits.md)
+* [What will happen if the content is updated? Does ISCN support versioning?](depub/what-is-iscn/)
+* [Does ISCN support content stored on IPFS only?](depub/what-is-iscn/iscn-ipfs-relationship.md)
+* [What type of content is supported by ISCN?](depub/what-is-iscn/content-type.md)
+* [How to register a ISCN?](depub/what-is-iscn/app.like.co/)
+* [Can I register for ISCN in a batch?](depub/what-is-iscn/iscn-batch-uploader.md)
 
 ## [Faucet](general-guides/faucet.md) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
 

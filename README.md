@@ -14,7 +14,7 @@ LikeCoin decentralizes publishing by allowing everyone to publish their content 
 
 ### Content Ownership
 
-Own your content by [publishing an NFT](general-guides/writing-nft/nft-portal/) on the LikeCoin chain.
+Own your content by [publishing an NFT](depub/writing-nft/nft-portal/) on the LikeCoin chain.
 
 ### Decentralize Publishing
 
@@ -26,7 +26,7 @@ LikeCoin envisions a future where digital content is transformed from “Web-nat
 
 ### Writing NFT
 
-NFT can be an email, an image, an identity, or a book. **LikeCoin** [**Writing NFT**](general-guides/writing-nft/) is designed especially for text-based content creation.
+NFT can be an email, an image, an identity, or a book. **LikeCoin** [**Writing NFT**](depub/writing-nft/) is designed especially for text-based content creation.
 
 Similar to the workflow of traditional publishing, i.e., securing content authorship -> printing the content in books -> selling in bookstore, creators can now register the content on the LikeCoin chain -> mint an NFT of it -> sell it in NFT marketplaces. Compared with the constraints in physical publishing, publishing content and exchanging value in the metaverse can be more flexible and everlasting.
 
@@ -75,12 +75,12 @@ Visit [here](https://about.like.co/apps) for more LikeCoin Dapps.
 ## More about LikeCoin
 
 * **Website**: [Like.co](https://like.co) ( for all stakeholders ), [Liker.Land](https://liker.land) ( NFT portal & widget ), [app.like.co](https://app.like.co/) ( NFT portal & widget ), [iscn.io](https://iscn.io/) ( ISCN Specifications )
-* \*\*\*\*[**Discord**](https://discord.gg/likecoin): Our community is here, talking about development and governance discussion
-* \*\*\*\*[**Twitter**](https://twitter.com/likecoin): \*\*\*\* announcements
-* \*\*\*\*[**Publication**](httsps://blog.like.co): progress update, governance, products
-* \*\*\*\*[**Telegram**](https://t.me/likecoin\_dao): announcements
-* [**GitHub**](https://github.com/likecoin): \*\*\*\* source codes
-* **Facebook**: \*\*\*\* [page](https://www.facebook.com/Liker.Land/) ( announcement ); [group](https://www.facebook.com/groups/likecoin) ( creators' sharing ); in Chinese
+* [**Discord**](https://discord.gg/likecoin): Our community is here, talking about development and governance discussion
+* [**Twitter**](https://twitter.com/likecoin): announcements
+* [**Publication**](httsps://blog.like.co): progress update, governance, products
+* [**Telegram**](https://t.me/likecoin\_dao): announcements
+* [**GitHub**](https://github.com/likecoin): source codes
+* **Facebook**: [page](https://www.facebook.com/Liker.Land/) ( announcement ); [group](https://www.facebook.com/groups/likecoin) ( creators' sharing ); in Chinese
 * [**Reddit**](https://www.reddit.com/r/LikeCoin/)
 
 ## Contact Us

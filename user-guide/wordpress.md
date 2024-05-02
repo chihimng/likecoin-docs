@@ -11,9 +11,9 @@ The current hassle to publish articles as NFTs: Creators needed to find ways to 
 The brand new LikeCoin [Web3Press plugin](https://wordpress.org/plugins/likecoin/) is tailor made for Gutenberg editor, which links up the WordPress website with Web3 by just one click and decentralized publishing can be actualized to the fullest. Its functions include:
 
 * Set the post title and tags as the NFT metadata automatically
-* One-click publishing to LikeCoin plus storage at [IPFS](https://ipfs.tech/) and [Arweave](https://www.arweave.org/) and register [ISCN](../general-guides/decentralized-publishing/what-is-iscn.md).
+* One-click publishing to LikeCoin plus storage at [IPFS](https://ipfs.tech/) and [Arweave](https://www.arweave.org/) and register [ISCN](../depub/what-is-iscn/).
 * On-chain and decentralized storage fees can be paid by LikeCoin in one go
-* After minting Writing NFT, a [NFT Widget](../general-guides/writing-nft/collect-writing-nft/nft-widget.md) is automatically embedded at the bottom of each post for readers to [collect Writing NFT](../general-guides/writing-nft/collect-writing-nft/) and Integrate [LikeCoin button](creator/).
+* After minting Writing NFT, a [NFT Widget](../depub/writing-nft/collect-writing-nft/nft-widget.md) is automatically embedded at the bottom of each post for readers to [collect Writing NFT](../depub/writing-nft/collect-writing-nft/) and Integrate [LikeCoin button](creator/).
 * Support [Internet Archive](https://archive.org/) auto backups
 
 Readers will get the access of an immutable content copy which is stored in distributed file system after buying an NFT. The copy can be regarded as the “true copy” in Web3.
@@ -70,7 +70,7 @@ The Convert Content to Writing NFT and Keplr windows will appear. On the Keplr p
 
 ### Step 2: Preview Writing NFT
 
-Preview your Writing NFT. If you want to add, change, or create an AI cover for the Writing NFT, click ":pencil2:". If you don't need to make any changes or if the article has no picture, the default OG picture of the article will be displayed or no picture will be displayed. You can also click ":pencil2:" to change the title and description of your Writing NFT. To learn more, please go to [Mint Writing NFT](../general-guides/writing-nft/nft-portal/). Then click "Next" to continue.
+Preview your Writing NFT. If you want to add, change, or create an AI cover for the Writing NFT, click ":pencil2:". If you don't need to make any changes or if the article has no picture, the default OG picture of the article will be displayed or no picture will be displayed. You can also click ":pencil2:" to change the title and description of your Writing NFT. To learn more, please go to [Mint Writing NFT](../depub/writing-nft/nft-portal/). Then click "Next" to continue.
 
 <figure><img src="../.gitbook/assets/W3Press mint 3.png" alt=""><figcaption><p>Change the cover, title and description of your Writing NFT and click "Next"</p></figcaption></figure>
 
@@ -98,7 +98,7 @@ The minting process is complete! A message saying "Complete!" will appear, indic
 
 <figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>Click "View NFT"</p></figcaption></figure>
 
-You can also check your creations on the Liker Land [My Dashboard](../general-guides/writing-nft/collect-writing-nft/dashboard.md).
+You can also check your creations on the Liker Land [My Dashboard](../depub/writing-nft/collect-writing-nft/dashboard.md).
 
 <figure><img src="../.gitbook/assets/W3Press mint 9-en.png" alt=""><figcaption><p>Check your creations on the Liker Land My Dashboard</p></figcaption></figure>
 

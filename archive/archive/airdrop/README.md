@@ -45,7 +45,7 @@ Click on Airdrop mission #1 and the introduction says:
 
 #### Manage LikeCoin
 
-You can manage your LikeCoin by [Keplr](../../../user-guide/liker-id/register-with-keplr.md) or [Liker Land app](../../../user-guide/liker-land/download.md). You can use LIKE to [DePub](../../../general-guides/decentralized-publishing/) on chain, [trade](../../../general-guides/trade/) in exchanges, [stake](../../../general-guides/stake/delegation-of-likecoin/) to earn reward, [vote](../../../general-guides/governance/direct-vote/) to participate in governance, and [reward creators](../../../user-guide/liker-land/like.md).
+You can manage your LikeCoin by [Keplr](../../../user-guide/liker-id/register-with-keplr.md) or [Liker Land app](../../../user-guide/liker-land/download.md). You can use LIKE to [DePub](../../../depub/decentralized-publishing.md) on chain, [trade](../../../general-guides/trade/) in exchanges, [stake](../../../general-guides/stake/delegation-of-likecoin/) to earn reward, [vote](../../../general-guides/governance/direct-vote/) to participate in governance, and [reward creators](../../../user-guide/liker-land/like.md).
 
 ![](<../../../.gitbook/assets/Airdrop 05.png>)
 
@@ -79,7 +79,7 @@ Click on Airdrop mission #2 and the introduction says:
 
 #### Decentralize Tweeting
 
-LikeCoin [decentralizes publishing](../../../general-guides/decentralized-publishing/). Own your content permanently by publishing on the chain, get rewarded directly from your readers. LikeCoin is a protocol where Dapps such as decentralized Twitter/ Instagram/ blog can be built on.
+LikeCoin [decentralizes publishing](../../../depub/decentralized-publishing.md). Own your content permanently by publishing on the chain, get rewarded directly from your readers. LikeCoin is a protocol where Dapps such as decentralized Twitter/ Instagram/ blog can be built on.
 
 ![](<../../../.gitbook/assets/Airdrop 11.png>)
 
@@ -87,7 +87,7 @@ Click "Next".
 
 #### Decentralzed Twitter
 
-Native on chain, privacy by default. Visit [https://depub.space/](https://depub.space/), a decentralized twitter running on IPFS. Connect with Keplr or Wallet Connect, tweet anything. The tweet will be published to LikeCoin chain with a unique [ISCN (International Standard Content Number)](../../../general-guides/decentralized-publishing/what-is-iscn.md). You will need a tiny amount of LIKE in your wallet to pay for gas.
+Native on chain, privacy by default. Visit [https://depub.space/](https://depub.space/), a decentralized twitter running on IPFS. Connect with Keplr or Wallet Connect, tweet anything. The tweet will be published to LikeCoin chain with a unique [ISCN (International Standard Content Number)](../../../depub/what-is-iscn/). You will need a tiny amount of LIKE in your wallet to pay for gas.
 
 ![](<../../../.gitbook/assets/Airdrop 12.png>)
 

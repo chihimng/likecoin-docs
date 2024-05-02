@@ -58,16 +58,16 @@ Connect to the payment page in the browser, with the format https://like.co/\[Li
 [delegation-of-likecoin](../stake/delegation-of-likecoin/)
 {% endcontent-ref %}
 
-{% content-ref url="../decentralized-publishing/app.like.co/" %}
-[app.like.co](../decentralized-publishing/app.like.co/)
+{% content-ref url="../../depub/what-is-iscn/app.like.co/" %}
+[app.like.co](../../depub/what-is-iscn/app.like.co/)
 {% endcontent-ref %}
 
-{% content-ref url="../writing-nft/nft-portal/" %}
-[nft-portal](../writing-nft/nft-portal/)
+{% content-ref url="../../depub/writing-nft/nft-portal/" %}
+[nft-portal](../../depub/writing-nft/nft-portal/)
 {% endcontent-ref %}
 
-{% content-ref url="../writing-nft/collect-writing-nft/" %}
-[collect-writing-nft](../writing-nft/collect-writing-nft/)
+{% content-ref url="../../depub/writing-nft/collect-writing-nft/" %}
+[collect-writing-nft](../../depub/writing-nft/collect-writing-nft/)
 {% endcontent-ref %}
 
 {% content-ref url="../../user-guide/depub.space/" %}
