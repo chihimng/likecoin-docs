@@ -96,6 +96,7 @@
     * [Dung Foo Kei](depub/nft-book-press/nft-book-platform/dungfookei.md)
     * [BookForest](depub/nft-book-press/nft-book-platform/bookforest.io.md)
 * [Writing NFT](depub/writing-nft/README.md)
+  * [Gift an NFT eBook](depub/writing-nft/gift.md)
   * [Collect Writing NFT](depub/writing-nft/collect-writing-nft/README.md)
     * [Collect Writing NFT by LIKE on desktop](depub/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
     * [Collect Writing NFT by LIKE on mobile](depub/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
