@@ -50,8 +50,30 @@ The Liker Land app utilizes Authcore as a sign-in solution. For more information
 Lastly, please note that all LikeCoin and Civic Liker referral programs ended on March 8, 2021.
 {% endhint %}
 
-## User Guide
+### User Guide
 
 {% content-ref url="../../../general-guides/wallet/like-pay.md" %}
 [like-pay.md](../../../general-guides/wallet/like-pay.md)
 {% endcontent-ref %}
+
+## Log in to Liker Land web with Liker ID register by general method ( with Authcore )
+
+Go to the upper right corner of the Liker Land website and click "Enter Store".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
+
+Click "Login".
+
+<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+
+Click Email/Social using Liker ID by email or social login
+
+<figure><img src="../../../.gitbook/assets/Authcore Login 1-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+
+Choose Google or Apple Login.
+
+<figure><img src="../../../.gitbook/assets/Authcore Login 2-en.png" alt=""><figcaption><p>Google or Apple Login.</p></figcaption></figure>
+
+If you need other login options, you can log in at [https://liker.land/zh-Hant/store/featured?authcore\_legacy=1](https://liker.land/zh-Hant/store/featured?authcore\_legacy=1).
+
+<figure><img src="../../../.gitbook/assets/Authcore Login 3-en.png" alt=""><figcaption><p>Legacy Login</p></figcaption></figure>
