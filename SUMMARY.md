@@ -240,7 +240,7 @@
   * [Export Seed Words](user-guide/liker-id/export-seed-words.md)
   * [Register Liker ID through the general method (with Authcore)](user-guide/liker-id/register/README.md)
     * [Securing my Liker ID](user-guide/liker-id/register/verifying-email-address.md)
-    * [Connecting to my social profile](user-guide/liker-id/register/social-media-logins.md)
+    * [Connecting to my social account](user-guide/liker-id/register/social-media-logins.md)
     * [Resetting password](user-guide/liker-id/register/reset-password.md)
     * [Manage logged in devices](user-guide/liker-id/register/devices.md)
     * [What is Authcore?](user-guide/liker-id/register/what-is-authcore.md)

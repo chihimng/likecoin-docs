@@ -1,18 +1,18 @@
 ---
 description: >-
-  Linking Google / Facebook / Twitter / Matters social logins, login easier and
-  increase security
+  Linking Google / Facebook / Twitter / Matters social account logins, login
+  easier and increase security
 ---
 
-# Connecting to my social profile
+# Connecting to my social account
 
 {% hint style="info" %}
 The followings are for [Liker ID registered through the general method (with Authcore)](./).
 {% endhint %}
 
-## Why Link Different Social Media Logins:
+## Why Link Different Social Account Logins:
 
-There are two benefits to linking your social media logins:
+There are two benefits to linking your social acount logins:
 
 1. You don't have to input your email address and password; just use your usual social media account to log in.
 2. Protect access to your Liker ID: If there is an issue with one of the login methods (e.g., forgetting the password or technical problems with the platform itself), you can still use other social media logins to access your Liker ID.
@@ -41,7 +41,7 @@ Click "AuthCore Settings".
 
 <figure><img src="../../../.gitbook/assets/authcore settings-en.png" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
 
-Click "Security settings" and "Social logins".
+Click "Security settings" and "Social Account login".
 
 ![Click "Security settings" and "Social logins"](../../../.gitbook/assets/social-media-logins-1-en.png)
 
