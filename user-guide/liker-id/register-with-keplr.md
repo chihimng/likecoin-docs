@@ -40,15 +40,17 @@ Install the Keplr wallet before registering your Liker ID. If you have already c
 
 ### Step 2: Login to Keplr
 
-Go to [https://liker.land/](https://liker.land/) and click "Connect Wallet" in the top right-hand corner.
+Go to the upper right corner of the Liker Land website and click "Enter Store".
 
+<figure><img src="../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
+Click "Login".
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 01-en.png" alt=""><figcaption><p>Click "Connect Wallet"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
-In the pop-up window, click "Keplr".
+A pop-up window appears, click Keplr to login to Liker Land.
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 02-en.png" alt=""><figcaption><p>Click "Keplr"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy NFT Connect 3-en.png" alt=""><figcaption><p>Click Keplr to login to Liker Land</p></figcaption></figure>
 
 In the Keplr pop-up window, click "Approve".
 
@@ -58,7 +60,7 @@ In the Keplr pop-up window, click "Approve".
 
 After logging in to [Liker Land](https://liker.land/), click "[Settings](https://liker.land/en/settings/)", then click "Liker ID".
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05-en.jpg" alt=""><figcaption><p>Click "Settings"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 05-en.png" alt=""><figcaption><p>Click "Settings"</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06-en.png" alt=""><figcaption><p>Click "Liker ID"</p></figcaption></figure>
 
