@@ -76,15 +76,9 @@ Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
 
 ### Step 2: Provide wallet address
 
-The reference code will appear, and at the same time, you will receive an email to claim your Writing NFT. Please follow the instructions to install the [Keplr](../../../general-guides/wallet/keplr/) wallet and reply to the email with your wallet address.
-
-<figure><img src="../../../.gitbook/assets/pay by card 4.png" alt=""><figcaption><p>The Writing NFT Reference Code</p></figcaption></figure>
+At the same time, you will receive an email to claim your Writing NFT. Please follow the instructions to install the [Keplr](../../../general-guides/wallet/keplr/) wallet and verify your email address. If you have any questions during the process, please contact [Liker Land customer service](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7).
 
 <figure><img src="../../../.gitbook/assets/pay by card 5.png" alt=""><figcaption><p>Email Instructions to claim Writing NFT</p></figcaption></figure>
-
-You will receive another email saying that the NFT has been sent to your wallet. If you have any questions during the process, please contact [Liker Land customer service](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7).
-
-<figure><img src="../../../.gitbook/assets/pay by card 6.png" alt=""><figcaption><p>The email states that the NFT has been sent to the wallet</p></figcaption></figure>
 
 ### Step 3: Check your NFT Collection
 
