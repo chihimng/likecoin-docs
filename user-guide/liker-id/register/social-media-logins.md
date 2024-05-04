@@ -43,7 +43,7 @@ Click "AuthCore Settings".
 
 Click "Security settings" and "Social Account login".
 
-![Click "Security settings" and "Social logins"](../../../.gitbook/assets/social-media-logins-1-en.png)
+![Click "Security settings" and "Social Account Login"](../../../.gitbook/assets/social-media-logins-1-en.png)
 
 Click on the social media login ( except Matters ), follow the on-screen instructions, and log in to your account.
 

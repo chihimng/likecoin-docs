@@ -71,8 +71,8 @@ On the login box, use your **email and password to login**. Please do not select
 
 ## **Step 6: Reset Social Logins**
 
-After login, go to [Social logins to reset your Google, Facebook, Twitter logins](social-media-logins.md).
+After login, go to [Social Account Logins to reset your Google, Facebook, Twitter logins](social-media-logins.md).
 
-![After login, go to Social logins to reset your Google, Facebook, Twitter logins](broken-reference)
+![After login, go to Social Account Login to reset your Google, Facebook, Twitter logins](../../../.gitbook/assets/social-media-logins-1-en.png)
 
 If the problem persists, please click on the green bubble at the lower right hand corner on [Liker Land](https://liker.land/) or [Like.co](https://like.co/) and find our Customer Service to help.
