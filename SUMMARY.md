@@ -89,6 +89,7 @@
 * [Decentralized Publishing](depub/decentralized-publishing.md)
 * [Publish NFT eBook](depub/nft-book-press/README.md)
   * [Manage NFT Books](depub/nft-book-press/nft-book-store.md)
+  * [Manage Book Collection](depub/nft-book-press/collection.md)
   * [Modify NFT eBook](depub/nft-book-press/modify-nft-ebook.md)
   * [Burn NFT eBook](depub/nft-book-press/burn-nft-ebook.md)
   * [FAQ: Listing Liker Land NFT eBooks](depub/nft-book-press/nft-book-press-faq.md)
