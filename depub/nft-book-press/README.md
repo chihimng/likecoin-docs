@@ -120,11 +120,9 @@ If you forget your ISCN ID, you can retrieve it in "[My Works](https://app.like.
 
 The system will automatically extract the basic information of ISCN for you. Fill in other information required in the "By filling required information" tab.
 
-Enter the number of NFTs to mint in the "Number of NFT to mint" field.
-
-If your book file is in ePub format, the system will automatically extract the link to the AR cover and place it in the "Image URL" column.
-
-"External URL (optional)" and "URI (optional)" do not need to be filled in.
+* Enter the number of NFTs to mint in the "Number of NFT to mint" field.
+* If your book file is in ePub format, the system will automatically extract the link to the AR cover and place it in the "Image URL" column.
+* "External URL (optional)", "URI (optional)", and "Max number of supply for this NFT Class (optional)" can be filled in as needed.
 
 After filling in and confirming that everything is correct, click "Mint". The Keplr wallet will pop up windows several times. Click "Approve" to sign.
 
@@ -146,21 +144,62 @@ Return to LikeCoin NFT BookPress, click "Continue to publish NFT Book", and the 
 If you accidentally closed the page, you can enter your NFT Class ID in [Step 1](./#register-iscn) "Enter ISCN ID or NFT Class ID", and you will see "Continue to publish NFT Book". The Class ID is the string after the URL of your NFT eBook. For example, your NFT URL is  https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x, and the NFT Class ID is likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mf z0yz57gffwsrgrasl2m59x.
 {% endhint %}
 
-The NFT Class ID and Total number of NFT for sale, which is the number of NFT eBooks that have been minted, automatically appear in the "New NFT Book Listing".
+The NFT Class ID of the minted NFT eBook appears in the New NFT Book Listing
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 22.png" alt=""><figcaption><p>The NFT Class ID and Total number of NFT for sale automatically appear in the "New NFT Book Listing"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 22.png" alt=""><figcaption><p>The NFT Class ID of the minted NFT eBook appears in the New NFT Book Listing</p></figcaption></figure>
 
-Enter the following in "Pricing and Availability":
+#### Pricing and Availability
 
-* Default display currency when user checkout: Pricing is USD or HKD.
-* Price (USD) of this book (Minimal 0.9 or free): The minimum price is 0.9 USD, or enter 0 for free.&#x20;
-* Total number of NFT for sale of this edition: Number of NFT eBooks for sales for this edition. Note that the "Total number of NFT for sale" refers to the number of NFT eBooks that have been minted, while the "Total number of NFT for sale of this edition" sets the sales quantity of this specific edition.
-* Product name of this edition: You can set the version of NFT according to your personal preferences, such as Standard Edition, Free Edition, etc. Click "Add Edition" in the upper right corner to add multiple different versions.
-* In "Product description of this edition", you can enter the Chinese and English description of the NFT eBook version.
+* Unit Price in USD (Minimum 0.99 or 0 for free) - The minimum price is 0.9 US dollars, or enter 0 to give it away for free.
+* Total number of NFT ebook/edition for sale - Fill in the sales quantity of this version of the NFT eBook. Suppose you minted 10 books, you can set 5 books as version one, and the other 5 books as version two, etc. Click "Add Edition" below to add multiple different versions. Note that the total number of NFT eBooks available for sale in each version cannot exceed the minted quantity.
+* Delivery method of this book
+  * Automatic deliver NFT - Automatically send the NFT eBook to the reader
+  * Sign memo and manually deliver each NFT - Sign and manually send the NFT eBook to the reader
+* Memo of this book - Automatically add a message to the reader when sending the NFT eBook
+* Allow custom price - Readers can provide [extra tip](../nft-ebook/#step-2-show-your-support-with-a-tip) to the author when purchasing the NFT eBook.
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 23.png" alt=""><figcaption><p>Enter information into "Pricing and Availability"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT Book Press 23.png" alt=""><figcaption><p>Pricing and Availability</p></figcaption></figure>
 
-In addition, users can also set whether to sell Physical Goods, Connect to your own Stripe Account, and whether the PDF file of the specified NFT eBook can be downloaded ("Disable file download for PDF"). Then click "Submit".
+#### Product Information
+
+* Product name - You can set the version of the NFT eBook according to personal preference, such as Standard Edition, Free version, etc.
+* Description (Optional) - You can enter a Chinese and English description of the NFT eBook version.
+
+#### Shipping Options
+
+Physical Goods - It means that the book version is a physical book, and the reader needs to pay for the shipping cost. This function can be selected after Advance Settings completed.
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 23a.png" alt=""><figcaption><p>Product Information and Shipping Options</p></figcaption></figure>
+
+#### Connect to a Stripe Account
+
+Click to start connecting to the Stripe account, see details:
+
+#### Email to receive sales notification
+
+Enter the email address that needs to receive sales notifications, then click “Add”.
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 23b.png" alt=""><figcaption><p>Connect to a Stripe Account and Email to receive sales notification</p></figcaption></figure>
+
+#### Advance Settings
+
+Click on Advance Settings to enter additional content:
+
+* Default Display Currency at Check out - Change the default US dollar settlement to Hong Kong dollars
+* Shipping Options - Add shipping cost options
+* Share sales data to wallets - Enter the email address that needs to receive sales data, then click “Add”
+* Send NFT Grant - If you choose Automatic deliver NFT, you need to click “Grant” to give permission so that Liker Land can automatically send the NFT eBook for you
+* DRM Options
+  * Force NFT claim before view - Selecting Must claim NFT to view means that readers must claim the NFT eBook to read
+  * Disable File Download - Selecting Disable Download means not allowing readers to download the NFT eBook, only allowing online reading.
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 23c.png" alt=""><figcaption><p>Advance Settings</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 23d.png" alt=""><figcaption><p>Shipping Options</p></figcaption></figure>
+
+After completing the settings, click "Submit". If the user chooses Automatic deliver NFT, a prompt will appear stating that once you choose to automatically send the NFT eBook to the reader, it cannot be changed to manual delivery. After confirming that it is correct, click "OK".
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 23e.png" alt=""><figcaption><p>Click "OK"</p></figcaption></figure>
 
 The version of the book will appear in "Current Listing".
 
