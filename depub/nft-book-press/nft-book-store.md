@@ -2,7 +2,7 @@
 description: Managing Published NFT eBooks
 ---
 
-# Manage NFT Books
+# Manage NFT eBooks
 
 After the book is published, if you would like to understand the sales overview or make more settings, you can use the Manage NFT Books. In addition to the settings for listing NFT eBooks, it also provides various additional management functions.
 
