@@ -88,10 +88,11 @@
 
 * [Decentralized Publishing](depub/decentralized-publishing.md)
 * [Publish NFT eBook](depub/nft-book-press/README.md)
-  * [Modify NFT E-book](depub/nft-book-press/modify-nft-ebook.md)
+  * [Manage NFT Books](depub/nft-book-press/nft-book-store.md)
+  * [Modify NFT eBook](depub/nft-book-press/modify-nft-ebook.md)
   * [Burn NFT eBook](depub/nft-book-press/burn-nft-ebook.md)
   * [FAQ: Listing Liker Land NFT eBooks](depub/nft-book-press/nft-book-press-faq.md)
-  * [Other NFT e-Book Platforms](depub/nft-book-press/nft-book-platform/README.md)
+  * [Other NFT eBook Platforms](depub/nft-book-press/nft-book-platform/README.md)
     * [Terminus Press](depub/nft-book-press/nft-book-platform/terminuspress.md)
     * [Dung Foo Kei](depub/nft-book-press/nft-book-platform/dungfookei.md)
     * [BookForest](depub/nft-book-press/nft-book-platform/bookforest.io.md)

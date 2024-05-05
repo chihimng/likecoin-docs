@@ -52,7 +52,7 @@ Enter the message you want to leave for the author, and after completion, click 
 
 ## Step 8: Successfully Claim the eBook
 
-A page appears saying you have successfully claimed the eBook, you can also click ‘View Collection’ to check the NFT eBooks you have purchased.
+A page appears saying you have successfully claimed the eBook, you can also click "View Collection" to check the NFT eBooks you have purchased.
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 9-en.png" alt=""><figcaption><p>You have successfully claimed your eBook page appears</p></figcaption></figure>
 

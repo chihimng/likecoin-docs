@@ -18,7 +18,7 @@ Publishing an NFT eBook on the blockchain involves the following processes:
 
 ## Create an epub file and enter metadata
 
-Create an [ePub](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../what-is-iscn/). First, create the ePub file for the e-book, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. Taking the commonly used ePub editing software as an example:
+Create an [ePub](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../what-is-iscn/). First, create the ePub file for the eBook, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. Taking the commonly used ePub editing software as an example:
 
 #### calibre
 
@@ -106,7 +106,7 @@ Listing for sale is divided into two steps: minting the NFT eBook and listing it
 
 ### Step 1: Mint the NFT eBook
 
-Visit the [LikeCoin NFT BookPress](https://likecoin.github.io/nft-book-press/) website, click "Mint NFT", enter the website, and click the "Connect Wallet" link in the upper right corner to connect with Keplr.
+Visit the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Mint NFT", enter the website, and click the "Connect Wallet" link in the upper right corner to connect with Keplr.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>Visit the LikeCoin NFT BookPress website, click "Mint NFT"</p></figcaption></figure>
 
@@ -187,7 +187,7 @@ Click on Advance Settings to enter additional content:
 
 * Default Display Currency at Check out - Change the default US dollar settlement to Hong Kong dollars
 * Shipping Options - Add shipping cost options
-* Share sales data to wallets - Enter the email address that needs to receive sales data, then click “Add”
+* Share sales data to wallets - Enter the wallet address that needs to receive sales data, then click “Add”
 * Send NFT Grant - If you choose Automatic deliver NFT, you need to click “Grant” to give permission so that Liker Land can automatically send the NFT eBook for you
 * DRM Options
   * Force NFT claim before view - Selecting Must claim NFT to view means that readers must claim the NFT eBook to read

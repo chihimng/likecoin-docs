@@ -114,7 +114,7 @@ If you encounter problems during the purchase process, please go to the settings
 
 **Step 7**: Return to the Liker Land app and click "Approve".
 
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 7-en.png" alt=""><figcaption><p>Return to the Liker Land app and click "Approve'</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 7-en.png" alt=""><figcaption><p>Return to the Liker Land app and click "Approve"</p></figcaption></figure>
 
 **Step 8**: You will be redirected back to the browser. Click "CONFIRM" again.
 
