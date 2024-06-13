@@ -2,6 +2,18 @@
 
 {% tabs %}
 {% tab title="2024" %}
+### 06/13 北美館開放網絡計畫 TFAM Net.Open
+
+[圓桌討論II. 文化行動者的多元宇宙（二）：價值、機制與市場](https://www.facebook.com/events/1819047261905202/?post\_id=1824368538039741\&view=permalink)
+
+### 06/07 突破機構50周年「在這裏 為彼此 #HereWeAre」研討會
+
+[第二場：『與青少年有份，共同參與互惠創路』@ 16:10 – 17:30](https://www.facebook.com/breakthrough.hk/posts/pfbid02MMAmNfX4JLZzshBjbXYKKJdw3utjxLNg53BqgSDM7qgLSeJeA36sjnM5EjSYcUEMl)
+
+### 05/02 區塊鏈3.0 COSMOS跨鏈生態
+
+[Twitter Space](https://x.com/i/spaces/1zqKVqOVQvmxB/peek)
+
 ### 03/28 nDX Meetup
 
 [灣新聞數位創新計畫（nDX）](https://ndx.dta.tw/%E6%95%B8%E4%BD%8D%E7%B6%93%E6%BF%9F%E6%9A%A8%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95%E5%8D%94%E6%9C%83%EF%BC%88dta%EF%BC%89%E4%BB%8A%E6%97%A5%E8%88%89%E8%BE%A6%E5%AA%92%E9%AB%94%E4%BA%A4%E6%B5%81ndx-meet/)
