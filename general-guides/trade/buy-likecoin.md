@@ -28,7 +28,7 @@ Refers to [🔰 莎莎日常｜萌新教學手冊：簡易出入金 LikeCoin 的
 
 ### HKD ( Hong Kong only ) -> Direct purchase LIKE
 
-Go to [MyEthShop](registering-and-trade-in-myethshop.md) to buy LIKE directly in HKD.
+Go to [MyEthShop](myethshop.md) to buy LIKE directly in HKD.
 
 ### Fiat currency -> LIKE OTC
 

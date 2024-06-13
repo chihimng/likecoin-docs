@@ -190,7 +190,7 @@
   * [Trade in Osmosis](general-guides/trade/trade-in-osmosis.md)
   * [Registering on DigiFinex](general-guides/trade/registering-on-digifinex.md)
   * [Trade in DigiFinex](general-guides/trade/trade-in-digifinex.md)
-  * [Register and Trade in MyEthShop](general-guides/trade/registering-and-trade-in-myethshop.md)
+  * [Trade in MyEthShop](general-guides/trade/myethshop.md)
   * [OTC](general-guides/trade/otc.md)
 * [Liquidity](general-guides/liquidity/README.md)
   * [Osmosis](general-guides/liquidity/osmosis.md)
