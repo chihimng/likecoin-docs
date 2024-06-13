@@ -167,13 +167,26 @@ The NFT Class ID of the minted NFT eBook appears in the New NFT Book Listing
 
 #### Shipping Options
 
-Physical Goods - It means that the book version is a physical book, and the reader needs to pay for the shipping cost. This function can be selected after Advance Settings completed.
+Physical Goods - After selecting “Includes physical good that requires shipping,” it indicates that the book version is a physical copy, and readers will need to pay for shipping. Click “View Current Shipping Options” to see the currently available delivery methods.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23a.png" alt=""><figcaption><p>Product Information and Shipping Options</p></figcaption></figure>
+
+**Shipping Options Info**
+
+* Name of the shipping option - Fill in the name of the shipping method in both Chinese and English.
+* Price(USD) of this shipping option - Specify the cost of this shipping method in US dollars.
+
+Click “Set Shipping Options” to save this shipping method, and click “Add Options” to add more shipping methods. Once done, click “Save.”
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 23f.png" alt=""><figcaption><p>Shipping Options</p></figcaption></figure>
 
 #### Connect to a Stripe Account
 
 Click to start connecting to the Stripe account, see details:
+
+{% content-ref url="stripe.md" %}
+[stripe.md](stripe.md)
+{% endcontent-ref %}
 
 #### Email to receive sales notification
 
@@ -185,17 +198,28 @@ Enter the email address that needs to receive sales notifications, then click �
 
 Click on Advance Settings to enter additional content:
 
-* Default Display Currency at Check out - Change the default US dollar settlement to Hong Kong dollars
+* Default Display Currency at Check out - Change the default US dollar display to Hong Kong dollars
 * Shipping Options - Add shipping cost options
 * Share sales data to wallets - Enter the wallet address that needs to receive sales data, then click “Add”
-* Send NFT Grant - If you choose Automatic deliver NFT, you need to click “Grant” to give permission so that Liker Land can automatically send the NFT eBook for you
+* Send NFT Grant - If you choose “Automatic deliver NFT,” Liker Land will automatically be granted with permission to send the NFT eBook to you.
 * DRM Options
   * Force NFT claim before view - Selecting Must claim NFT to view means that readers must claim the NFT eBook to read
+  * Insert cutomized message page in eBook - Automatically insert  custom message into NFT eBooks.
   * Disable File Download - Selecting Disable Download means not allowing readers to download the NFT eBook, only allowing online reading.
+* Coupon Codes - Click "Add New" to set up various kind of coupons:
+  * Coupon Code - Set the name of the coupon
+  * Discount Multiplier - Range of Discount. For example, 10% is a 10% discount
+  * Expiry Date - The end date of the offer
+  * After setting up, click "Add" to add the coupon.
+* Copy Purchase Link - Set up the purchase link
+  * Price - Choose a version of the NFT eBook
+  * Sales channel for this link - Enter a name, set up an exclusive purchase link for your sales channel to promote
+  * Copy Purchase Link - Click "Copy Purchase Link" to copy the exclusive link for the sales channel
+  * Purchase Link QR Code - Click "Download" to download the QR Code of the exclusive link
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23c.png" alt=""><figcaption><p>Advance Settings</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 23d.png" alt=""><figcaption><p>Shipping Options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage NFT Books 6.png" alt=""><figcaption><p>Coupon Codes</p></figcaption></figure>
 
 After completing the settings, click "Submit". If the user chooses Automatic deliver NFT, a prompt will appear stating that once you choose to automatically send the NFT eBook to the reader, it cannot be changed to manual delivery. After confirming that it is correct, click "OK".
 

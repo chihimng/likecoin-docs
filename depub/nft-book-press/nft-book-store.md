@@ -35,19 +35,3 @@ NFT Book Status \[Book Title] shows the NFT eBook being managed.
 * Sales Channel Summary - View the summary from various different sales channels.
 
 <figure><img src="../../.gitbook/assets/Manage NFT Books 4.png" alt=""><figcaption><p>Sales Channel Summary</p></figcaption></figure>
-
-* Coupon Codes - Set up various kind of coupons:
-  1. Coupon Code - Set the name of the coupon
-  2. Discount Multiplier - Range of Discount. For example, 10% is a 10% discount
-  3. Expiry Date - The end date of the offer
-  4. After setting up, click "Add" to add the coupon.
-
-<figure><img src="../../.gitbook/assets/Manage NFT Books 6.png" alt=""><figcaption><p>Coupon Codes</p></figcaption></figure>
-
-* Copy Purchase Link - Set up the purchase link
-  1. Price - Choose a version of the NFT eBook
-  2. Sales channel for this link - Enter a name, set up an exclusive purchase link for your sales channel to promote
-  3. Copy Purchase Link - Click "Copy Purchase Link" to copy the exclusive link for the sales channel
-  4. Purchase Link QR Code - Click "Download" to download the QR Code of the exclusive link
-
-<figure><img src="../../.gitbook/assets/Manage NFT Books 5.png" alt=""><figcaption><p>Copy Purchase Link</p></figcaption></figure>
