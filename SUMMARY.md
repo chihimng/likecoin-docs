@@ -90,6 +90,7 @@
 * [Publish NFT eBook](depub/nft-book-press/README.md)
   * [Manage NFT eBooks](depub/nft-book-press/nft-book-store.md)
   * [Manage Book Collection](depub/nft-book-press/collection.md)
+  * [NFT eBooks Replenishment](depub/nft-book-press/replenishment.md)
   * [Manage Stripe Account](depub/nft-book-press/stripe.md)
   * [Modify NFT eBook](depub/nft-book-press/modify-nft-ebook.md)
   * [Burn NFT eBook](depub/nft-book-press/burn-nft-ebook.md)
