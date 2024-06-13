@@ -4,7 +4,7 @@ description: The blockchain of LikeCoin
 
 # LikeCoin chain
 
-[LikeCoin chain](https://www.mintscan.io/likecoin) is a distributed ledger of the DAO, the open government of Liker Land. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on the LikeCoin chain is open and can be visualized on [Big Dipper](../../archive/archive/wallet/big-dipper.md) and [Mintscan](../wallet/block-explorer/mintscan.md).
+[LikeCoin chain](https://www.mintscan.io/likecoin) is a distributed ledger of the DAO, the open government of Liker Land. A sovereign, application specific blockchain designed for content creation and information property management, offering high-speed, low cost and most importantly, independence. Data on the LikeCoin chain is open and can be visualized on [Big Dipper](../../archive/archive/wallet/big-dipper.md) and [Mintscan](../../archive/archive/wallet/mintscan.md).
 
 On **November 15, 2019**, LikeCoin upgraded from ERC-20 to the LikeCoin chain code name SheungWan based on the [Cosmos Hub](https://cosmos.network/) ecosystem.&#x20;
 

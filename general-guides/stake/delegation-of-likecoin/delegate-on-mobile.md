@@ -36,7 +36,7 @@ The estimated [transaction fee](../../wallet/transaction-fee.md) is displayed; c
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile delegate 5.png" alt=""><figcaption><p>The estimated transaction fee is displayed; click "Approve" to complete the delegation</p></figcaption></figure>
 
-You will see "Transaction pending" and then "Transaction successful", indicating that the delegation is complete. Click "Confirm" to return to the homepage or "View on Mintscan" to check the details on [Mintscan](../../wallet/block-explorer/mintscan.md).
+You will see "Transaction pending" and then "Transaction successful", indicating that the delegation is complete. Click "Confirm" to return to the homepage or "View on Mintscan" to check the details on [Mintscan](../../../archive/archive/wallet/mintscan.md).
 
 <div>
 

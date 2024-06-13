@@ -34,8 +34,6 @@ Click "Send" in the Cosmostation app.
 
 ### Step 2
 
-
-
 In the blank space, enter the wallet address of the receiver. Click "Wallet" to call up another wallet address within the Cosmostation app, click "Scan" to scan the wallet QR code, or click "Paste" to fill in the copied wallet address. Then, click "Next".
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile send 2.png" alt=""><figcaption><p>Enter the wallet address of the receiver and click "Next"</p></figcaption></figure>
@@ -72,7 +70,7 @@ Enter the PIN to confirm.
 
 ### Step 8
 
-The transfer is complete and transaction details are displayed. Press "Share" to share or "Explorer" to view the details in the [Mintscan block explorer](../block-explorer/mintscan.md). Click "Done" when finished.
+The transfer is complete and transaction details are displayed. Press "Share" to share or "Explorer" to view the details in the [Mintscan block explorer](../../../archive/archive/wallet/mintscan.md). Click "Done" when finished.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile send 8.png" alt=""><figcaption><p>The transfer is complete and transaction details are displayed</p></figcaption></figure>
 
