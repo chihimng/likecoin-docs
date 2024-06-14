@@ -2,7 +2,7 @@
 description: Add or modify user settings
 ---
 
-# User Setting
+# Manage User Setting
 
 Visit the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Manage User Setting", enter the website, and click the "Connect Wallet" link in the upper right corner to connect with Keplr.
 

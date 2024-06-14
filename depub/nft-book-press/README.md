@@ -184,8 +184,8 @@ Click “Set Shipping Options” to save this shipping method, and click “Add 
 
 Click to start connecting to the Stripe account, see details:
 
-{% content-ref url="user-setting/stripe.md" %}
-[stripe.md](user-setting/stripe.md)
+{% content-ref url="manage-user-setting/stripe.md" %}
+[stripe.md](manage-user-setting/stripe.md)
 {% endcontent-ref %}
 
 #### Email to receive sales notification
