@@ -76,7 +76,7 @@ In addition, if you want to reserve some Writing NFT for yourself or change the 
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 5-3.png" alt=""><figcaption><p>Edit Writing NFT Creator message and click "More settings"</p></figcaption></figure>
 
-In the "Number of NFTs to premint" field, you can enter the quantity of NFTs to be pre-minted, ranging from 0 to 255.
+In the "Number of NFTs to mint" field, you can enter the quantity of NFTs to be minted, ranging from 0 to 255.
 
 In the "Numbers of NFTs reserved for giveaways" field, you can reserve a quantity of NFTs (ranging from 0 to 255) for giveaways.
 
@@ -84,7 +84,7 @@ Clicking "Reserve All" will reserve all the pre-minted NFTs and those reserved f
 
 In the Sales Settings, you can set the initial price for the Writing NFTs, which can be All Free, $1, $2, $4, $8, $16, $32, $64, $128, $256. "All Free" means allowing collecters to freely mint NFTs on their own, they just have to pay [transaction fee](../../../general-guides/wallet/transaction-fee.md) . If not configured, the default initial price is set at $1.&#x20;
 
-<figure><img src="../../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>Enter the number of Writing NFT to premint and reserve for giveaways, then set the initial price</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portal 5-4.png" alt=""><figcaption><p>Enter the number of Writing NFT to mint and reserve for giveaways, then set the initial price</p></figcaption></figure>
 
 In addition, you can also set a deadline of collection, after which collectors will not be able to collect the NFT.
 
