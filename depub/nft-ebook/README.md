@@ -34,7 +34,7 @@ A page pops up saying Thank you for your support, click "Start Claiming my eBook
 
 ## Step 5: Connect Liker Land Account
 
-Click "Sign Up", "Or log in with another method" to register or log in to your Liker Land account.
+Click "Sign Up with Email", "Or log in with another method" to register or log in to your Liker Land account.
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 6-en.png" alt=""><figcaption><p>Register or Log in to your Liker Land account</p></figcaption></figure>
 
