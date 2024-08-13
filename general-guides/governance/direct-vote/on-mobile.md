@@ -100,6 +100,6 @@ Enter the PIN to confirm.
 
 ### Step 8: Check your vote
 
-The voting is complete and transaction details are displayed. Press "Share" to share or "Explorer" to view the details in the Mintscan block explorer. Click "Done" when finished.
+The voting is complete and transaction details are displayed. Click "Done" when finished.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile vote 8.png" alt=""><figcaption><p>Voting completed, press "Share", "Explorer" or "Done"</p></figcaption></figure>

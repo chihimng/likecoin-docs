@@ -36,7 +36,7 @@ The estimated [transaction fee](../../wallet/transaction-fee.md) is displayed; c
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile delegate 5.png" alt=""><figcaption><p>The estimated transaction fee is displayed; click "Approve" to complete the delegation</p></figcaption></figure>
 
-You will see "Transaction pending" and then "Transaction successful", indicating that the delegation is complete. Click "Confirm" to return to the homepage or "View on Mintscan" to check the details on [Mintscan](../../../archive/archive/wallet/mintscan.md).
+You will see "Transaction pending" and then "Transaction successful", indicating that the delegation is complete. Click "Confirm" to return to the homepage.
 
 <div>
 
@@ -118,7 +118,7 @@ Enter the PIN to confirm.
 
 ### Step 7: Check your delegation
 
-The delegation is complete and transaction details are displayed. Press "Share" to share or "Explorer" to view the details in the Mintscan block explorer. Click "Done" when finished.
+The delegation is complete and transaction details are displayed. Click "Done" when finished.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile delegate 9.png" alt=""><figcaption><p>Delegation completed, press "Share", "Explorer" or "Done"</p></figcaption></figure>
 

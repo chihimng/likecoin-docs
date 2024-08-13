@@ -70,7 +70,7 @@ Enter the PIN to confirm.
 
 ### Step 8
 
-The transfer is complete and transaction details are displayed. Press "Share" to share or "Explorer" to view the details in the [Mintscan block explorer](../../../archive/archive/wallet/mintscan.md). Click "Done" when finished.
+The transfer is complete and transaction details are displayed. Click "Done" when finished.
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile send 8.png" alt=""><figcaption><p>The transfer is complete and transaction details are displayed</p></figcaption></figure>
 

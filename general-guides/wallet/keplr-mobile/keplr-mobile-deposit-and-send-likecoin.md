@@ -30,7 +30,7 @@ On the confirmation screen, review the details again and click "Approve".
 
 <figure><img src="../../../.gitbook/assets/Keplr mobile send 3.png" alt=""><figcaption><p>Click "Approve"</p></figcaption></figure>
 
-You will see "Transaction pending" then "Transaction successful" indicating that the transfer is complete. Click "Confirm" and return to homepage or "View on Mintscan" to check on details on [Mintscan](../../../archive/archive/wallet/mintscan.md).
+You will see "Transaction pending" then "Transaction successful" indicating that the transfer is complete. Click "Confirm" and return to homepage.
 
 <div>
 
