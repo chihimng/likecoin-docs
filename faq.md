@@ -81,7 +81,7 @@ description: Frequently Asked Questions
 
 ### [Liker Land](user-guide/liker-land/)
 
-* [What can I do on the Liker Land app?](user-guide/liker-land/)
+* [What can I do on the LikeCoin app?](user-guide/liker-land/)
 * [What is "Reinventing the Like"? How does the "Reinventing the Like" Decentralized Rewards work? Where does money come from?](user-guide/liker-land/like.md)
 * [What is Super Like?](user-guide/liker-land/superlike.md)
 

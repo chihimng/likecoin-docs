@@ -26,7 +26,7 @@ Creators can copy the URL of any webpage, paste it to [**NFT Portal** website a.
 >
 > #### Publish Writing NFT with an article URL by [Cosmostation app](cosmostation-app.md)
 >
-> #### Publish Writing NFT with an article URL by [Liker Land app](likecoin-app.md)
+> #### Publish Writing NFT with an article URL by [LikeCoin app](likecoin-app.md)
 
 ### **Option 3**: Publish Writing NFT with ISCN ID
 
