@@ -20,9 +20,9 @@ Click on the link that appears.
 
 ## Step 3
 
-User will be guide to this page, click "Use Keplr" or "Liker ID Sign In" to log in with [Keplr Browser Extension](../../general-guides/wallet/keplr/) or [Liker Land app](../liker-land/download.md) and approve to confirm posting.
+User will be guide to this page, click "Use Keplr" or "Liker ID Sign In" to log in with [Keplr Browser Extension](../../general-guides/wallet/keplr/) or [LikeCoin app](../liker-land/download.md) and approve to confirm posting.
 
-![User will be guide to this page, click "Use Keplr" or "Liker ID Sign In" to log in with Keplr Browser Extension or Liker Land app and approve to confirm posting](<../../.gitbook/assets/discord depub.space 03.png>)
+![User will be guide to this page, click "Use Keplr" or "Liker ID Sign In" to log in with Keplr Browser Extension or LikeCoin app and approve to confirm posting](<../../.gitbook/assets/discord depub.space 03.png>)
 
 ## Step 4
 

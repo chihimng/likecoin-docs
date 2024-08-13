@@ -43,7 +43,7 @@ For [Keplr Browser Extension](../../wallet/keplr/), [Cosmostation Browser Extens
 
 Using a mobile browser with [dao.like.co](../../wallet/block-explorer/dao.like.co.md) can delegate by [Authcore](../../../user-guide/liker-id/register/).
 
-You can also use Keplr Mobile, [Cosmostation app](./#delegate-via-cosmostation-app) and [Liker Land app](./#delegate-via-liker-land) to delegate.
+You can also use Keplr Mobile, [Cosmostation app](./#delegate-via-cosmostation-app) and [LikeCoin app](./#delegate-via-liker-land) to delegate.
 
 {% content-ref url="delegate-on-mobile.md" %}
 [delegate-on-mobile.md](delegate-on-mobile.md)

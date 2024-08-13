@@ -4,7 +4,7 @@ description: Please follow the steps carefully
 
 # Upgrade LikeCoin ERC-20 to LikeCoin chain
 
-[LikeCoin](https://like.co/) has been migrated from the ERC-20 to the Cosmos Ecosystem's [LikeCoin chain](../../governance/likecoin-chain.md), and users no longer need to use the MetaMask wallet to log in. Instead, they should use the [Liker Land app](../../../user-guide/liker-land/download.md) or [Keplr](../../../developer/likecoin-chain-api/sample/cosmjs/keplr.md). This document is only for legacy users who created a Liker ID with MetaMask but did not complete the Liker ID migration process.
+[LikeCoin](https://like.co/) has been migrated from the ERC-20 to the Cosmos Ecosystem's [LikeCoin chain](../../governance/likecoin-chain.md), and users no longer need to use the MetaMask wallet to log in. Instead, they should use the [LikeCoin app](../../../user-guide/liker-land/download.md) or [Keplr](../../../developer/likecoin-chain-api/sample/cosmjs/keplr.md). This document is only for legacy users who created a Liker ID with MetaMask but did not complete the Liker ID migration process.
 
 Please note that all upgrade procedures must be done on a desktop computer and are not supported on mobile devices.
 
@@ -74,11 +74,11 @@ After the migration is completed, you can check your LikeCoin balance at [https:
 
 ![Check your LikeCoin balance at https://like.co/in](../../../.gitbook/assets/likecoin-migration-6.png)
 
-### Step 5: Download the Liker Land app <a href="#download-the-liker-land-mobile-app" id="download-the-liker-land-mobile-app"></a>
+### Step 5: Download the LikeCoin app <a href="#download-the-liker-land-mobile-app" id="download-the-liker-land-mobile-app"></a>
 
-Please visit the Google Play Store or Apple App Store to [download the Liker Land app](../../../user-guide/liker-land/download.md). Log in using your social account and check your balance on the app. You can also perform various LikeCoin operations, such as transfers and delegation, on the app.
+Please visit the Google Play Store or Apple App Store to [download the LikeCoin app](../../../user-guide/liker-land/download.md). Log in using your social account and check your balance on the app. You can also perform various LikeCoin operations, such as transfers and delegation, on the app.
 
-![Download the Liker Land app to check your LikeCoin balanace](../../../.gitbook/assets/likecoin-migration-7.png)
+![Download the LikeCoin app to check your LikeCoin balanace](../../../.gitbook/assets/likecoin-migration-7.png)
 
 ## Liker ID Bonded with MetaMask but Not with Social Accounts
 
