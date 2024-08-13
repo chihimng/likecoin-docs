@@ -12,7 +12,7 @@ Transferring Writing NFT is demonstrated as follows:
 
 ## Step 1: Login and transfer
 
-Log in to [Liker Land](https://liker.land/) with your [Keplr Browser Extension](../../../general-guides/wallet/keplr/), [Cosmostation Browser Extension](../../../general-guides/wallet/cosmostation/), [Leap Browser Extension](../../../general-guides/wallet/leap/), [Cosmostation app](../../../general-guides/wallet/cosmostation-app/) or [Liker Land app](../../../user-guide/liker-land/download.md). Then, click on the NFT that needs to be transferred and check how many of them you own. Click "Transfer".
+Log in to [Liker Land](https://liker.land/) with your [Keplr Browser Extension](../../../general-guides/wallet/keplr/), [Cosmostation Browser Extension](../../../general-guides/wallet/cosmostation/), [Leap Browser Extension](../../../general-guides/wallet/leap/), [Cosmostation app](../../../general-guides/wallet/cosmostation-app/) or [LikeCoin app](../../../user-guide/liker-land/download.md). Then, click on the NFT that needs to be transferred and check how many of them you own. Click "Transfer".
 
 <figure><img src="../../../.gitbook/assets/NFT Transfer 1-en.png" alt=""><figcaption><p>Click "Transfer" to start transferring Writing NFT</p></figcaption></figure>
 
@@ -50,13 +50,13 @@ A signature request will show up on your phone. Click "Confirm" to complete the 
 
 <figure><img src="../../../.gitbook/assets/NFT Transfer 10.png" alt=""><figcaption><p>Cosmostation app window pops up click "Confirm" to confirm the transfer</p></figcaption></figure>
 
-#### Transfer Writing NFT on Liker Land app
+#### Transfer Writing NFT on LikeCoin app
 
 A signature request will show up on your phone. Click "Approve" to complete the transfer.
 
 <figure><img src="../../../.gitbook/assets/NFT Transfer 9-en.png" alt=""><figcaption><p>The desktop computer displays the window of Transfer Your NFT</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/NFT Transfer 6-en.png" alt=""><figcaption><p>Liker Land app window pops up click "Approve" to confirm the transfer</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Transfer 6-en.png" alt=""><figcaption><p>LikeCoin app window pops up click "Approve" to confirm the transfer</p></figcaption></figure>
 
 ## Step 4: Successful transfer
 

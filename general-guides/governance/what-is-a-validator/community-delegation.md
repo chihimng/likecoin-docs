@@ -30,7 +30,7 @@ B. Write an application post in the channel #📥｜apply-for-delegation, The ap
 * Your current commission rate and commission policy.
 * (Optional) Twitter, website or any other popular communication channels which make yourself be more visible.
 
-You are encouraged to update your icon, website, twitter and intro on Block explorer such as BigDipper and Mintscan, although it is not a mandatory requirement for applying community delegation. You are also welcomed to introduce yourself in the #mainnet-validators channel and LikeCoin [community call](../community-call.md).
+You are encouraged to update your icon, website, twitter and intro on Block explorer such as [Ping.pub](../../wallet/block-explorer/ping.pub.md), although it is not a mandatory requirement for applying community delegation. You are also welcomed to introduce yourself in the #mainnet-validators channel and LikeCoin [community call](../community-call.md).
 
 Please note validators' application for community fund cut off day is on the 15th 1200 GMT+8 of each month. The committee will then process the applications in batch and make a decision by the 21st 1200 GMT+8 of each month. Redelegation of community funds will be proceeded afterwards
 

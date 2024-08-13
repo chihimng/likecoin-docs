@@ -1,22 +1,22 @@
 ---
-description: Where to download Liker Land?
+description: Where to download LikeCoin app?
 ---
 
-# Download Liker Land
+# Download LikeCoin app
 
-![Liker Land app](../../.gitbook/assets/likecoin\_ad72\_appstore4\_fullpic\_en.png)
+![LikeCoin app](../../.gitbook/assets/likecoin\_ad72\_appstore4\_fullpic\_en.png)
 
-* Download Liker Land from [Google Play](https://play.google.com/store/apps/details?id=com.oice) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)
+* Download LikeCoin app from [Google Play](https://play.google.com/store/apps/details?id=com.oice) or [App Store](https://apps.apple.com/hk/app/liker-land/id1248232355)
 * For users in China or Android devices without Google Play, you can download the [APK on GitHub](https://github.com/likecoin/likecoin-app/releases)
-* [Once you have download Liker Land](https://liker.land/getapp), please proceed to register a Liker ID.
+* [Once you have download LikeCoin app](https://liker.land/getapp), please proceed to register a Liker ID.
 
 {% content-ref url="../liker-id/" %}
 [liker-id](../liker-id/)
 {% endcontent-ref %}
 
-Log in to the Liker Land mobile app and you can find the following:
+Log in to the LikeCoin app and you can find the following:
 
-<figure><img src="../../.gitbook/assets/Liker Land app menu.png" alt=""><figcaption><p>Liker Land app menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land app menu.png" alt=""><figcaption><p>LikeCoin app menu</p></figcaption></figure>
 
 ## Option 1: Wallet
 

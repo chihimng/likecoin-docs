@@ -1,8 +1,8 @@
 ---
-description: Publish Writing NFT with an article URL by Liker Land app
+description: Publish Writing NFT with an article URL by LikeCoin app
 ---
 
-# Liker Land app
+# LikeCoin app
 
 ## Login to NFT Portal&#x20;
 
@@ -14,9 +14,9 @@ A QR Code will appear after clicking "Liker ID".
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>After clicking Liker ID, a QR code appears</p></figcaption></figure>
 
-On the [Liker Land app](../../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
+On the [LikeCoin app](../../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
 
-<figure><img src="../../../.gitbook/assets/NFT Portal 1c-en.png" alt=""><figcaption><p>Open the Liker Land app, click and scan the QR Code</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portal 1c-en.png" alt=""><figcaption><p>Open the LikeCoin app, click and scan the QR Code</p></figcaption></figure>
 
 An ISCN window will pop-up, click "Approve".
 
@@ -38,9 +38,9 @@ If the article is not registered with an [ISCN](../../what-is-iscn/), please dir
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 2.png" alt=""><figcaption><p>Enter the URL and click "Register ISCN"</p></figcaption></figure>
 
-When Liker Land app pops up a signature request window, click "Approve". In the following steps, when you see the Liker Land app window pop up, just click "Approve".
+When LikeCoin app pops up a signature request window, click "Approve". In the following steps, when you see the LikeCoin app window pop up, just click "Approve".
 
-<figure><img src="../../../.gitbook/assets/NFT Portal 3 Liker Land app-en.png" alt=""><figcaption><p>When the Liker Land app window pops up, always click "Approve"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portal 3 Liker Land app-en.png" alt=""><figcaption><p>When the LikeCoin app window pops up, always click "Approve"</p></figcaption></figure>
 
 ## **Step 2/4: Preview NFT**
 
@@ -114,7 +114,7 @@ The difference between "Reserved NFT" and "Free Mint" lies in the fact that all 
 
 ## Step 4/4: Sign
 
-Liker Land app windows will pop up, please click "Approve" to sign and register ISCN ID, Arweave ID, Class ID and mint NFT.
+LikeCoin app windows will pop up, please click "Approve" to sign and register ISCN ID, Arweave ID, Class ID and mint NFT.
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 6-1.png" alt=""><figcaption><p>Sign to Register ISCN ID, Arweave ID, Class ID &#x26; Mint Writing NFT</p></figcaption></figure>
 

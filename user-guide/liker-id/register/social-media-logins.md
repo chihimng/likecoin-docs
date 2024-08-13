@@ -21,7 +21,7 @@ There are two benefits to linking your social acount logins:
 
 ### Mobile
 
-On the [Liker Land app](../../liker-land/download.md), click on "Settings" at the lower right-hand corner and select "Security", then click "Social Account Login".
+On the [LikeCoin app](../../liker-land/download.md), click on "Settings" at the lower right-hand corner and select "Security", then click "Social Account Login".
 
 <figure><img src="../../../.gitbook/assets/social-media-logins-mobile-en.png" alt=""><figcaption><p>Click "Social Account Login"</p></figcaption></figure>
 

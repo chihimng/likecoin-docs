@@ -18,7 +18,7 @@ A pop-up window will appear. Click on "Change Avatar" or "Edit" to modify your e
 
 ### Mobile
 
-In the [Liker Land app](../liker-land/download.md), you can change your avatar by checking the avatar section.
+In the [LikeCoin app](../liker-land/download.md), you can change your avatar by checking the avatar section.
 
 <figure><img src="../../.gitbook/assets/avatar 1-en.png" alt=""><figcaption><p>Change your avatar by checking the avatar section</p></figcaption></figure>
 
@@ -46,13 +46,13 @@ Your name and avatar will appear in various [Liker Land](https://liker.land/) sc
 
 ![LikeCoin button](<../../.gitbook/assets/Settings 02.png>)
 
-### Liker Land app and web
+### LikeCoin app and web
 
 {% content-ref url="../liker-land/download.md" %}
 [download.md](../liker-land/download.md)
 {% endcontent-ref %}
 
-![Liker Land app and web](<../../.gitbook/assets/Settings 03.png>)
+![LikeCoin app and web](<../../.gitbook/assets/Settings 03.png>)
 
 ### LIKE pay
 

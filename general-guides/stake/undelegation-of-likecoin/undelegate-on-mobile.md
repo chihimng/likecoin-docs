@@ -66,9 +66,9 @@ The UNDELEGATE page appears, enter the amount of LikeCoin you want to undelegate
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile undelegate 3.png" alt=""><figcaption><p>Enter the amount of LikeCoin you want to undelegate, and click "Next"</p></figcaption></figure>
 
-## **Undelegate via Liker Land**
+## **Undelegate via LikeCoin app**
 
-If you delegated LikeCoin to a validator but want to get it back, you can use the "Undelegate" function on the [Liker Land app](../../../user-guide/liker-land/download.md). Please follow the steps below:
+If you delegated LikeCoin to a validator but want to get it back, you can use the "Undelegate" function on the [LikeCoin app](../../../user-guide/liker-land/download.md). Please follow the steps below:
 
 ### **Step 1:** Select the validator you delegated to
 

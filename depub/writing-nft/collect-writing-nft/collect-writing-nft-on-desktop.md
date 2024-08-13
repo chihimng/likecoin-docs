@@ -1,6 +1,6 @@
 ---
 description: >-
-  Using Keplr, Cosmostation, Leap, Keplr Mobile, Cosmostation app or Liker Land
+  Using Keplr, Cosmostation, Leap, Keplr Mobile, Cosmostation app or LikeCoin
   app to collect Writing NFT by LIKE on desktop
 ---
 
@@ -18,7 +18,7 @@ Click "Login".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
-Or click "Collect Now", "Collect" or the current NFT price and choose [Keplr](collect-writing-nft-on-desktop.md#keplr), [Cosmostation](collect-writing-nft-on-desktop.md#cosmostation), [Leap](collect-writing-nft-on-desktop.md#leap), [Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile), [Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) or [Liker Land app](collect-writing-nft-on-desktop.md#liker-land-app), etc to connect wallet, login and purchase Writing NFT.
+Or click "Collect Now", "Collect" or the current NFT price and choose [Keplr](collect-writing-nft-on-desktop.md#keplr), [Cosmostation](collect-writing-nft-on-desktop.md#cosmostation), [Leap](collect-writing-nft-on-desktop.md#leap), [Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile), [Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) or [LikeCoin app](collect-writing-nft-on-desktop.md#liker-land-app), etc to connect wallet, login and purchase Writing NFT.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6-en.png" alt=""><figcaption><p>Various kind of logins</p></figcaption></figure>
 
@@ -162,7 +162,7 @@ The Cosmostation app pops up the Request Transaction Sign window, click "Confirm
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 8 Cosmostation 2.png" alt=""><figcaption><p>Cosmostation app window pops up, click "Confirm" to confirm the purchase</p></figcaption></figure>
 
-### Liker Land app
+### LikeCoin app
 
 #### Video Tutorial
 
@@ -172,9 +172,9 @@ A QR Code will appear after clicking "Liker ID".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 1-en.png" alt=""><figcaption><p>After clicking Liker ID, a QR code appears</p></figcaption></figure>
 
-On the [Liker Land app](../../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
+On the [LikeCoin app](../../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 2-en.png" alt=""><figcaption><p>Open the Liker Land app, click and scan the QR Code</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 6 Liker Land app 2-en.png" alt=""><figcaption><p>Open the LikeCoin app, click and scan the QR Code</p></figcaption></figure>
 
 Click "Approve" to connect with Liker Land and click "Approve" again to link the account and login.
 
@@ -202,13 +202,13 @@ Click on the Writing NFT price or the collect button and the Collect NFT page po
 
 <figure><img src="../../../.gitbook/assets/Buy NFT pay by LIKE-en.png" alt=""><figcaption><p>Leave a message to creator and Pay by LIKE</p></figcaption></figure>
 
-The desktop computer displays the Pending approval on Liker Land app windows.
+The desktop computer displays the Pending approval on LikeCoin app windows.
 
 <figure><img src="../../../.gitbook/assets/Buy NFT 8 Liker Land app 1-en.png" alt=""><figcaption><p>The desktop computer displays the window of Collecting NFT</p></figcaption></figure>
 
-The Liker Land app pops up a signature request window, click "Approve" to confirm purchase.
+The LikeCoin app pops up a signature request window, click "Approve" to confirm purchase.
 
-<figure><img src="../../../.gitbook/assets/Buy NFT 8 Liker Land app 2-en.png" alt=""><figcaption><p>Liker Land app window pops up click "Approve" to confirm the purchase</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Buy NFT 8 Liker Land app 2-en.png" alt=""><figcaption><p>LikeCoin app window pops up click "Approve" to confirm the purchase</p></figcaption></figure>
 
 ## Step 3: Check your NFT Collection
 

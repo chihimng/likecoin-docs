@@ -22,9 +22,9 @@ A citizen in _LikeCoin DAO_. Each _Liker_ has a unique [_Liker ID_](liker-id/) t
 
 A _Liker_ who delegates at least 5,000 LIKE to the [Civic Liker validator node](https://bigdipper.live/likecoin/validators/likevaloper1jxpfche2386a6m0kvfpj6xq9zlrjtuqwz2rnug), and distribute the corresponding staking reward via the [LikeCoin button](background.md#id-82e1). _Civic Liker_ is essentially _the_ tax payer in _LikeCoin DAO,_ enjoying various benefits while at the same time supporting creators.
 
-### Liker Land app <a href="#id-2696" id="id-2696"></a>
+### LikeCoin app <a href="#id-2696" id="id-2696"></a>
 
-Reader, passport and wallet all integrated in one single app. [_Liker Land_ app](https://like.co/in/getapp) is essentially government of the DAO on your palm.
+Reader, passport and wallet all integrated in one single app. [LikeCoin app](https://like.co/in/getapp) is essentially government of the DAO on your palm.
 
 Some tech lovers prefer lower level tools such as command line interface and hardware wallet. It requires significant technical know-how and is beyond the scope of this article.
 

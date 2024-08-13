@@ -12,11 +12,11 @@ On [Liker Land](https://liker.land/), Click the avatar in the upper right corner
 
 <figure><img src="../../../.gitbook/assets/notifications.png" alt=""><figcaption><p>Writing NFT notification</p></figcaption></figure>
 
-## Liker Land app
+## LikeCoin app
 
-Click :bell: on the [Liker Land app](../../../user-guide/liker-land/download.md) to check for notifications.
+Click :bell: on the [LikeCoin app](../../../user-guide/liker-land/download.md) to check for notifications.
 
-<figure><img src="../../../.gitbook/assets/Liker Land app Writing NFT 3-en.png" alt=""><figcaption><p>Click<span data-gb-custom-inline data-tag="emoji" data-code="1f514">🔔</span>on the Liker Land app</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land app Writing NFT 3-en.png" alt=""><figcaption><p>Click<span data-gb-custom-inline data-tag="emoji" data-code="1f514">🔔</span>on the LikeCoin app</p></figcaption></figure>
 
 ## Notification Settings
 

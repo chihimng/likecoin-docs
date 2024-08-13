@@ -10,7 +10,7 @@ description: What is Super Like?
 
 When users click the 6th like (Super Like) on the [LikeCoin button](../creator/) of an article, it will be posted to the decentralized social media platform [depub.space](../depub.space/). This new feature not only enhances the visibility of high-quality content but also ensures that the content remains on the blockchain indefinitely.
 
-​The [Liker Land app](download.md) displays the World Feed from depub.space.
+​The [LikeCoin app](download.md) displays the World Feed from depub.space.
 
 The gas fee and decentralized storage fee for uploading to depub.space will be subsidized by [Liker Land](https://liker.land/), alleviating the burden on users.
 
@@ -22,18 +22,18 @@ _\*Note: The previous 4 LikeCoin rewards have been cancelled._
 
 ### Working Together to Build the Web3 Content Universe
 
-depub.space is a decentralized social media platform within the LikeCoin ecosystem. Every post on depub.space is recorded on the LikeCoin chain. To prioritize privacy, no registration is required. You can easily access depub.space using [Keplr](../../general-guides/wallet/keplr/), [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/), or the [Liker Land app](download.md) with Wallet Connect.
+depub.space is a decentralized social media platform within the LikeCoin ecosystem. Every post on depub.space is recorded on the LikeCoin chain. To prioritize privacy, no registration is required. You can easily access depub.space using [Keplr](../../general-guides/wallet/keplr/), [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/), or the [LikeCoin app](download.md) with Wallet Connect.
 
 Creators require content curation tools and distribution channels. Traditionally, sharing the hyperlink of quality content on social media platforms like Facebook or Twitter has been a common method. Liker Land introduces a fresh alternative: Readers can click and share content to depub.space from any website that supports the [LikeCoin button](../creator/).
 
 ### Mobile Version of depub.space?
 
-Currently, users need to access depub.space on desktop through Keplr, Cosmostation Browser Extension, or the Liker Land app with Wallet Connect. Direct access to depub.space on mobile devices is not available.
+Currently, users need to access depub.space on desktop through Keplr, Cosmostation Browser Extension, or the LikeCoin app with Wallet Connect. Direct access to depub.space on mobile devices is not available.
 
 ## Usage <a href="#zen-yang-can-yu" id="zen-yang-can-yu"></a>
 
 * Clicking the LikeCoin button for the 5th time transforms the LikeCoin button icon into a star totem. When clicked for the 6th time, the article is "Super Liked".
-* Articles that have been Super Liked will be displayed on the Liker Land app and depub.space.
+* Articles that have been Super Liked will be displayed on the LikeCoin app and depub.space.
 * A checkmark appears on the star totem, representing the utilization of one Super Like. Super Likes are reset at 12:00 noon and midnight. The outer green circle of the LikeCoin button functions as a progress bar indicating the reset time.
 * The RSS icon in the lower right-hand corner activates, and the article is shared to and will be displayed on depub.space.
 * Super Likes cannot be accumulated. If they are not used before the reset time, they will become obsolete. You can only use Super Likes twice a day.

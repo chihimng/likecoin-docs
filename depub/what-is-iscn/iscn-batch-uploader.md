@@ -97,7 +97,7 @@ Registering 300+ ISCN records costs less than 1 LIKE?! It’s a really good deal
 
 A new file “output.csv” will be generated after you execute the command successfully. Two more columns are added to the new CSV when comparing with the original data file: _txHash_ and _iscnId_.
 
-txHash is the transaction hash on the LikeCoin chain. You can search the tx hash by supported block explorer such as Big Dipper, e.g. try this tx hash:
+txHash is the transaction hash on the LikeCoin chain. You can search the tx hash by supported block explorer such as [Ping.pub](../../general-guides/wallet/block-explorer/ping.pub.md), e.g. try this tx hash:
 
 ```
 C75B2BD9C79A83670C49F97522E7670CBB7E4892CAC26D5F09E5913C57870E5C

@@ -8,7 +8,7 @@ Using the One-Click Collect All feature allows users to purchase all Writing NFT
 
 ## Step 1: Login to your wallet and initiate One-Click Collect
 
-Please log in to your [Keplr](../../../general-guides/wallet/keplr/), [Cosmostation](../../../general-guides/wallet/cosmostation/), [Leap](../../../general-guides/wallet/leap/), [Keplr mobile](../../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [Liker Land app](../../../user-guide/liker-land/download.md). Then, on the creator's [Bookshelf](bookshelf.md), click "Collect All".
+Please log in to your [Keplr](../../../general-guides/wallet/keplr/), [Cosmostation](../../../general-guides/wallet/cosmostation/), [Leap](../../../general-guides/wallet/leap/), [Keplr mobile](../../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikerCoin app](../../../user-guide/liker-land/download.md). Then, on the creator's [Bookshelf](bookshelf.md), click "Collect All".
 
 <figure><img src="../../../.gitbook/assets/Collect All 1-en.png" alt=""><figcaption><p>Click "Collect All"</p></figcaption></figure>
 
@@ -24,7 +24,7 @@ Once you have finished checking, click "Checkout by LIKE" or "Checkout by card".
 
 ### Checkout by LIKE
 
-Using Keplr as an example, a pop-up window will appear, and you can click "Approve" to confirm your purchase. The Cosmostation, Leap, Keplr Mobile, Cosmostation app, or Liker Land mobile application will also display the respective confirmation screens.
+Using Keplr as an example, a pop-up window will appear, and you can click "Approve" to confirm your purchase. The Cosmostation, Leap, Keplr Mobile, Cosmostation app, or LikeCoin app will also display the respective confirmation screens.
 
 <figure><img src="../../../.gitbook/assets/Collect All 3-en.png" alt=""><figcaption><p>Keplr window pops up click "Approve" to confirm the purchase</p></figcaption></figure>
 

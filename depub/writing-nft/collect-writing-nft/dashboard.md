@@ -58,8 +58,8 @@ Users can organize their own Bookshelf by featuring or hiding NFT items (clickin
 
 <figure><img src="../../../.gitbook/assets/Featured NFT-en.png" alt=""><figcaption><p>Feature and hide Writing NFT, click to feature NFT, click again to hide</p></figcaption></figure>
 
-## Liker Land app
+## LikeCoin app
 
-Log in to the [Liker Land app](../../../user-guide/liker-land/download.md) or log in to [Liker Land](https://liker.land/) in a mobile browser. Click the stack icon and then click "My Bookshelf" to view information such as Plaza, Collectibles, and Statistics.
+Log in to the [LikeCoin app](../../../user-guide/liker-land/download.md) or log in to [Liker Land](https://liker.land/) in a mobile browser. Click the stack icon and then click "My Bookshelf" to view information such as Plaza, Collectibles, and Statistics.
 
-<figure><img src="../../../.gitbook/assets/Dashboard Liker Lad app-en.png" alt=""><figcaption><p>Log in to the Liker Land app or log in to Liker Land in a mobile browser, click the stack icon and then click "My Bookshelf"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Dashboard Liker Lad app-en.png" alt=""><figcaption><p>Log in to the LikeCoin app or log in to Liker Land in a mobile browser, click the stack icon and then click "My Bookshelf"</p></figcaption></figure>

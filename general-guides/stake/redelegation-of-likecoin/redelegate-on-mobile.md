@@ -74,9 +74,9 @@ Select the validator that you want to redelegate to and click "Next" then confir
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile redelegate 3.png" alt=""><figcaption><p>Select the validator that you want to redelegate to and click "Next"</p></figcaption></figure>
 
-## **Redelegate via Liker Land**
+## **Redelegate via** LikeCoin app
 
-[Liker Land app](../../../user-guide/liker-land/download.md) "Redelegate" function helps users to transfer the delegated LikeCoin from one validator to another. LikeCoin will be transferred immediately after confirmation, voting power of the validator is affected too. The newly delegated LikeCoin receives rewards according to the rewards percentage of the new validator.
+[LikeCoin app](../../../user-guide/liker-land/download.md) "Redelegate" function helps users to transfer the delegated LikeCoin from one validator to another. LikeCoin will be transferred immediately after confirmation, voting power of the validator is affected too. The newly delegated LikeCoin receives rewards according to the rewards percentage of the new validator.
 
 Steps for Redelegation:
 

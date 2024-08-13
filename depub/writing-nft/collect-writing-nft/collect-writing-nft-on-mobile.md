@@ -1,14 +1,14 @@
 ---
 description: >-
-  Using Keplr Mobile, Cosmostation, Leap or Liker Land appp to collect Writing
-  NFT by LIKE on mobile
+  Using Keplr Mobile, Cosmostation, Leap or LikeCoin app to collect Writing NFT
+  by LIKE on mobile
 ---
 
 # Collect Writing NFT by LIKE on mobile
 
-## Collect Writing NFT on Liker Land app
+## Collect Writing NFT on LikeCoin app
 
-**Step 1**: After logging in to the [Liker Land app](../../../user-guide/liker-land/download.md), go to the the stacked icon to browse the NFT bookstore.
+**Step 1**: After logging in to the [LikeCoin app](../../../user-guide/liker-land/download.md), go to the the stacked icon to browse the NFT bookstore.
 
 <figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 0-en.png" alt=""><figcaption><p>Browse the NFT bookstore</p></figcaption></figure>
 
@@ -20,9 +20,9 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 2-en.png" alt=""><figcaption><p>Leave a signed message to creator and Pay by LIKE</p></figcaption></figure>
 
-**Step 4**: The message "Pending your signature on Liker Land app" will appear.
+**Step 4**: The message "Pending your signature on LikeCoin app" will appear.
 
-<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 3-en.png" alt=""><figcaption><p>The message "Pending your signature on Liker Land app" will appear</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Liker Land app Buy NFT 3-en.png" alt=""><figcaption><p>The message "Pending your signature on LikeCoin app" will appear</p></figcaption></figure>
 
 **Step 5**: A LikeCoinApp window will pop up, click "Approve".
 
@@ -86,9 +86,9 @@ If you encounter problems during the purchase process, please go to the settings
 
 {% embed url="https://www.youtube.com/watch?v=l6zjetJVNuA" %}
 
-### **Via the Liker Land app**
+### **Via the** LikeCoin app
 
-**Step 1**: Log in to the [Liker Land app](../../../user-guide/liker-land/download.md) and use the mobile browser to browse the NFT that you want to collect. Click "Collect Now," "Collect," or the current NFT price.
+**Step 1**: Log in to the [LikeCoin app](../../../user-guide/liker-land/download.md) and use the mobile browser to browse the NFT that you want to collect. Click "Collect Now," "Collect," or the current NFT price.
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Keplr Mobile 1-en.png" alt=""><figcaption><p>Click "Collect Now"</p></figcaption></figure>
 
@@ -100,9 +100,9 @@ If you encounter problems during the purchase process, please go to the settings
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 3-en.png" alt=""><figcaption><p>A pop-up window will appear. Click "Liker ID" to log in</p></figcaption></figure>
 
-**Step 4**: A Liker Land app window will pop up. Click "Approve".
+**Step 4**: A LikeCoin app window will pop up. Click "Approve".
 
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 4-en.png" alt=""><figcaption><p>A Liker Land app window will pop up. Click "Approve"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 4-en.png" alt=""><figcaption><p>A LikeCoin app window will pop up. Click "Approve"</p></figcaption></figure>
 
 **Step 5**: You will be redirected back to the browser. Click "CONFIRM" to proceed.
 
@@ -112,9 +112,9 @@ If you encounter problems during the purchase process, please go to the settings
 
 <figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 6-en.png" alt=""><figcaption><p>The Collecting NFT page will appear in the browser</p></figcaption></figure>
 
-**Step 7**: Return to the Liker Land app and click "Approve".
+**Step 7**: Return to the LikeCoin app and click "Approve".
 
-<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 7-en.png" alt=""><figcaption><p>Return to the Liker Land app and click "Approve"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Collect Writing NFT Liker land app 7-en.png" alt=""><figcaption><p>Return to the LikeCoin app and click "Approve"</p></figcaption></figure>
 
 **Step 8**: You will be redirected back to the browser. Click "CONFIRM" again.
 

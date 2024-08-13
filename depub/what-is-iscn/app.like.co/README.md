@@ -22,7 +22,7 @@ Users can also check an ISCN record and its details in [app.like.co](https://app
 
 #### Recommend:thumbsup:Users can login and link to [app.like.co](https://app.like.co/) with [Keplr](keplr.md) to try out and register an ISCN.
 
-Users can also register an ISCN using [Cosmostation](cosmostation.md), [Cosmostation app](cosmostation-app.md) or [Liker Land app](liker-land-app.md).
+Users can also register an ISCN using [Cosmostation](cosmostation.md), [Cosmostation app](cosmostation-app.md) or [Liker Land app](likecoin-app.md).
 
 Or register an ISCN on [Matters](matters.md).
 

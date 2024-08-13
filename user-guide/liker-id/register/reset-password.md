@@ -16,7 +16,7 @@ If you cannot login your Liker ID with your social logins, please try the follow
 
 #### Mobile
 
-On the [Liker Land app](../../liker-land/download.md) click "Sign In"
+On the [LikeCoin app](../../liker-land/download.md) click "Sign In"
 
 #### Web
 
@@ -59,7 +59,7 @@ Input your new password twice, and click "Reset Password".
 
 ![Input your new password twice, and click "Reset Password"](../../../.gitbook/assets/resetpassword-5.png)
 
-You have successfully reset your password, go back to Liker Land app or [https://like.co/in](https://like.co/in) and login your Liker ID.
+You have successfully reset your password, go back to LikeCoin app or [https://like.co/in](https://like.co/in) and login your Liker ID.
 
 ![You have successfully reset your password](../../../.gitbook/assets/resetpassword-6.png)
 

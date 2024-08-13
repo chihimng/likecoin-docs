@@ -1,5 +1,5 @@
 ---
-description: Liker Land app wallet can finally export seed words
+description: LikeCoin app can finally export seed words
 ---
 
 # Export Seed Words
@@ -27,7 +27,7 @@ Click "Press to reauthenticate".
 
 ### Step 3: Re-login to Liker Land
 
-Log in to [Liker Land](https://like.co/) with [Keplr](../../general-guides/wallet/keplr/) or [Liker Land app](../liker-land/download.md).
+Log in to [Liker Land](https://like.co/) with [Keplr](../../general-guides/wallet/keplr/) or [LikeCoin app](../liker-land/download.md).
 
 <figure><img src="../../.gitbook/assets/Seed Words 3pre-en.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +47,7 @@ Click "Copy" to copy the seed words.
 
 ![Click "Copy" to copy the seed words](<../../.gitbook/assets/Seed Words 5en.png>)
 
-## Export Seed Words from the Liker Land App
+## Export Seed Words from the LikeCoin App
 
 ### Step 1: Start exporting the wallet seed words
 

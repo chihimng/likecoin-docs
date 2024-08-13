@@ -136,15 +136,15 @@ On the CLAIM REWARD or Compounding page, click "Next" and then "Confirm" to with
 
 <figure><img src="../../../.gitbook/assets/Cosmostation mobile delegate 12.png" alt=""><figcaption><p>Click "Next" and then "Confirm" to withdraw rewards</p></figcaption></figure>
 
-## Delegate via Liker Land
+## Delegate via LikeCoin app
 
-You can also use the Liker Land app to stake LikeCoin. You may check out the tutorial clip and the step-by-step instructions below.
+You can also use the LikeCoin app to stake LikeCoin. You may check out the tutorial clip and the step-by-step instructions below.
 
 {% embed url="https://youtu.be/nxSy-kEMy0Q" %}
 
 ### Step 1: Select a validator&#xD;
 
-Open the [Liker Land app](../../../user-guide/liker-land/download.md) and click "My Wallet" to enter the wallet page. On this page, you can check the amount of LikeCoin you have and see a list of validators below. Select one of them as you like.
+Open the [LikeCoin app](../../../user-guide/liker-land/download.md) and click "My Wallet" to enter the wallet page. On this page, you can check the amount of LikeCoin you have and see a list of validators below. Select one of them as you like.
 
 <figure><img src="../../../.gitbook/assets/delegate 1-en.png" alt=""><figcaption><p>Click "My Wallet"</p></figcaption></figure>
 
@@ -182,4 +182,4 @@ A validator with your delegation will be displayed as green.
 
 Going back to the wallet page, you can drag down the screen and refresh the wallet status.
 
-The LikeCoin rewards earned from delegation will be released every 5 or 6 seconds, quicker than monthly interest from the bank! You can check out the "Delegating Rewards" amount from the validator page or click "Withdraw Rewards" to save the rewards back to your wallet. The minimum withdrawal amount on the Liker Land app is 1 LikeCoin.
+The LikeCoin rewards earned from delegation will be released every 5 or 6 seconds, quicker than monthly interest from the bank! You can check out the "Delegating Rewards" amount from the validator page or click "Withdraw Rewards" to save the rewards back to your wallet. The minimum withdrawal amount on the LikeCoin app is 1 LikeCoin.

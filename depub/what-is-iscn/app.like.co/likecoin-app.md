@@ -1,8 +1,8 @@
 ---
-description: Register an ISCN by Liker Land app
+description: Register an ISCN by LikeCoin app
 ---
 
-# Liker Land app
+# LikeCoin app
 
 ## Step 1: Login app.like.co
 
@@ -12,13 +12,13 @@ Visit [app.like.co](https://app.like.co) in your browser and click "Connect Wall
 
 A QR Code will appear after clicking "Liker ID".
 
-<figure><img src="../../../.gitbook/assets/ISCN Liker Land app.png" alt=""><figcaption><p>Login and link to app.like.co with Liker Land app</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN Liker Land app.png" alt=""><figcaption><p>Login and link to app.like.co with LikeCoin app</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/NFT Portal 1b.png" alt=""><figcaption><p>After clicking Liker ID, a QR code appears</p></figcaption></figure>
 
-On the [Liker Land app](../../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
+On the [LikeCoin app](../../../user-guide/liker-land/download.md), click the QR Code icon to bring up the camera, and scan the QR Code.
 
-<figure><img src="../../../.gitbook/assets/NFT Portal 1c-en.png" alt=""><figcaption><p>Open the Liker Land app, click and scan the QR Code</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NFT Portal 1c-en.png" alt=""><figcaption><p>Open the LikeCoin app, click and scan the QR Code</p></figcaption></figure>
 
 An ISCN window will pop-up, click "Approve".
 
@@ -81,7 +81,7 @@ Although most of the fields are optional, it is recommended to be as detailed as
 
 A signature request window will pop up on your phone, click "Approve" to sign.
 
-<figure><img src="../../../.gitbook/assets/ISCN 13-en.png" alt=""><figcaption><p>When Liker Land app pops up a signature request window, click "Approve"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ISCN 13-en.png" alt=""><figcaption><p>When LikeCoin app pops up a signature request window, click "Approve"</p></figcaption></figure>
 
 To successfully register an ISCN, two signatures are required:
 

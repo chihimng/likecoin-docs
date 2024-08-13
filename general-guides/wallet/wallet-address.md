@@ -22,11 +22,11 @@ After logging in, click the wallet address to copy it directly.
 
 <figure><img src="../../.gitbook/assets/Leap wallet address.png" alt=""><figcaption><p>Copy Leap wallet address</p></figcaption></figure>
 
-## Lker Land app
+## LikeCoin app
 
 Click "Receive," and then click "Copy" below the QR code to copy the wallet address.
 
-![Copy wallet address on Liker Land app](<../../.gitbook/assets/wallet address liker land app en.png>)
+![Copy wallet address on LikeCoin app](<../../.gitbook/assets/wallet address liker land app en.png>)
 
 ## Liker Land web
 

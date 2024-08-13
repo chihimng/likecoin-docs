@@ -86,7 +86,7 @@ Click "Portfolio" on the left-hand side menu, and you will see "You Stake" showi
 
 ![Click "Portfolio" in the left-hand side menu and check the details](<../../.gitbook/assets/Civic Liker Web 3-09.png>)
 
-## Become a Civic Liker by delegating via the Keplr Mobile, Cosmostation app and Liker Land app
+## Become a Civic Liker by delegating via the Keplr Mobile, Cosmostation app and LikeCoin app
 
 For details, please refer to [Delegate on mobile](../../general-guides/stake/delegation-of-likecoin/delegate-on-mobile.md) and select the Civic Liker node to delegate.
 
