@@ -40,7 +40,7 @@ Click "Sign Up with Email", "Or log in with another method" to register or log i
 
 ## Step 6: Confirm Wallet Address
 
-A wallet address will appear on the page where this book will be added to the following account, confirm it is correct and then click "Confirm". You can also check "[Bookshelf](../writing-nft/collect-writing-nft/bookshelf.md)" at any time to see if the wallet address is correct.
+A wallet address will appear on the page where this book will be added to the following account, confirm it is correct and then click "Confirm". You can also check "[Bookshelf](../liker-land-web/bookshelf.md)" at any time to see if the wallet address is correct.
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 7-en.png" alt=""><figcaption><p>Click "Confirm" to confirm wallet address</p></figcaption></figure>
 

@@ -5,14 +5,14 @@ description: Publish ANY webpage as NFT
 # Publish Writing NFT
 
 {% hint style="info" %}
-### 📣Publishing Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../../general-guides/faucet.md) for testing.
+### 📣Publishing Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../general-guides/faucet.md) for testing.
 {% endhint %}
 
 ## How to publish Writing NFT
 
 ### Option 1: Publish Writing NFT with Web3Press
 
-Authors can use [**Web3Press**](../../../user-guide/wordpress.md) to publish articles, register ISCN and publish NFT in one go. If the author does not use WordPress.
+Authors can use [**Web3Press**](../../user-guide/wordpress.md) to publish articles, register ISCN and publish NFT in one go. If the author does not use WordPress.
 
 ### Option 2: Publish Writing NFT with an article URL
 
@@ -30,7 +30,7 @@ Creators can copy the URL of any webpage, paste it to [**NFT Portal** website a.
 
 ### **Option 3**: Publish Writing NFT with ISCN ID
 
-Register text, PDF, picture, sound... into [ISCN](../../what-is-iscn/app.like.co/) first, then paste the ISCN ID to [NFT Portal](https://app.like.co/nft/url) and publish as NFT.
+Register text, PDF, picture, sound... into [ISCN](../what-is-iscn/app.like.co/) first, then paste the ISCN ID to [NFT Portal](https://app.like.co/nft/url) and publish as NFT.
 
 > #### Tutorial: [Publish Writing NFT with ISCN ID](iscn-id.md)
 
@@ -64,16 +64,16 @@ After publishing the NFT, creators can Transfer NFT or Batch send NFT to more th
 
 Set your own introduction, profile picture, and display name so your supporters can know you better. ( Need to register a Liker ID ).
 
-{% content-ref url="../../../user-guide/liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../../../user-guide/liker-id/edit-avatar-displayname.md)
+{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
 {% endcontent-ref %}
 
 ***
 
 ## Display NFT Widget
 
-After publishing the NFT, creators can embed an [NFT Widget](../../liker-land-web/nft-widget.md) into any webpage by iframe.
+After publishing the NFT, creators can embed an [NFT Widget](nft-widget.md) into any webpage by iframe.
 
-{% content-ref url="../../liker-land-web/nft-widget.md" %}
-[nft-widget.md](../../liker-land-web/nft-widget.md)
+{% content-ref url="nft-widget.md" %}
+[nft-widget.md](nft-widget.md)
 {% endcontent-ref %}

@@ -44,8 +44,8 @@ Note that Leap does not support the registration of Liker ID yet.
 
 #### Collect Writing NFT:
 
-{% content-ref url="../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
-[collect-writing-nft-on-desktop.md](../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-desktop.md)
+{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
+[collect-writing-nft-on-desktop.md](../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md)
 {% endcontent-ref %}
 
 #### Swap LikeCoin and earn liquidity mining incentives on Osmosis:

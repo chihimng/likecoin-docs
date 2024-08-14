@@ -12,13 +12,13 @@ Likecoin NFT Marketplace includes:
 
 ### [**My NFT**](https://likecoin.github.io/likecoin-nft-marketplace/owned)
 
-Click "Connect" in the top right corner to connect with the [Keplr Browser Extension](../../../general-guides/wallet/keplr/) and view your owned NFTs. Click "Sell" to list the NFT to the Marketplace.
+Click "Connect" in the top right corner to connect with the [Keplr Browser Extension](../../general-guides/wallet/keplr/) and view your owned NFTs. Click "Sell" to list the NFT to the Marketplace.
 
-<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 1.png" alt=""><figcaption><p>Click "Connect" to login</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LikeCoin NFT Marketplace 1.png" alt=""><figcaption><p>Click "Connect" to login</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 2.png" alt=""><figcaption><p>Check out the NFT that you have and click "Sell" to list the NFT to the Marketplace</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LikeCoin NFT Marketplace 2.png" alt=""><figcaption><p>Check out the NFT that you have and click "Sell" to list the NFT to the Marketplace</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/LikeCoin NFT Marketplace 3.png" alt=""><figcaption><p>Enter the Price, Offer expiration date and click "Conifirm"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LikeCoin NFT Marketplace 3.png" alt=""><figcaption><p>Enter the Price, Offer expiration date and click "Conifirm"</p></figcaption></figure>
 
 ### [**Latest Listings**](https://likecoin.github.io/likecoin-nft-marketplace/)
 
@@ -30,7 +30,7 @@ The most recent NFTs sold on the NFT Marketplace
 
 ### [**Search**](https://likecoin.github.io/likecoin-nft-marketplace/search/)
 
-Find specific NFTs using the [NFT Class ID](../../liker-land-web/nft-details.md#nft-class-id).
+Find specific NFTs using the [NFT Class ID](../liker-land-web/nft-details.md#nft-class-id).
 
 ### [**Tools**](https://likecoin.github.io/likecoin-nft-marketplace/tools)
 

@@ -10,7 +10,7 @@ On **November 15, 2019**, LikeCoin upgraded from ERC-20 to the LikeCoin chain co
 
 On **August 18, 2021**, the LikeCoin chain upgraded to FoTan, which incorporates advanced features such as [International Standard Content Number (“ISCN”)](../../depub/what-is-iscn/), IBC (Inter-blockchain communication) and other features of [Stargate](https://stargate.cosmos.network/).
 
-On **July 21, 2022**, the LikeCoin chain upgraded to StarFerry. This upgrade features the [Writing NFT](../../depub/writing-nft/) module, and nft-related services, such as nft minting, blind box, and marketplace chain API.
+On **July 21, 2022**, the LikeCoin chain upgraded to StarFerry. This upgrade features the [Writing NFT](../../depub/writing-nft.md) module, and nft-related services, such as nft minting, blind box, and marketplace chain API.
 
 On **June 5, 2023**, the LikeCoin chain upgraded to LikeCoin v4.0.0 ChungKing, enhanced NFT and [ISCN](../../depub/what-is-iscn/) functions, supported Ledger, minimum validator commission, group module multisig, etc.
 

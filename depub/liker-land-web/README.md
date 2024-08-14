@@ -14,19 +14,19 @@ The bookstore displays selected NFT eBooks,&#x20;
 
 ## **Option 2: Top Articles -** [**https://liker.land/en/store/articles**](https://liker.land/en/store/articles)
 
-Display popular and latest Writing NFTs and article recommendations.
+Display popular and latest article Writing NFT recommendations.
 
 ## **Option 3:** My Dashboard - [https://liker.land/en/feed?view=town](https://liker.land/en/feed?view=town)
 
-Access your [My Dashboard](../writing-nft/collect-writing-nft/dashboard.md).
+Access your [My Dashboard](dashboard.md).
 
 ## Option 4: My Bookshelf - https://liker.land/en/\[wallet address]?tab=collected
 
-Access your [Bookshelf](../writing-nft/collect-writing-nft/bookshelf.md).
+Access your [Bookshelf](bookshelf.md).
 
 ## **Option 5: Mint NFT -** [**https://app.like.co/nft/url**](https://app.like.co/nft/url)
 
-Use the [NFT Portal](../writing-nft/nft-portal/) to mint NFTs.
+Use the [NFT Portal](../nft-portal/) to mint NFTs.
 
 ## **Option 6: Settings -** [**https://liker.land/en/settings/**](https://liker.land/en/settings/)
 
@@ -40,8 +40,8 @@ Use the [NFT Portal](../writing-nft/nft-portal/) to mint NFTs.
 
 ### Following - [https://liker.land/en/settings/following](https://liker.land/en/settings/following)
 
-{% content-ref url="../writing-nft/collect-writing-nft/follow-creators.md" %}
-[follow-creators.md](../writing-nft/collect-writing-nft/follow-creators.md)
+{% content-ref url="follow-creators.md" %}
+[follow-creators.md](follow-creators.md)
 {% endcontent-ref %}
 
 ### Language - [https://liker.land/en/settings/language](https://liker.land/en/settings/language)

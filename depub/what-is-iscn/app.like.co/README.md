@@ -32,4 +32,4 @@ Or register an ISCN on [Matters](matters.md).
 
 ## Publish Writing NFT
 
-After registering an ISCN, users can [publish it as Writing NFT](../../writing-nft/nft-portal/iscn-id.md).
+After registering an ISCN, users can [publish it as Writing NFT](../../nft-portal/iscn-id.md).

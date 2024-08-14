@@ -62,12 +62,12 @@ Connect to the payment page in the browser, with the format https://like.co/\[Li
 [app.like.co](../../depub/what-is-iscn/app.like.co/)
 {% endcontent-ref %}
 
-{% content-ref url="../../depub/writing-nft/nft-portal/" %}
-[nft-portal](../../depub/writing-nft/nft-portal/)
+{% content-ref url="../../depub/nft-portal/" %}
+[nft-portal](../../depub/nft-portal/)
 {% endcontent-ref %}
 
-{% content-ref url="../../depub/writing-nft/collect-writing-nft/" %}
-[collect-writing-nft](../../depub/writing-nft/collect-writing-nft/)
+{% content-ref url="../../depub/collect-writing-nft/" %}
+[collect-writing-nft](../../depub/collect-writing-nft/)
 {% endcontent-ref %}
 
 {% content-ref url="../../user-guide/depub.space/" %}

@@ -4,7 +4,7 @@ description: What is decentralized publishing?
 
 # Decentralized Publishing
 
-Decentralized Publishing ( Depub ) is to publish content such as [articles](writing-nft/collect-writing-nft/), photo, [books](nft-ebook/), video to the blockchain, so that they can last forever.
+Decentralized Publishing ( Depub ) is to publish content such as [articles](collect-writing-nft/), photo, [books](nft-ebook/), video to the blockchain, so that they can last forever.
 
 Decentralized Publishing's features include:
 

@@ -14,7 +14,7 @@ LikeCoin decentralizes publishing by allowing everyone to publish their content 
 
 ### Content Ownership
 
-Own your content by [publishing an NFT](depub/writing-nft/nft-portal/) on the LikeCoin chain.
+Own your content by [publishing an NFT](depub/nft-portal/) on the LikeCoin chain.
 
 ### Decentralize Publishing
 
@@ -26,7 +26,7 @@ LikeCoin envisions a future where digital content is transformed from “Web-nat
 
 ### Writing NFT
 
-NFT can be an email, an image, an identity, or a book. **LikeCoin** [**Writing NFT**](depub/writing-nft/) is designed especially for text-based content creation.
+NFT can be an email, an image, an identity, or a book. **LikeCoin** [**Writing NFT**](depub/writing-nft.md) is designed especially for text-based content creation.
 
 Similar to the workflow of traditional publishing, i.e., securing content authorship -> printing the content in books -> selling in bookstore, creators can now register the content on the LikeCoin chain -> mint an NFT of it -> sell it in NFT marketplaces. Compared with the constraints in physical publishing, publishing content and exchanging value in the metaverse can be more flexible and everlasting.
 

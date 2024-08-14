@@ -10,7 +10,7 @@ description: Interaction between NFT authors and collectors
 
 On [Liker Land](https://liker.land/), Click the avatar in the upper right corner and the menu will pop up, then click on "[Notifications](https://liker.land/en/notifications)".
 
-<figure><img src="../../.gitbook/assets/notifications.png" alt=""><figcaption><p>Writing NFT notification</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/notifications.png" alt=""><figcaption><p>NFT notification</p></figcaption></figure>
 
 ## LikeCoin app
 
@@ -20,6 +20,6 @@ Click :bell: on the [LikeCoin app](../../user-guide/liker-land/download.md) to c
 
 ## Notification Settings
 
-[After verifying the email](../writing-nft/collect-writing-nft/follow-creators.md), you can set the "Notification Settings" to receive notifications when Transfer or Collect NFTs. You can also enter the amount of [LikeCoin](https://like.co/), and a notification will be sent when the transaction price is greater than the set value.
+[After verifying the email](follow-creators.md), you can set the "Notification Settings" to receive notifications when Transfer or Collect NFTs. You can also enter the amount of [LikeCoin](https://like.co/), and a notification will be sent when the transaction price is greater than the set value.
 
 <figure><img src="../../.gitbook/assets/notifications settings-en.png" alt=""><figcaption><p>Notification Settings</p></figcaption></figure>

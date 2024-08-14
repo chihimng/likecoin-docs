@@ -42,8 +42,8 @@ Keplr Mobile is the mobile wallet provided by Keplr. With the convenience of you
 
 #### Use Keplr Mobile to collect Writing NFT:
 
-{% content-ref url="../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
-[collect-writing-nft-on-mobile.md](../../../depub/writing-nft/collect-writing-nft/collect-writing-nft-on-mobile.md)
+{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
+[collect-writing-nft-on-mobile.md](../../../depub/collect-writing-nft/collect-writing-nft-on-mobile.md)
 {% endcontent-ref %}
 
 #### Swap LikeCoin and earn liquidity mining incentives on Osmosis:
