@@ -29,7 +29,7 @@ Log in to the LikeCoin app and you can find the following:
 * [Browse the Book Store](../../depub/nft-ebook/)
 * [My Dashboard](../../depub/writing-nft/collect-writing-nft/dashboard.md)
 
-## Option 3: [Notifications](../../depub/writing-nft/collect-writing-nft/notifications.md)
+## Option 3: [Notifications](../../depub/liker-land-web/notifications.md)
 
 ## Option 4: Settings
 

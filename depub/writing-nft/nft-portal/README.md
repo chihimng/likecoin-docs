@@ -72,8 +72,8 @@ Set your own introduction, profile picture, and display name so your supporters 
 
 ## Display NFT Widget
 
-After publishing the NFT, creators can embed an [NFT Widget](../collect-writing-nft/nft-widget.md) into any webpage by iframe.
+After publishing the NFT, creators can embed an [NFT Widget](../../liker-land-web/nft-widget.md) into any webpage by iframe.
 
-{% content-ref url="../collect-writing-nft/nft-widget.md" %}
-[nft-widget.md](../collect-writing-nft/nft-widget.md)
+{% content-ref url="../../liker-land-web/nft-widget.md" %}
+[nft-widget.md](../../liker-land-web/nft-widget.md)
 {% endcontent-ref %}

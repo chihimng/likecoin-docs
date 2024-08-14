@@ -18,7 +18,7 @@ There are several ways to collect a NFT eBook or Article NFT:
 
 1. Check out the Liker Land NFT Bookstore, where [NFT eBooks](https://liker.land/en/store) and [Article NFTs](https://liker.land/en/store/articles) are available.
 2. Visit the [Bookshelf](collect-writing-nft/bookshelf.md) page of the author or collector and purchase the Writing NFT there.
-3. Look for an [NFT Widget](collect-writing-nft/nft-widget.md) that is embedded in the content you're interested in.
+3. Look for an [NFT Widget](../liker-land-web/nft-widget.md) that is embedded in the content you're interested in.
 
 ### I do not have a Liker ID, can I buy Writing NFT?
 
@@ -52,7 +52,7 @@ Use [LikeCoin NFT Book Press](../nft-book-press/) to publish NFT e-books.
 
 If you want to publish your written works as NFTs, you can do so via several platforms that support LikeCoin Writing NFTs, such as [WordPress websites](../../user-guide/wordpress.md), [Liker.Social](https://liker.social/), and [illustBuy](https://illustbuy.com/). Additionally, you can use the [NFT portal](https://app.like.co/nft/url) to publish any web page as an NFT.&#x20;
 
-Once your NFTs are published, they will be automatically listed. Others can collect them through [Liker Land](https://liker.land/?utm\_source=docs) or an [NFT Widget](collect-writing-nft/nft-widget.md) or [Bookshelf](collect-writing-nft/bookshelf.md) without any additional work on your part.
+Once your NFTs are published, they will be automatically listed. Others can collect them through [Liker Land](https://liker.land/?utm\_source=docs) or an [NFT Widget](../liker-land-web/nft-widget.md) or [Bookshelf](collect-writing-nft/bookshelf.md) without any additional work on your part.
 
 ### How to set the Article NFT quantity for sale?
 
@@ -60,11 +60,11 @@ There is no upper limit in principle. However, as the marked price will increase
 
 ### I do not have a Liker ID, can I sell Writing NFT?
 
-Sure. The [Web3Press plugin](../../user-guide/wordpress.md) supports [NFT Widgets](collect-writing-nft/nft-widget.md) with Keplr wallet address. You can also login your wallet to the[ NFT Portal](../../developer/likenft/nft-portal/) to mint NFT, and then display your work on the [Bookshelf](collect-writing-nft/bookshelf.md), and share the link for readers to purchase.
+Sure. The [Web3Press plugin](../../user-guide/wordpress.md) supports [NFT Widgets](../liker-land-web/nft-widget.md) with Keplr wallet address. You can also login your wallet to the[ NFT Portal](../../developer/likenft/nft-portal/) to mint NFT, and then display your work on the [Bookshelf](collect-writing-nft/bookshelf.md), and share the link for readers to purchase.
 
 ### How to install NFT Widget?
 
-You can install the LikeCoin [Web3Press plugin](../../user-guide/wordpress.md), and each post will automatically add an [NFT Widget](collect-writing-nft/nft-widget.md). You can also post on writing platforms that support NFT Widget. Users who have technical background can add the iframe of NFT Widget to any webpage.
+You can install the LikeCoin [Web3Press plugin](../../user-guide/wordpress.md), and each post will automatically add an [NFT Widget](../liker-land-web/nft-widget.md). You can also post on writing platforms that support NFT Widget. Users who have technical background can add the iframe of NFT Widget to any webpage.
 
 ### Any other way to sell my Writing NFT besides by NFT Widget?
 

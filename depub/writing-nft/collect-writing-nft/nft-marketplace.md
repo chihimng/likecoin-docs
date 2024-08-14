@@ -30,7 +30,7 @@ The most recent NFTs sold on the NFT Marketplace
 
 ### [**Search**](https://likecoin.github.io/likecoin-nft-marketplace/search/)
 
-Find specific NFTs using the [NFT Class ID](nft-details.md#nft-class-id).
+Find specific NFTs using the [NFT Class ID](../../liker-land-web/nft-details.md#nft-class-id).
 
 ### [**Tools**](https://likecoin.github.io/likecoin-nft-marketplace/tools)
 

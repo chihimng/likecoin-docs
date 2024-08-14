@@ -4,7 +4,7 @@ description: Check out other users' NFT collections
 
 # Bookshelf
 
-Besides collecting via the [NFT Widget](nft-widget.md), collectors can also collect Writing NFTs from the creator's **Public** **Bookshelf** page (in the format https://liker.land/\[WalletAddress]). Creators and collectors can share the link to their collections through any channel.
+Besides collecting via the [NFT Widget](../../liker-land-web/nft-widget.md), collectors can also collect Writing NFTs from the creator's **Public** **Bookshelf** page (in the format https://liker.land/\[WalletAddress]). Creators and collectors can share the link to their collections through any channel.
 
 The Bookshelf includes the following features:
 

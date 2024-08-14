@@ -13,7 +13,7 @@ The brand new LikeCoin [Web3Press plugin](https://wordpress.org/plugins/likecoin
 * Set the post title and tags as the NFT metadata automatically
 * One-click publishing to LikeCoin plus storage at [IPFS](https://ipfs.tech/) and [Arweave](https://www.arweave.org/) and register [ISCN](../depub/what-is-iscn/).
 * On-chain and decentralized storage fees can be paid by LikeCoin in one go
-* After minting Writing NFT, a [NFT Widget](../depub/writing-nft/collect-writing-nft/nft-widget.md) is automatically embedded at the bottom of each post for readers to [collect Writing NFT](../depub/writing-nft/collect-writing-nft/) and Integrate [LikeCoin button](creator/).
+* After minting Writing NFT, a [NFT Widget](../depub/liker-land-web/nft-widget.md) is automatically embedded at the bottom of each post for readers to [collect Writing NFT](../depub/writing-nft/collect-writing-nft/) and Integrate [LikeCoin button](creator/).
 * Support [Internet Archive](https://archive.org/) auto backups
 
 Readers will get the access of an immutable content copy which is stored in distributed file system after buying an NFT. The copy can be regarded as the “true copy” in Web3.
