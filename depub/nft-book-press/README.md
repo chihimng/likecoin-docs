@@ -5,6 +5,10 @@ description: Publish NFT eBook with LikeCoin NFT Book Press
 # Publish NFT eBook
 
 {% hint style="info" %}
+Before publishing, you can refer to the [FAQ: Listing Liker Land NFT eBooks](nft-book-press-faq.md)
+{% endhint %}
+
+{% hint style="info" %}
 Publish NFT requires a desktop computer and [LikeCoin](https://like.co/) on a desktop computer
 {% endhint %}
 
@@ -16,8 +20,15 @@ Publishing an NFT eBook on the blockchain involves the following processes:
 
 and other follow up actions:
 
-4. [Creator’s Introduction](./#creators-introduction)
-5. [Transfer NFT eBook or Batch send NFT to more than one wallet](./#transfer-nft-ebook-or-batch-send-nft-to-more-than-one-wallet)
+4. [Creator’s Introduction on Liker Land BookStore](./#creators-introduction)
+5. [NFT Book Press Uset Setting](manage-user-setting/)
+6. [Transfer NFT eBook or Batch send NFT to more than one wallet](./#transfer-nft-ebook-or-batch-send-nft-to-more-than-one-wallet)
+7. [Import EPUB files to various ereaders](./#import-epub-files-to-various-ereaders)
+8. [Manage NFT eBooks](nft-book-store.md)
+9. [Manage Book Collection](collection.md)
+10. [NFT eBooks Replenishment](replenishment.md)
+11. [Modify NFT eBook](modify-nft-ebook.md)
+12. [Burn NFT eBook](burn-nft-ebook.md)
 
 ***
 
@@ -250,7 +261,7 @@ Set your own introduction, profile picture, and display name so your supporters 
 
 ## Transfer NFT eBook or Batch send NFT to more than one wallet
 
-After publishing the NFT eBook, creators can Transfer NFT or Batch send NFT to more than one wallet.
+Transfer or Gift NFT eBooks.
 
 {% content-ref url="../transfer-writing-nft/" %}
 [transfer-writing-nft](../transfer-writing-nft/)
@@ -259,3 +270,10 @@ After publishing the NFT eBook, creators can Transfer NFT or Batch send NFT to m
 {% content-ref url="nft-book-store.md" %}
 [nft-book-store.md](nft-book-store.md)
 {% endcontent-ref %}
+
+### Import EPUB files to various ereaders
+
+Besides using USB to import EPUB files to ereaders, different brands also support uploading via network interfaces:
+
+* Kindle - [Send to Kindle](https://www.amazon.com/-/zh\_TW/gp/sendtokindle)
+* Boox - [The Complete Guide of Transferring Files](https://shop.boox.com/blogs/news/the-complete-guide-of-transferring-files)
