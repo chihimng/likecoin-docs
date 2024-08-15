@@ -6,11 +6,11 @@ description: Decentralized Liker ID sign up and LikeCoin management
 
 Users can register a Liker ID using [Keplr](../../general-guides/wallet/keplr/), allowing them to manage their [LikeCoin](https://like.co/) in a more decentralized manner and retain control of their private key.
 
-Please note that once a Liker ID is confirmed, users cannot interchange between the two login methods ( Keplr or [the General method, also known as Authcore](register/) ) for the same Liker ID.
+Please note that once a Liker ID is confirmed, users cannot interchange between the two login methods ( Keplr or [through Email/Social, also known as Authcore](register/) ) for the same Liker ID.
 
 ## **Comparison**
 
-| **Register with Keplr**                                                                                                                                                          | **General Registration ( Authcore )**                                                                                                                                                   |
+| **Register with Keplr**                                                                                                                                                          | **Register Through Email/Social ( Authcore )**                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Must have knowledge on blockchain and cryptocurrency                                                                                                                             | Friendly user experiences                                                                                                                                                               |
 | User has to manage his/her own private key, it's safer                                                                                                                           | Manage the private key by Authcore secure and frictionless sign-in solution, easy to use. User may also [export seed words](export-seed-words.md) and manage their own private key      |

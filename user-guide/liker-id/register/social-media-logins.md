@@ -7,7 +7,7 @@ description: >-
 # Connecting to my social account
 
 {% hint style="info" %}
-The followings are for [Liker ID registered through the general method (with Authcore)](./).
+The followings are for [Liker ID registered through Email/Social (with Authcore)](./).
 {% endhint %}
 
 ## Why Link Different Social Account Logins:

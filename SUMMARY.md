@@ -229,7 +229,7 @@
 ## 💻 DApp <a href="#user-guide" id="user-guide"></a>
 
 * [Liker ID](user-guide/liker-id/README.md)
-  * [Register Liker ID through the general method (with Authcore)](user-guide/liker-id/register/README.md)
+  * [Register a Liker ID through Email/Social (with Authcore)](user-guide/liker-id/register/README.md)
     * [Securing my Liker ID](user-guide/liker-id/register/verifying-email-address.md)
     * [Connecting to my social account](user-guide/liker-id/register/social-media-logins.md)
     * [Resetting password](user-guide/liker-id/register/reset-password.md)

@@ -14,7 +14,7 @@ Publish NFT requires a desktop computer and [LikeCoin](https://like.co/) on a de
 
 Publishing an NFT eBook on the blockchain involves the following processes:
 
-1. [Prepare the ePub File](./#create-an-epub-file-and-enter-metadata)
+1. [Prepare the EPUB File](./#create-an-epub-file-and-enter-metadata)
 2. [Register ISCN](./#register-iscn)
 3. [List the Book for Sale](./#list-the-book-for-sale)
 

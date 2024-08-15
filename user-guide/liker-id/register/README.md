@@ -2,11 +2,11 @@
 description: Login by social media accounts, Matters, or email/password
 ---
 
-# Register Liker ID through the general method (with Authcore)
+# Register a Liker ID through Email/Social (with Authcore)
 
-Using the [LikeCoin app](https://liker.land/getapp), you can register a Liker ID through the general method (with Authcore). Users can also [export their seed words from Authcore](../export-seed-words.md) and import them into [Keplr](../../../general-guides/wallet/keplr/) or other wallets to manage their LikeCoin.
+Using the [LikeCoin app](https://liker.land/getapp), you can register a Liker ID through Email/Social (with Authcore). Users can also [export their seed words from Authcore](../export-seed-words.md) and import them into [Keplr](../../../general-guides/wallet/keplr/) or other wallets to manage their LikeCoin.
 
-## Register a Liker ID through the general method (with Authcore) using the LikeCoin app
+## Register a Liker ID through Email/Social (with Authcore) using the LikeCoin app
 
 To register a Liker ID through the general method (with Authcore) using the [LikeCoin app](../../liker-land/download.md), follow these instructions:
 
@@ -56,9 +56,9 @@ Lastly, please note that all LikeCoin and Civic Liker referral programs ended on
 [like-pay.md](../../../general-guides/wallet/like-pay.md)
 {% endcontent-ref %}
 
-## Log in to Liker Land web with Liker ID register by general method ( with Authcore )
+## Register a Liker ID through Email/Social (with Authcore) on Liker Land web
 
-Go to the upper right corner of the Liker Land website and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
 
 <figure><img src="../../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
@@ -70,9 +70,11 @@ Click Email/Social using Liker ID by email or social login
 
 <figure><img src="../../../.gitbook/assets/Authcore Login 1-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
-Choose Google or Apple Login.
+Choose Create Account.
 
 <figure><img src="../../../.gitbook/assets/Authcore Login 2-en.png" alt=""><figcaption><p>Google or Apple Login.</p></figcaption></figure>
+
+The rest of the registration process is the same as for the mobile version.
 
 If you need other login options, you can log in at [https://liker.land/zh-Hant/store/featured?authcore\_legacy=1](https://liker.land/zh-Hant/store/featured?authcore\_legacy=1).
 

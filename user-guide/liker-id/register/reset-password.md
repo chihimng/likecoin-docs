@@ -7,7 +7,7 @@ description: >-
 # Resetting password
 
 {% hint style="info" %}
-The followings are for [Liker ID registered through the general method (with Authcore)](./).
+The followings are for [Liker ID registered through Email/Social (with Authcore)](./).
 {% endhint %}
 
 If you cannot login your Liker ID with your social logins, please try the following steps to reset password and see if it helps.&#x20;

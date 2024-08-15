@@ -7,10 +7,10 @@ description: >-
 # Securing my Liker ID
 
 {% hint style="info" %}
-The followings are for [Liker ID registered through the general method (with Authcore)](./).
+The followings are for [Liker ID registered through Email/Social (with Authcore)](./).
 {% endhint %}
 
-## 2-Step Verification (2FA) <a href="#2fa" id="2fa"></a>
+## 2-Step Verification (2FA) <a href="#id-2fa" id="id-2fa"></a>
 
 After setting up 2FA, a 6-digit passcode is required to log in from a new device.
 
