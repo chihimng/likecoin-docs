@@ -14,6 +14,11 @@ Publishing an NFT eBook on the blockchain involves the following processes:
 2. [Register ISCN](./#register-iscn)
 3. [List the Book for Sale](./#list-the-book-for-sale)
 
+and other follow up actions:
+
+4. [Creator’s Introduction](./#creators-introduction)
+5. [Transfer NFT eBook or Batch send NFT to more than one wallet](./#transfer-nft-ebook-or-batch-send-nft-to-more-than-one-wallet)
+
 ***
 
 ## Create an epub file and enter metadata
@@ -232,3 +237,21 @@ The version of the book will appear in "Current Listing".
 Go back to Liker Land to check that the NFT eBook has been successfully listed for sale.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 25.png" alt=""><figcaption><p>The NFT eBook has been successfully listed for sale</p></figcaption></figure>
+
+***
+
+## Creator’s Introduction
+
+Set your own introduction, profile picture, and display name so your supporters can know you better.&#x20;
+
+{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
+{% endcontent-ref %}
+
+## Transfer NFT eBook or Batch send NFT to more than one wallet
+
+After publishing the NFT eBook, creators can Transfer NFT or Batch send NFT to more than one wallet.
+
+{% content-ref url="../transfer-writing-nft/" %}
+[transfer-writing-nft](../transfer-writing-nft/)
+{% endcontent-ref %}

@@ -5,7 +5,7 @@ description: Publish ANY webpage as NFT
 # Publish Writing NFT
 
 {% hint style="info" %}
-### 📣Publishing Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../general-guides/faucet.md) for testing.
+📣Publishing Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../general-guides/faucet.md) for testing.
 {% endhint %}
 
 ## How to publish Writing NFT
@@ -48,6 +48,14 @@ Publish NFT on the [**illustBuy**](illustbuy.md) illustration platform.
 
 ***
 
+## Creator’s Introduction
+
+Set your own introduction, profile picture, and display name so your supporters can know you better.
+
+{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
+[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
+{% endcontent-ref %}
+
 ## Transfer NFT or Batch send NFT to more than one wallet
 
 After publishing the NFT, creators can Transfer NFT or Batch send NFT to more than one wallet.
@@ -55,18 +63,6 @@ After publishing the NFT, creators can Transfer NFT or Batch send NFT to more th
 {% content-ref url="../transfer-writing-nft/" %}
 [transfer-writing-nft](../transfer-writing-nft/)
 {% endcontent-ref %}
-
-***
-
-## Creator’s Introduction
-
-Set your own introduction, profile picture, and display name so your supporters can know you better. ( Need to register a Liker ID ).
-
-{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
-{% endcontent-ref %}
-
-***
 
 ## Display NFT Widget
 
