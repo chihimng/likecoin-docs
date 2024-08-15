@@ -87,7 +87,7 @@
 ## 📕 DePub
 
 * [Decentralized Publishing](depub/decentralized-publishing.md)
-* [Writing NFT](depub/writing-nft.md)
+* [Writing NFT FAQ](depub/writing-nft.md)
 * [Publish NFT eBook](depub/nft-book-press/README.md)
   * [Manage NFT eBooks](depub/nft-book-press/nft-book-store.md)
   * [Manage Book Collection](depub/nft-book-press/collection.md)
