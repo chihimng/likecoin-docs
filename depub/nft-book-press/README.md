@@ -5,7 +5,7 @@ description: Publish NFT eBook with LikeCoin NFT Book Press
 # Publish NFT eBook
 
 {% hint style="info" %}
-Publish NFT requires the [Keplr Browser Extension](../../general-guides/wallet/keplr/) and [LikeCoin](https://like.co/) on a desktop computer
+Publish NFT requires a desktop computer and [LikeCoin](https://like.co/) on a desktop computer
 {% endhint %}
 
 Publishing an NFT eBook on the blockchain involves the following processes:
@@ -21,9 +21,9 @@ and other follow up actions:
 
 ***
 
-## Create an epub file and enter metadata
+## Create an EPUB file and enter metadata
 
-Create an [ePub](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../what-is-iscn/). First, create the ePub file for the eBook, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. Taking the commonly used ePub editing software as an example:
+Create an [EPUB](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../what-is-iscn/). First, create the EPUB file for the eBook, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. Taking the commonly used EPUB editing software as an example:
 
 #### calibre
 
@@ -45,7 +45,7 @@ In [Sigil](https://sigil-ebook.com/), you can press the F8 key to edit metadata 
 
 ## Register ISCN
 
-After preparing the ePub file, register it as an ISCN.
+After preparing the EPUB file, register it as an ISCN.
 
 ### Step 1: Upload the file
 
@@ -53,21 +53,21 @@ Visit the[ app.like.co](https://app.like.co/) website and click "Register ISCN".
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 5.png" alt=""><figcaption><p>Visit the app.like.co website and click "Register ISCN"</p></figcaption></figure>
 
-A pop-up window will appear; click on Keplr to connect the wallet.
+A pop-up window will appear to connect your wallet. It is recommended to register and **log in with a Liker ID using Email/Social**. For more details, refer to:
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>A pop-up window will appear; click on Keplr to connect the wallet</p></figcaption></figure>
+{% content-ref url="../../user-guide/liker-id/register/" %}
+[register](../../user-guide/liker-id/register/)
+{% endcontent-ref %}
 
-Click "Select a file" to upload the prepared ePub file.
+<figure><img src="../../.gitbook/assets/NFT Book Press 6.png" alt=""><figcaption><p>A pop-up window will appear; click and connect to a wallet</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 7.png" alt=""><figcaption><p>Click "Select a file" to upload the prepared ePub file</p></figcaption></figure>
+Click "Select a file" to upload the prepared EPUB file.
 
-The system will automatically split the ePub file content into two files: one is the ePub file, and the other is the book cover image file. Check if everything is okay, then click "Start Upload". The system will upload these two files to the distributed network.
+<figure><img src="../../.gitbook/assets/NFT Book Press 7.png" alt=""><figcaption><p>Click "Select a file" to upload the prepared EPUB file</p></figcaption></figure>
+
+The system will automatically split the EPUB file content into two files: one is the EPUB file, and the other is the book cover image file. Check if everything is okay, then click "Start Upload". The system will upload these two files to the distributed network.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 8.png" alt=""><figcaption><p>Click "Start Upload" to upload the two files to the distributed network</p></figcaption></figure>
-
-The Keplr wallet will pop up a window several times; click "Approve" to sign and wait for a while.
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>Click "Approve" on Keplr to sign</p></figcaption></figure>
 
 ### Step 2: Enter book information
 
@@ -81,25 +81,19 @@ The Keplr wallet will pop up a window several times; click "Approve" to sign and
 4. Author: The author's name.
 5. Stakeholders: The system will automatically add the author and the ISCN registrant as stakeholders.
 6. Tags: These are used for classification purposes.
-7. Downloadable URL: The file's name of the ePub when it is being downloaded.
-8. URL: The URL of the ePub.
+7. Downloadable URL: The file's name of the EPUB when it is being downloaded.
+8. URL: The URL of the EPUB.
 9. License: The default is "Copyright. All rights reserved" for copyright declaration.
-10. Content Fingerprints: These are URL hashes of the book and its cover. Each pair corresponds to one file, including IPFS and AR (Arweave) formats. Click on the URLs to check whether the content has been successfully uploaded. For instance, the four hashes in the attached screenshot represent the IPFS ePub file, IPFS book cover file, AR ePub file, and AR book cover file.
+10. Content Fingerprints: These are URL hashes of the book and its cover. Each pair corresponds to one file, including IPFS and AR (Arweave) formats. Click on the URLs to check whether the content has been successfully uploaded. For instance, the four hashes in the attached screenshot represent the IPFS EPUB file, IPFS book cover file, AR EPUB file, and AR book cover file.
 11. \+Other settings: Click on it to fill in the URL and ISBN fields if required.
 
 After confirming that everything is correct, click "Register".
 
-
-
 <figure><img src="../../.gitbook/assets/NFT Book Press 11.png" alt=""><figcaption><p>Click "Register"</p></figcaption></figure>
-
-The Keplr wallet will pop up a window several times; click "Approve" to sign. Be careful not to click "Retry"; just wait for a while.
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 14.png" alt=""><figcaption><p>Click "Approve" on Keplr to sign</p></figcaption></figure>
 
 ### Step 3: ISCN registration completed
 
-The message "Completed! Here is your ISCN" appears, indicating that the ISCN has been successfully registered. The string of characters in the ISCN ID field will be used when listing the NFT eBook for sale; click to copy it. Note that the '/1' in the picture is the ISCN version number, which is not essential when creating NFT eBooks.
+The message "Completed! Here is your ISCN" appears, indicating that the ISCN has been successfully registered. The string of characters in the ISCN ID field will be used when listing the NFT eBook for sale. Note that the '/1' in the picture is the ISCN version number.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 15.png" alt=""><figcaption><p>Completed ISCN registration and copy the ISCN ID</p></figcaption></figure>
 
@@ -111,13 +105,19 @@ Listing for sale is divided into two steps: minting the NFT eBook and listing it
 
 ### Step 1: Mint the NFT eBook
 
-Visit the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Mint NFT", enter the website, and click the "Connect Wallet" link in the upper right corner to connect with Keplr.
+Click ‘Mint Book’ at the top right corner of the ISCN record.
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 9.png" alt=""><figcaption><p>Click "Mint Book"</p></figcaption></figure>
+
+The system will automatically redirect to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, and the ISCN ID will be pre-entered in the ‘Enter ISCN ID or NFT Class ID’ field. After clicking "Sign In" at the top right corner to log in to the website, click "Submit".
+
+<figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>In the "Enter ISCN ID or NFT Class ID" field, enter the ISCN ID</p></figcaption></figure>
+
+Alternatively, go directly to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website and click "Mint NFT". Click ‘Sign In’ at the top right corner to log in. Manually enter the previously registered ISCN ID in the "Enter ISCN ID or NFT Class ID" field and then click "Submit".
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>Visit the LikeCoin NFT BookPress website, click "Mint NFT"</p></figcaption></figure>
 
 In the "Enter ISCN ID or NFT Class ID" field, input the ISCN ID previously registered on app.like.co, and please note that there is no need to include the ISCN version number. Afterward, click "Submit".
-
-<figure><img src="../../.gitbook/assets/NFT Book Press 17.png" alt=""><figcaption><p>In the "Enter ISCN ID or NFT Class ID" field, enter the ISCN ID</p></figcaption></figure>
 
 {% hint style="info" %}
 If you forget your ISCN ID, you can retrieve it in "[My Works](https://app.like.co/works)" at app.like.co.&#x20;
@@ -126,10 +126,10 @@ If you forget your ISCN ID, you can retrieve it in "[My Works](https://app.like.
 The system will automatically extract the basic information of ISCN for you. Fill in other information required in the "By filling required information" tab.
 
 * Enter the number of NFTs to mint in the "Number of NFT to mint" field.
-* If your book file is in ePub format, the system will automatically extract the link to the AR cover and place it in the "Image URL" column.
+* If your book file is in EPUB format, the system will automatically extract the link to the AR cover and place it in the "Image URL" column.
 * "External URL (optional)", "URI (optional)", and "Max number of supply for this NFT Class (optional)" can be filled in as needed.
 
-After filling in and confirming that everything is correct, click "Mint". The Keplr wallet will pop up windows several times. Click "Approve" to sign.
+After filling in and confirming that everything is correct, click "Mint".
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 18.png" alt=""><figcaption><p>Enter all the information and click "Mint"</p></figcaption></figure>
 
@@ -254,4 +254,8 @@ After publishing the NFT eBook, creators can Transfer NFT or Batch send NFT to m
 
 {% content-ref url="../transfer-writing-nft/" %}
 [transfer-writing-nft](../transfer-writing-nft/)
+{% endcontent-ref %}
+
+{% content-ref url="nft-book-store.md" %}
+[nft-book-store.md](nft-book-store.md)
 {% endcontent-ref %}

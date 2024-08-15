@@ -5,7 +5,7 @@ description: Publish ANY webpage as NFT
 # Publish Writing NFT
 
 {% hint style="info" %}
-📣Publishing Writing NFT requires LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../general-guides/faucet.md) for testing.
+📣Publishing Writing NFT requires a desktop computer and LikeCoin, users can get a small amount of LikeCoin from the [faucet](../../general-guides/faucet.md) for testing.
 {% endhint %}
 
 ## How to publish Writing NFT
