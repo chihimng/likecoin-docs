@@ -37,6 +37,6 @@ Log in to the LikeCoin app and you can find the following:
 * [Profile](../liker-id/edit-avatar-displayname.md)
 * Security: [Change Password](../liker-id/register/reset-password.md), [2FA](../liker-id/register/verifying-email-address.md), [Devices](../liker-id/register/devices.md), [Social Account Login](../liker-id/register/social-media-logins.md)
 * Wallet Connect
-* [Export Seed Words](../liker-id/export-seed-words.md)
+* [Export Seed Words](../liker-id/register/export-seed-words.md)
 * Bookmarks
 * [Tweets](superlike.md)

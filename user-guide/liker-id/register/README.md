@@ -4,7 +4,7 @@ description: Login by social media accounts, Matters, or email/password
 
 # Register a Liker ID through Email/Social (with Authcore)
 
-Using the [LikeCoin app](https://liker.land/getapp), you can register a Liker ID through Email/Social (with Authcore). Users can also [export their seed words from Authcore](../export-seed-words.md) and import them into [Keplr](../../../general-guides/wallet/keplr/) or other wallets to manage their LikeCoin.
+Using the [LikeCoin app](https://liker.land/getapp), you can register a Liker ID through Email/Social (with Authcore). Users can also [export their seed words from Authcore](export-seed-words.md) and import them into [Keplr](../../../general-guides/wallet/keplr/) or other wallets to manage their LikeCoin.
 
 ## Register a Liker ID through Email/Social (with Authcore) using the LikeCoin app
 

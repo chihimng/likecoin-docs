@@ -52,6 +52,12 @@ Use the [NFT Portal](../nft-portal/) to mint NFTs.
 [liker-id](../../user-guide/liker-id/)
 {% endcontent-ref %}
 
+### Export Wallet Seed Words (For Liker ID registered through Email/Social only)
+
+{% content-ref url="../../user-guide/liker-id/register/export-seed-words.md" %}
+[export-seed-words.md](../../user-guide/liker-id/register/export-seed-words.md)
+{% endcontent-ref %}
+
 ### **Clear Reader Cache**
 
 Click to clear the reader cache and reload to view the new content.

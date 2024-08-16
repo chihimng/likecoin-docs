@@ -96,7 +96,7 @@ description: Frequently Asked Questions
 * [How to register a Liker ID?](user-guide/liker-id/)
 * [What is Authcore?](user-guide/liker-id/register/what-is-authcore.md)
 * [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](user-guide/liker-id/register/reset-password.md)
-* [Can I export my private key?](user-guide/liker-id/export-seed-words.md)
+* [Can I export my private key?](user-guide/liker-id/register/export-seed-words.md)
 
 ### [LikeCoin button](faq.md#likecoin-button)
 
