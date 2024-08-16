@@ -6,16 +6,6 @@ description: Set up your unique identity
 
 ## How to set up
 
-### Web
-
-Login [Liker Land](https://liker.land/) using the [Keplr Browser Extension](../../general-guides/wallet/keplr/) and click on "Settings". Then, click on "Liker ID".
-
-<figure><img src="../../.gitbook/assets/Liker ID avatar desktop start-en.png" alt=""><figcaption><p>Click on "Settings" then click on "Liker ID"</p></figcaption></figure>
-
-A pop-up window will appear. Click on "Change Avatar" or "Edit" to modify your email. Click on "Display Name" and "Description" to change them, and don't forget to click "Save".
-
-<figure><img src="../../.gitbook/assets/Liker ID avatar desktop-en.png" alt=""><figcaption><p>Click on "Change Avatar" or "Edit" to modify your email. Click on "Display Name" and "Description" to change them</p></figcaption></figure>
-
 ### Mobile
 
 In the [LikeCoin app](../liker-land/download.md), you can change your avatar by checking the avatar section.
@@ -25,6 +15,30 @@ In the [LikeCoin app](../liker-land/download.md), you can change your avatar by 
 Click on the settings icon located at the lower right-hand corner and select "Profile". Then, click on "Profile" again to change your display name.
 
 <figure><img src="../../.gitbook/assets/avatar 2-en.png" alt=""><figcaption><p>Click on the settings icon located at the lower right-hand corner and select "Profile". Then, click on "Profile" again to change your display name</p></figcaption></figure>
+
+### Web
+
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+
+<figure><img src="../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
+
+Click "Login".
+
+<figure><img src="../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+
+Click "Email/Social" or Keplr to login.
+
+<figure><img src="../../.gitbook/assets/Liker ID avatar desktop login-en.png" alt=""><figcaption><p>Click "Email/Social" or Keplr to login</p></figcaption></figure>
+
+After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
+
+<figure><img src="../../.gitbook/assets/Authcore Liker ID-en.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
+
+Click on "Change Avatar" or "Edit" to modify your email. Click on "Display Name" and "Description" to change them, and don't forget to click "Save".
+
+<figure><img src="../../.gitbook/assets/Liker ID avatar desktop-en.png" alt=""><figcaption><p>Click on "Change Avatar" or "Edit" to modify your email. Click on "Display Name" and "Description" to change them</p></figcaption></figure>
+
+***
 
 ## Use Case
 

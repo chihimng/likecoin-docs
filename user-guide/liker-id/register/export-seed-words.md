@@ -37,8 +37,6 @@ Click "Copy" to copy them to another location.
 
 <figure><img src="../../../.gitbook/assets/seed word mobile 4-en.png" alt=""><figcaption><p>Click "Copy" to copy the seed words</p></figcaption></figure>
 
-You can then import the seed words into Keplr, Cosmostation, Leap, or other wallets that support the Cosmos ecosystem.
-
 ## Export Seed Words from a Desktop Computer
 
 ### Step 1: Go to the URL for exporting seed words
@@ -90,6 +88,10 @@ Enter your login password and click "Show Seed Words".
 Click "Copy" to copy the seed words.
 
 ![Click "Copy" to copy the seed words](<../../../.gitbook/assets/Seed Words 5en.png>)
+
+***
+
+You can then import the seed words into Keplr, Cosmostation, Leap, or other wallets that support the Cosmos ecosystem.
 
 {% content-ref url="../../../general-guides/wallet/keplr/import-wallet-into-keplr.md" %}
 [import-wallet-into-keplr.md](../../../general-guides/wallet/keplr/import-wallet-into-keplr.md)
