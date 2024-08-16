@@ -4,11 +4,53 @@ description: >-
   ID
 ---
 
-# Securing my Liker ID
+# Securing your Liker ID
 
 {% hint style="info" %}
 The followings are for [Liker ID registered through Email/Social (with Authcore)](./).
 {% endhint %}
+
+## Confirm your email address <a href="#confirm-your-email-address" id="confirm-your-email-address"></a>
+
+### Step 1: Go to Liker ID setting
+
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
+
+Click "Login".
+
+<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+
+Click "Email/Social" using Liker ID by email or social login
+
+<figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+
+After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
+
+<figure><img src="../../../.gitbook/assets/Authcore Liker ID-en.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
+
+Click ‘Edit’ in ‘Your Email’ to go to the ‘Manage email’ page.
+
+<figure><img src="../../../.gitbook/assets/auth-email-0-en.png" alt=""><figcaption><p>Click ‘Edit’ in ‘Your Email’ to go to the ‘Manage email’ page</p></figcaption></figure>
+
+### Step 2: Confirm Email
+
+On the "Manage email" page, click "Confirm Now".
+
+![On the "Manage email" page, click "Confirm Now"](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJpIkC4GeOL3XxM0u5%2Fauth-email-1.png?alt=media\&token=c01af70c-90c3-48d5-9203-f7f3e6ab5fa1)
+
+### Step 3: Enter the confirmation code
+
+An email with a 6-digit code will be sent to your mailbox. Enter it into the blank space below and click "Confirm".
+
+![Enter the 6-digit code into the blank space below and click "Confirm".](https://downloads.intercomcdn.com/i/o/171962025/7a29375736dc15a5f3eb9909/image.png)
+
+If you see the page below, it's done.
+
+![It's done!](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJpVUgHk4bjk15P\_XD%2Fauth-email-3.png?alt=media\&token=6aaa354d-ef5a-4179-a00a-08c3ca9f7495)
+
+***
 
 ## 2-Step Verification (2FA) <a href="#id-2fa" id="id-2fa"></a>
 
@@ -31,8 +73,6 @@ Click "Email/Social" using Liker ID by email or social login
 <figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
-
-
 
 <figure><img src="../../../.gitbook/assets/Authcore Liker ID-en.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
 
@@ -77,27 +117,3 @@ Continuing from the previous step, the page now displays a QR Code:
 ![Set up your backup code](../../../.gitbook/assets/2fa-6-en.png)
 
 2-Step Verification setup is completed.
-
-## Confirm your email address <a href="#confirm-your-email-address" id="confirm-your-email-address"></a>
-
-### Step 1: Go to Profile setting
-
-Go to [https://like.co/in/](https://like.co/in/) and click "Switch to legacy interface" and log in.
-
-Click on "AuthCore Settings" and select "Profile". Click "Contact" and then click "Email" to go to the "Manage email" page.
-
-### Step 2: Confirm Email
-
-On the "Manage email" page, click "Confirm Now".
-
-![On the "Manage email" page, click "Confirm Now"](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJpIkC4GeOL3XxM0u5%2Fauth-email-1.png?alt=media\&token=c01af70c-90c3-48d5-9203-f7f3e6ab5fa1)
-
-### Step 3: Enter the confirmation code
-
-An email with a 6-digit code will be sent to your mailbox. Enter it into the blank space below and click "Confirm".
-
-![Enter the 6-digit code into the blank space below and click "Confirm".](https://downloads.intercomcdn.com/i/o/171962025/7a29375736dc15a5f3eb9909/image.png)
-
-If you see the page below, it's done.
-
-![It's done!](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MDJn8Td1rooIZewTqJt%2F-MDJpVUgHk4bjk15P\_XD%2Fauth-email-3.png?alt=media\&token=6aaa354d-ef5a-4179-a00a-08c3ca9f7495)
