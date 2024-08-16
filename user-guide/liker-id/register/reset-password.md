@@ -14,29 +14,37 @@ If you cannot login your Liker ID with your social logins, please try the follow
 
 ## Step 1: Login Liker Land
 
-#### Mobile
+### Mobile
 
 On the [LikeCoin app](../../liker-land/download.md) click "Sign In"
 
-#### Web
+### Web
 
-Go to [https://like.co/in](https://like.co/in) and make sure that you are being logged out. You may go to the menu at the top right hand corner and find the "Logout" option.
+make sure that you are being logged out. You may go to the menu at the top right hand corner and find the "Logout" option.
 
-Click "Switch to legacy interface".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
 
-<figure><img src="../../../.gitbook/assets/resetpassword-0-en.png" alt=""><figcaption><p>Click "Switch to legacy interface"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
+
+Click "Login".
+
+<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+
+Click "Email/Social" using Liker ID by email or social login
+
+<figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
 ## **Step 2:** Reset Password
 
 Login again, on the login box select "Reset Password".
 
-<figure><img src="../../../.gitbook/assets/resetpassword 1-en.png" alt=""><figcaption><p>Click "Reset Password"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/resetpassword-1-en.png" alt=""><figcaption><p>Click "Reset Password"</p></figcaption></figure>
 
 ## Step 3: Input your registered email address
 
 Input your registered email address and press "Send", it should be the email used during registration.
 
-<figure><img src="../../../.gitbook/assets/resetpassword 2-en.png" alt=""><figcaption><p>Input your registered email address and press "Send"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/resetpassword-2-en.png" alt=""><figcaption><p>Input your registered email address and press "Send"</p></figcaption></figure>
 
 {% hint style="info" %}
 If it doesn't work, e.g. "Can't find the email address or phone number" appears, please try to:
@@ -47,7 +55,7 @@ If it doesn't work, e.g. "Can't find the email address or phone number" appears,
 
 The reset password message will appear.
 
-<figure><img src="../../../.gitbook/assets/resetpassword 3-en.png" alt=""><figcaption><p>The reset password message will appear</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/resetpassword-3-en.png" alt=""><figcaption><p>The reset password message will appear</p></figcaption></figure>
 
 ## Step 4: Receive the reset password email
 
@@ -59,7 +67,7 @@ Input your new password twice, and click "Reset Password".
 
 ![Input your new password twice, and click "Reset Password"](../../../.gitbook/assets/resetpassword-5.png)
 
-You have successfully reset your password, go back to LikeCoin app or [https://like.co/in](https://like.co/in) and login your Liker ID.
+You have successfully reset your password, go back to LikeCoin app or Liker Land web and login your Liker ID.
 
 ![You have successfully reset your password](../../../.gitbook/assets/resetpassword-6.png)
 
@@ -67,7 +75,7 @@ You have successfully reset your password, go back to LikeCoin app or [https://l
 
 On the login box, use your **email and password to login**. Please do not select the social logins on the above.
 
-<figure><img src="../../../.gitbook/assets/resetpassword 7-en.png" alt=""><figcaption><p>Use your email and password to login</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/resetpassword-7-en.png" alt=""><figcaption><p>Use your email and password to login</p></figcaption></figure>
 
 ## **Step 6: Reset Social Logins**
 

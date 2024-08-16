@@ -31,15 +31,25 @@ Click on the social media login ( except Matters ), follow the on-screen instruc
 
 ### Web
 
-Go to [https://like.co/in/](https://like.co/in/) and click "Switch to legacy interface" and log in.
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
 
-<figure><img src="../../../.gitbook/assets/resetpassword-0-en.png" alt=""><figcaption><p>Click "Switch to legacy interface" and log in</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/legacy login-en.png" alt=""><figcaption><p> log in to your account</p></figcaption></figure>
+Click "Login".
 
-Click "AuthCore Settings".
+<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
+Click "Email/Social" using Liker ID by email or social login
+
+<figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+
+After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
+
+<figure><img src="../../../.gitbook/assets/Authcore Liker ID-en.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
+
+Click "AuthCore Settings" in the upper right corner.
+
+<figure><img src="../../../.gitbook/assets/Authcore settings-en.png" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
 
 Click "Security settings" and "Social Account login".
 
