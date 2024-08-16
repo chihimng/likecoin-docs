@@ -42,13 +42,13 @@ Install the Keplr wallet before registering your Liker ID. If you have already c
 
 ### Step 2: Login to Keplr
 
-Go to the upper right corner of the Liker Land website and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
 Click "Login".
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 A pop-up window appears, click Keplr to login to Liker Land.
 
