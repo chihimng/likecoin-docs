@@ -38,6 +38,12 @@ Click "Sign Up with Email", "Or log in with another method" to register or log i
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 6-en.png" alt=""><figcaption><p>Register or Log in to your Liker Land account</p></figcaption></figure>
 
+Learn more about Sign Up with Email:
+
+{% content-ref url="../../user-guide/liker-id/register/" %}
+[register](../../user-guide/liker-id/register/)
+{% endcontent-ref %}
+
 ## Step 6: Confirm Wallet Address
 
 A wallet address will appear on the page where this book will be added to the following account, confirm it is correct and then click "Confirm". You can also check "[Bookshelf](../liker-land-web/bookshelf.md)" at any time to see if the wallet address is correct.
@@ -57,3 +63,10 @@ A page appears saying you have successfully claimed the eBook, you can also clic
 <figure><img src="../../.gitbook/assets/Collect NFT Book 9-en.png" alt=""><figcaption><p>You have successfully claimed your eBook page appears</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 10-en.png" alt=""><figcaption><p>Go to Bookshelf and check your collection</p></figcaption></figure>
+
+### Import EPUB files to various ereaders
+
+If the purchased EPUB does not have DRM, besides using USB to import EPUB files to ereaders, different brands also support uploading via network interfaces:
+
+* Kindle - [Send to Kindle](https://www.amazon.com/-/zh\_TW/gp/sendtokindle)
+* Boox - [The Complete Guide of Transferring Files](https://shop.boox.com/blogs/news/the-complete-guide-of-transferring-files)
