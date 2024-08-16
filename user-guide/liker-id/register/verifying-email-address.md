@@ -16,19 +16,31 @@ After setting up 2FA, a 6-digit passcode is required to log in from a new device
 
 The following steps need to be performed on a desktop computer, and a smartphone is required:
 
-### Step 1: Login with the legacy interface
+### Step 1: Login Liker Land web
 
-Go to [https://like.co/in/](https://like.co/in/) and click "Switch to legacy interface" and log in.
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
 
-<figure><img src="../../../.gitbook/assets/resetpassword-0-en.png" alt=""><figcaption><p>Click "Switch to legacy interface"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/legacy login-en.png" alt=""><figcaption><p>Log in your account</p></figcaption></figure>
+Click "Login".
+
+<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+
+Click "Email/Social" using Liker ID by email or social login
+
+<figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+
+After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
+
+
+
+<figure><img src="../../../.gitbook/assets/Authcore Liker ID-en.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
 
 ### Step 2: Go to security settings
 
-Click "AuthCore Settings".
+Click "AuthCore Settings" in the upper right corner.
 
-<figure><img src="../../../.gitbook/assets/authcore settings-en.png" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore settings-en.png" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
 
 Select "Security settings" and Click "2-step verification (2FA)".
 

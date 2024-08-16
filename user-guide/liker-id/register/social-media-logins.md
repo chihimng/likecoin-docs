@@ -39,7 +39,7 @@ Go to [https://like.co/in/](https://like.co/in/) and click "Switch to legacy int
 
 Click "AuthCore Settings".
 
-<figure><img src="../../../.gitbook/assets/authcore settings-en.png" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Click "AuthCore Settings"</p></figcaption></figure>
 
 Click "Security settings" and "Social Account login".
 

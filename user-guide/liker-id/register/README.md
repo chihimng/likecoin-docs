@@ -56,26 +56,28 @@ Lastly, please note that all LikeCoin and Civic Liker referral programs ended on
 [like-pay.md](../../../general-guides/wallet/like-pay.md)
 {% endcontent-ref %}
 
+***
+
 ## Register a Liker ID through Email/Social (with Authcore) on Liker Land web
 
 Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
 Click "Login".
 
-<figure><img src="../../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
-Click Email/Social using Liker ID by email or social login
+Click "Email/Social" using Liker ID by email or social login
 
-<figure><img src="../../../.gitbook/assets/Authcore Login 1-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 3-en.png" alt=""><figcaption><p>Click Email/Social using Liker ID by email or social login</p></figcaption></figure>
 
-Choose Create Account.
+Click "Create account".
 
-<figure><img src="../../../.gitbook/assets/Authcore Login 2-en.png" alt=""><figcaption><p>Google or Apple Login.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 4-en.png" alt=""><figcaption><p>Click "Create account"</p></figcaption></figure>
+
+Click on any of the social logins to create an account, or enter your email and password and click ‘Create account".
+
+<figure><img src="../../../.gitbook/assets/Authcore 5-en.png" alt=""><figcaption><p>Create account with social login or username+password</p></figcaption></figure>
 
 The rest of the registration process is the same as for the mobile version.
-
-If you need other login options, you can log in at [https://liker.land/zh-Hant/store/featured?authcore\_legacy=1](https://liker.land/zh-Hant/store/featured?authcore\_legacy=1).
-
-<figure><img src="../../../.gitbook/assets/Authcore Login 3-en.png" alt=""><figcaption><p>Legacy Login</p></figcaption></figure>
