@@ -12,7 +12,7 @@ The followings are for [Liker ID registered through Email/Social (with Authcore)
 
 If you cannot login your Liker ID with your social logins, please try the following steps to reset password and see if it helps.&#x20;
 
-## Step 1: Login Liker Land
+## Step 1: Login
 
 ### Mobile
 
