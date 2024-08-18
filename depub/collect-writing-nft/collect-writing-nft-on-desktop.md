@@ -1,7 +1,8 @@
 ---
 description: >-
-  Using Keplr, Cosmostation, Leap, Keplr Mobile, Cosmostation app or LikeCoin
-  app to collect Writing NFT by LIKE on desktop
+  Using Email/Social login, Keplr, Cosmostation, Leap, Keplr Mobile,
+  Cosmostation app or LikeCoin app...etc to collect Writing NFT by LIKE on
+  desktop
 ---
 
 # Collect Writing NFT by LIKE on desktop
@@ -12,17 +13,27 @@ You can purchase Writing NFT with LikeCoin, which not only supports creators' wo
 
 Go to the upper right corner of the Liker Land website and click "Enter Store".
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
 Click "Login".
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
-Or click "Collect Now", "Collect" or the current NFT price and choose [Keplr](collect-writing-nft-on-desktop.md#keplr), [Cosmostation](collect-writing-nft-on-desktop.md#cosmostation), [Leap](collect-writing-nft-on-desktop.md#leap), [Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile), [Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) or [LikeCoin app](collect-writing-nft-on-desktop.md#liker-land-app), etc to connect wallet, login and purchase Writing NFT.
+Or click "Collect Now", "Collect" or the current NFT price and choose [Email/Social](../../user-guide/liker-id/register/), [Keplr](collect-writing-nft-on-desktop.md#keplr), [Cosmostation](collect-writing-nft-on-desktop.md#cosmostation), [Leap](collect-writing-nft-on-desktop.md#leap), [Keplr mobile](collect-writing-nft-on-desktop.md#keplr-mobile), [Cosmostation app](collect-writing-nft-on-desktop.md#cosmostation-app) or [LikeCoin app](collect-writing-nft-on-desktop.md#liker-land-app)...etc to connect wallet, login and purchase Writing NFT.
 
-<figure><img src="../../.gitbook/assets/Buy NFT 6-en.png" alt=""><figcaption><p>Various kind of logins</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 4-en.png" alt=""><figcaption><p>Various kind of logins</p></figcaption></figure>
 
 ## Step 2: Login and Purchase NFT
+
+### Recommend:thumbsup:Email/Social
+
+After successful login, your avatar will be displayed in the upper right corner of the Liker Land website.
+
+<figure><img src="../../.gitbook/assets/Buy NFT 6 success.png" alt=""><figcaption><p>After login, your avatar is in the upper right corner of the Liker Land website</p></figcaption></figure>
+
+Click on the Writing NFT price or the collect button and the Collect NFT page pops up. "Leave a signed message to creator" and enter the message if you want to do so, or just click "Pay by LIKE".
+
+<figure><img src="../../.gitbook/assets/Buy NFT pay by LIKE-en.png" alt=""><figcaption><p>Leave a message to creator and Pay by LIKE</p></figcaption></figure>
 
 ### Keplr
 
@@ -212,7 +223,7 @@ The LikeCoin app pops up a signature request window, click "Approve" to confirm 
 
 ## Step 3: Check your NFT Collection
 
-Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Dashboard](../liker-land-web/dashboard.md) to check out the NFT that you have collected.
+Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Bookshelf](../liker-land-web/bookshelf.md) to check out the NFT that you have collected.
 
 <figure><img src="../../.gitbook/assets/Buy NFT Finish-en.png" alt=""><figcaption><p>Successfully purchased Writing NFT</p></figcaption></figure>
 
