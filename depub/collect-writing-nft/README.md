@@ -8,19 +8,23 @@ No matter if you have a crypto wallet or not, collecting Writing NFTs on desktop
 
 ## Ways to collect Writing NFT
 
+### Credit Card
+
 ### [Collect Writing NFT with a credit card (without a wallet)](./#collect-writing-nft-with-a-credit-card-havent-created-any-wallet-for-both-desktop-and-mobile)
 
 Applicable to those who haven't created any wallet, and it works on both desktop and mobile.
 
 ### [Already have a wallet and collect Writing NFT with a credit card](./#already-have-a-wallet-and-collect-writing-nft-with-a-credit-card-for-both-desktop-and-mobile)
 
-Applicable to those who have created a wallet. Use can use [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikeCoin app](../../user-guide/liker-land/download.md) to collect Writing NFT via desktop or mobile browser and pay by credit card.
+Applicable to those who have created a wallet. User can use [Email/Social](../../user-guide/liker-id/register/), [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikeCoin app](../../user-guide/liker-land/download.md)...etc to collect Writing NFT via desktop or mobile browser and pay by credit card.
 
-LikeCoin app users can pay by credit card directly in the app.
+[LikeCoin app](../what-is-iscn/app.like.co/likecoin-app.md) users can pay by credit card directly in the app.
+
+### LikeCoin
 
 ### [Collect Writing NFT by LIKE on desktop](collect-writing-nft-on-desktop.md)
 
-Users can use [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikeCoin app](../../user-guide/liker-land/download.md) to collect Writing NFT by LIKE on desktop.
+Users can use [Email/Social](../../user-guide/liker-id/register/), [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikeCoin app](../../user-guide/liker-land/download.md)...etc, to collect Writing NFT by LIKE on desktop.
 
 ### [Collect Writing NFT by LIKE on mobile](collect-writing-nft-on-mobile.md)
 
@@ -30,7 +34,7 @@ Users can also collect Writing NFT on a mobile browser by LIKE using [Keplr Mobi
 
 ### [One-Click Collect All Writing NFT](collect-all.md)
 
-Users can use [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikeCoin app](../../user-guide/liker-land/download.md) to seamlessly purchase Writing NFTs from the same creator via desktop or mobile browser.
+Users can use [Email/Social](../../user-guide/liker-id/register/), [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikeCoin app](../../user-guide/liker-land/download.md)...etc, to seamlessly purchase Writing NFTs from the same creator via desktop or mobile browser.
 
 ***
 
@@ -38,7 +42,7 @@ Users can use [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../
 
 Go to the [Liker Land Book Store Top Articles](https://liker.land/en/store/articles) or [LikeCoin NFT Dashboard](../tools.md) to check out the NFT that you want to buy, and click "Collect Now" to collect;
 
-<figure><img src="../../.gitbook/assets/Buy NFT 1-en.png" alt=""><figcaption><p>Liker Land Homepage</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Buy NFT 1-en.png" alt=""><figcaption><p>Liker Land  Top Articles</p></figcaption></figure>
 
 Or go to the NFT details page and click "Collect" or the current NFT price. To better illustrate the relationship between creators and supporters, Liker Land displays the avatar of collectors on the NFT collection page;
 
@@ -74,31 +78,33 @@ Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
 
 <figure><img src="../../.gitbook/assets/pay by card 3.png" alt=""><figcaption><p>Credit Card OTP Authentication Page</p></figcaption></figure>
 
-### Step 2: Provide wallet address
+### Step 2: Create an account and verify your email address
 
-At the same time, you will receive an email to claim your Writing NFT. Please follow the instructions to install the [Keplr](../../general-guides/wallet/keplr/) wallet and verify your email address. If you have any questions during the process, please contact [Liker Land customer service](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7).
+At the same time, you will receive an email to claim your Writing NFT. Please follow the instructions to [register a Liker ID through Email/Social](../../user-guide/liker-id/register/) and verify your email address. If you have any questions during the process, please contact [Liker Land customer service](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7).
+
+Learn more about Email/Social login:
+
+{% content-ref url="../../user-guide/liker-id/register/" %}
+[register](../../user-guide/liker-id/register/)
+{% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/pay by card 5.png" alt=""><figcaption><p>Email Instructions to claim Writing NFT</p></figcaption></figure>
 
 ### Step 3: Check your NFT Collection
 
-Go to the upper right corner of the Liker Land website and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
 Click "Login".
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
-A pop-up window appears, click Keplr to login to Liker Land.
+A pop-up window appears, click Email/Social to login to Liker Land.
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 3-en.png" alt=""><figcaption><p>Click Keplr to login to Liker Land</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 3-en.png" alt=""><figcaption><p>Login to Liker Land</p></figcaption></figure>
 
-A Keplr window will pop up asking for a connection, click "Approve".
-
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 4.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
-
-Go to "[My Dashboard](https://liker.land/en/dashboard?tab=collected)" via the menu to view the NFT that you've collected.
+Go to "[My Bookshelf](../liker-land-web/bookshelf.md)" via the menu to view the NFT that you've collected.
 
 <figure><img src="../../.gitbook/assets/Buy NFT pay by card 7-en.png" alt=""><figcaption><p>View purchased Writing NFTs in My Dashboard</p></figcaption></figure>
 
@@ -106,29 +112,21 @@ Go to "[My Dashboard](https://liker.land/en/dashboard?tab=collected)" via the me
 
 ## Already have a wallet and collect Writing NFT with a credit card (For both desktop and mobile)
 
-Users can also register the [Keplr](../../general-guides/wallet/keplr/) wallet first and then purchase Writing NFT with a credit card.
+Users who have registered with [Email/Social](../../user-guide/liker-id/register/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr Mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/)...etc, can also use a credit card to purchase Writing NFT by selecting the appropriate login method.
 
-{% hint style="info" %}
-Users who have a [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr Mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/) or [Liker ID](../../user-guide/liker-land/download.md) can also use a credit card to purchase Writing NFT by selecting the appropriate login method.
-{% endhint %}
+### Step 1: Log in to Liker Land
 
-### Step 1: Log in to Keplr
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
 
-Go to the upper right corner of the Liker Land website and click "Enter Store".
-
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
 
 Click "Login".
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
-A pop-up window appears, click Keplr to login to Liker Land.
+A pop-up window appears, click Email/Social to login to Liker Land.
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 3-en.png" alt=""><figcaption><p>Click Keplr to login to Liker Land</p></figcaption></figure>
-
-A Keplr window will pop up asking for a connection, click "Approve".
-
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 4.png" alt=""><figcaption><p>Click "Approve" on Keplr</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 4-en.png" alt=""><figcaption><p>Login to Liker Land</p></figcaption></figure>
 
 ### Step 2: Pay by Credit Card&#x20;
 
@@ -146,7 +144,7 @@ Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
 
 ### Step 3: Check your NFT Collection
 
-Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Dashboard](../liker-land-web/dashboard.md) to check out the NFT that you have collected.
+Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Bookshelf](../liker-land-web/bookshelf.md) to check out the NFT that you have collected.
 
 <figure><img src="../../.gitbook/assets/Buy NFT Finish-en.png" alt=""><figcaption><p>Successfully purchased Writing NFT</p></figcaption></figure>
 

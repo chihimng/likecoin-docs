@@ -44,4 +44,4 @@ Additionally you will receive a confirmation email.
 
 <figure><img src="../../../.gitbook/assets/bookforest 6.png" alt=""><figcaption><p>Receive a confirmation email</p></figcaption></figure>
 
-The purchased NFT eBook will be displayed in "[My Dashboard](../../liker-land-web/dashboard.md)".
+The purchased NFT eBook will be displayed in "[My Bookshelf](../../liker-land-web/bookshelf.md)".

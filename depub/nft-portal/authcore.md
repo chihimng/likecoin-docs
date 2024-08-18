@@ -12,6 +12,8 @@ Enter the [**NFT Portal**](https://app.like.co/nft/url) on the desktop computer 
 [register](../../user-guide/liker-id/register/)
 {% endcontent-ref %}
 
+<figure><img src="../../.gitbook/assets/NFT Portal EmailSocial.png" alt=""><figcaption><p>Login and link to NFT Portal with Email/Social</p></figcaption></figure>
+
 After successful login, your wallet address will be displayed in the top right corner of the NFT Portal.
 
 <figure><img src="../../.gitbook/assets/NFT Portal 1e.png" alt=""><figcaption><p>After successfully logging in to the NFT Portal, the wallet address is displayed in the top right corner</p></figcaption></figure>
