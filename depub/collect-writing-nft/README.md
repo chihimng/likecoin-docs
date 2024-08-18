@@ -30,7 +30,7 @@ Users can use [Email/Social](../../user-guide/liker-id/register/), [Keplr](../..
 
 Users can use the [LikeCoin app](../../user-guide/liker-land/download.md) to collect Writing NFT by LIKE.
 
-Users can also collect Writing NFT on a mobile browser by LIKE using [Keplr Mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/) or [LikeCoin app](../../user-guide/liker-land/download.md).
+Users can also collect Writing NFT on a mobile browser by LIKE using [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/) or [LikeCoin app](../../user-guide/liker-land/download.md).
 
 ### [One-Click Collect All Writing NFT](collect-all.md)
 
@@ -112,7 +112,7 @@ Go to "[My Bookshelf](../liker-land-web/bookshelf.md)" via the menu to view the 
 
 ## Already have a wallet and collect Writing NFT with a credit card (For both desktop and mobile)
 
-Users who have registered with [Email/Social](../../user-guide/liker-id/register/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr Mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/)...etc can also use a credit card to purchase Writing NFT by selecting the appropriate login method.
+Users who have registered with [Email/Social](../../user-guide/liker-id/register/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/)...etc can also use a credit card to purchase Writing NFT by selecting the appropriate login method.
 
 ### Step 1: Log in to Liker Land
 
