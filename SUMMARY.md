@@ -133,6 +133,7 @@
   * [What's the point of decentralization to the content ecosystem?](depub/what-is-iscn/benefits.md)
   * [What type of content is supported by ISCN?](depub/what-is-iscn/content-type.md)
   * [How to register an ISCN?](depub/what-is-iscn/app.like.co/README.md)
+    * [Email/Social](depub/what-is-iscn/app.like.co/authcore.md)
     * [Keplr](depub/what-is-iscn/app.like.co/keplr.md)
     * [Cosmostation](depub/what-is-iscn/app.like.co/cosmostation.md)
     * [Cosmostation app](depub/what-is-iscn/app.like.co/cosmostation-app.md)
