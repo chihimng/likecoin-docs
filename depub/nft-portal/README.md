@@ -18,9 +18,9 @@ Authors can use [**Web3Press**](../../user-guide/wordpress.md) to publish articl
 
 Creators can copy the URL of any webpage, paste it to [**NFT Portal** website a.k.a. the "Mint" tab of app.like.co](https://app.like.co/nft/url) to mint the page as Writing NFT. The Portal will scrape the og graphic, title and content of the webpage and store the information into distributed storage and registered as an ISCN, then publish the work as NFT.
 
-> #### Tutorial
+> #### Recommend:thumbsup:Publish Writing NFT with an article URL by [Email/Social](authcore.md)
 >
-> ### Recommend:thumbsup:Publish Writing NFT with an article URL by [Keplr](keplr.md)
+> #### Publish Writing NFT with an article URL by [Keplr](keplr.md)
 >
 > #### Publish Writing NFT with an article URL by [Cosmostation](cosmostation.md)
 >
@@ -40,11 +40,11 @@ Write on the Matters website and select "Register ISCN", then select the ISCN on
 
 ### **Option 5**: Publish Writing NFT on Liker.Social
 
-Publish NFT on [**Liker.Social**](liker-social.md), decentralized microblogs based on LikeCoin & Mastodon.
+> #### Publish NFT on [**Liker.Social**](liker-social.md), decentralized microblogs based on LikeCoin & Mastodon.
 
 ### **Option 6**: Publish Writing NFT on illustBuy
 
-Publish NFT on the [**illustBuy**](illustbuy.md) illustration platform.
+> #### Publish NFT on the [**illustBuy**](illustbuy.md) illustration platform.
 
 ***
 
