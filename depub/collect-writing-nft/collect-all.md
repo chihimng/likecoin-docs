@@ -24,7 +24,7 @@ Once you have finished checking, click "Checkout by LIKE" or "Checkout by card".
 
 ### Checkout by LIKE
 
-Using Keplr as an example, a pop-up window will appear, and you can click "Approve" to confirm your purchase. The Cosmostation, Leap, Keplr Mobile, Cosmostation app, or LikeCoin app will also display the respective confirmation screens.
+Using Keplr as an example, a pop-up window will appear, and you can click "Approve" to confirm your purchase. The Cosmostation, Leap, Keplr mobile, Cosmostation app, or LikeCoin app will also display the respective confirmation screens.
 
 <figure><img src="../../.gitbook/assets/Collect All 3-en.png" alt=""><figcaption><p>Keplr window pops up click "Approve" to confirm the purchase</p></figcaption></figure>
 

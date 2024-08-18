@@ -1,6 +1,6 @@
 ---
 description: >-
-  Using Keplr Mobile, Cosmostation, Leap or LikeCoin app to collect Writing NFT
+  Using Keplr mobile, Cosmostation, Leap or LikeCoin app to collect Writing NFT
   by LIKE on mobile
 ---
 
@@ -46,9 +46,9 @@ If you encounter problems during the purchase process, please go to the settings
 
 ## Collect Writing NFT on Mobile Browser
 
-### Via Keplr Mobile
+### Via Keplr mobile
 
-**Step 1**: Log in to Keplr Mobile and use the mobile browser to browse the NFT that you want to collect. Click "Collect Now," "Collect," or the current NFT price.
+**Step 1**: Log in to Keplr mobile and use the mobile browser to browse the NFT that you want to collect. Click "Collect Now," "Collect," or the current NFT price.
 
 <figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 1-en.png" alt=""><figcaption><p>Click "Collect Now"</p></figcaption></figure>
 
@@ -56,21 +56,21 @@ If you encounter problems during the purchase process, please go to the settings
 
 <figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 2-en.png" alt=""><figcaption><p>Leave a signed message to creator and Pay by LIKE</p></figcaption></figure>
 
-**Step 3**: A pop-up window will appear. Click "Keplr Mobile" to log in.
+**Step 3**: A pop-up window will appear. Click "Keplr mobile" to log in.
 
-<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 3-en.png" alt=""><figcaption><p>A pop-up window will appear. Click "Keplr Mobile" to log in</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 3-en.png" alt=""><figcaption><p>A pop-up window will appear. Click "Keplr mobile" to log in</p></figcaption></figure>
 
-**Step 4**: A Keplr Mobile window will pop up. Click "Approve".
+**Step 4**: A Keplr mobile window will pop up. Click "Approve".
 
-<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 4.png" alt=""><figcaption><p>A Keplr Mobile window will pop up. Click "Approve"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 4.png" alt=""><figcaption><p>A Keplr mobile window will pop up. Click "Approve"</p></figcaption></figure>
 
 **Step 5**. The Collecting NFT page will appear in the browser.
 
 <figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 5-en.png" alt=""><figcaption><p>The Collecting NFT page will appear in the browser</p></figcaption></figure>
 
-**Step 6**: Return to the Keplr Mobile and click "Approve".
+**Step 6**: Return to the Keplr mobile and click "Approve".
 
-<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 6.png" alt=""><figcaption><p>Return to the Keplr Mobile and click "Approve"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect Writing NFT Keplr Mobile 6.png" alt=""><figcaption><p>Return to the Keplr mobile and click "Approve"</p></figcaption></figure>
 
 **Step 7**: Go back to the browser, and the Collecting NFT page will appear.
 

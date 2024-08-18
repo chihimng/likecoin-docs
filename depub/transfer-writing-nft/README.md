@@ -12,7 +12,7 @@ Transferring NFT is demonstrated as follows:
 
 ## Step 1: Login and transfer
 
-Log in to [Liker Land](https://liker.land/) with your [Keplr Browser Extension](../../general-guides/wallet/keplr/), [Cosmostation Browser Extension](../../general-guides/wallet/cosmostation/), [Leap Browser Extension](../../general-guides/wallet/leap/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/) or [LikeCoin app](../../user-guide/liker-land/download.md). Then, click on the NFT that needs to be transferred and check how many of them you own. Click "Transfer".
+Log in to [Liker Land](https://liker.land/) with your [Email/Social](../../user-guide/liker-id/register/), [Keplr](../../general-guides/wallet/keplr/), [Cosmostation](../../general-guides/wallet/cosmostation/), [Leap](../../general-guides/wallet/leap/), [Keplr mobile](../../general-guides/wallet/keplr-mobile/), [Cosmostation app](../../general-guides/wallet/cosmostation-app/cosmostation-app-deposit-and-send-likecoin.md) or [LikerCoin app](../../user-guide/liker-land/download.md)...etc. Then, click on the NFT that needs to be transferred and check how many of them you own. Click "Transfer".
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 1-en.png" alt=""><figcaption><p>Click "Transfer" to start transferring NFT</p></figcaption></figure>
 
@@ -24,25 +24,29 @@ On the Transfer Your NFT page, enter the wallet address of the recipient and the
 
 ## Step 3: Confirm the transfer
 
-#### Transfer NFT on Keplr
+### Email/Social login
+
+No additional confirmation needed.
+
+### Transfer NFT on Keplr
 
 On the Keplr popup window, click "Approve".
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 3-en.png" alt=""><figcaption><p>Keplr window pops up click "Approve" to confirm the transfer</p></figcaption></figure>
 
-#### Transfer NFT on Cosmostation
+### Transfer NFT on Cosmostation
 
 On the Cosmostation popup window, click "Confirm".
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 3-en (1).png" alt=""><figcaption><p>Cosmostation window pops up click "Confirm" to confirm the transfer</p></figcaption></figure>
 
-#### Transfer NFT on Leap
+### Transfer NFT on Leap
 
 On the Leap popup window, click "Approve".
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 11-en.png" alt=""><figcaption><p>Leap window pops up click "Approve" to confirm the transfer</p></figcaption></figure>
 
-#### Transfer NFT on Cosmostation app
+### Transfer NFT on Cosmostation app
 
 A signature request will show up on your phone. Click "Confirm" to complete the transfer.
 
@@ -50,7 +54,7 @@ A signature request will show up on your phone. Click "Confirm" to complete the 
 
 <figure><img src="../../.gitbook/assets/NFT Transfer 10.png" alt=""><figcaption><p>Cosmostation app window pops up click "Confirm" to confirm the transfer</p></figcaption></figure>
 
-#### Transfer NFT on LikeCoin app
+### Transfer NFT on LikeCoin app
 
 A signature request will show up on your phone. Click "Approve" to complete the transfer.
 

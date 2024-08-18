@@ -1,6 +1,6 @@
 ---
 description: >-
-  Using Email/Social login, Keplr, Cosmostation, Leap, Keplr Mobile,
+  Using Email/Social login, Keplr, Cosmostation, Leap, Keplr mobile,
   Cosmostation app or LikeCoin app...etc to collect Writing NFT by LIKE on
   desktop
 ---
@@ -89,13 +89,13 @@ A Leap window will pop up, then click "Approve" to confirm the purchase.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 13.png" alt=""><figcaption><p>A Leap window will pop up, then click "Approve" to confirm the purchase</p></figcaption></figure>
 
-### Keplr Mobile
+### Keplr mobile
 
-A QR Code will appear after clicking "[Keplr Mobile](../../general-guides/wallet/keplr-mobile/)".
+A QR Code will appear after clicking "[Keplr mobile](../../general-guides/wallet/keplr-mobile/)".
 
 <figure><img src="../../.gitbook/assets/Buy NFT 6 Keplr mobile 1-en.png" alt=""><figcaption><p>After clicking the Cosmostation app, a QR code appears</p></figcaption></figure>
 
-On the Keplr Mobile, click the icon on the top righr hand corner to bring up the camera and scan the QR Code.
+On the Keplr mobile, click the icon on the top righr hand corner to bring up the camera and scan the QR Code.
 
 <figure><img src="../../.gitbook/assets/Buy NFT 6 Keplr mobile 2.png" alt=""><figcaption><p>Click the icon on the top righr hand corner to scan the QR code</p></figcaption></figure>
 
