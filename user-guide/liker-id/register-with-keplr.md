@@ -52,7 +52,7 @@ Click "Login".
 
 A pop-up window appears, click Keplr to login to Liker Land.
 
-<figure><img src="../../.gitbook/assets/Buy NFT Connect 3-en.png" alt=""><figcaption><p>Click Keplr to login to Liker Land</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Click Keplr to login to Liker Land</p></figcaption></figure>
 
 In the Keplr pop-up window, click "Approve".
 
