@@ -2,9 +2,19 @@
 
 {% tabs %}
 {% tab title="2024" %}
+### 08/10 飛地書店
+
+[DHK dao & da0：web3 實踐公民社會經驗分享——高重建 ╳ 葉向林](https://www.facebook.com/nowherebookstore/posts/pfbid0f9a6DdrjL95DzLZkMiLTiLGDfRmVwqDd3A8i3tSatZRHYVUA2zEQWkUuMi5baqifl)
+
+### 07/18-21 獵人書店
+
+[由字及興：第二屆香港小型出版銷售場暨私人書店奧特萊斯](https://blog.like.co/zh/%E4%B8%83%E6%9C%88%E4%BB%BD%E6%9B%B8%E8%A8%8A-%E3%80%8C%E7%94%B1%E5%AD%97%E5%8F%8A%E8%88%88%E3%80%8D%E7%9A%84%E7%9B%9B%E6%B3%81/)
+
 ### 06/13 北美館開放網絡計畫 TFAM Net.Open
 
 [圓桌討論II. 文化行動者的多元宇宙（二）：價值、機制與市場](https://www.facebook.com/events/1819047261905202/?post\_id=1824368538039741\&view=permalink)
+
+[活動實況](https://www.facebook.com/Liker.Land/posts/pfbid02uBjPZJWQtpujDJt4zSCmhsBbHa25gBVgtyvRDeMFUakxgYhM8eBubL7y4Skjdgdil)
 
 ### 06/07 突破機構50周年「在這裏 為彼此 #HereWeAre」研討會
 

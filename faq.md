@@ -4,8 +4,8 @@ description: Frequently Asked Questions
 
 # LikeCoin FAQ
 
-[LikeCoin Overview](faq.md#likecoin-zan-shang-gong-min-gong-he-guo-2) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
---------------------------------------------------------------------------------------------------------------------------------------------------------
+[LikeCoin Overview](./)&#x20;<a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+----------------------------------------------------------------------------------------------------------
 
 * ​[What is LikeCoin?](./)
 * [Where to find the latest updates about LikeCoin?](updates.md)
@@ -20,7 +20,7 @@ description: Frequently Asked Questions
 
 ## [Decentralized Publishing](depub/decentralized-publishing.md) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
-* [What is Decentralized Publishing #DePub?](./)
+* [What is Decentralized Publishing #DePub?](depub/decentralized-publishing.md)
 * [What is ISCN?](developer/iscn/)
 * [What is the relationship between ISCN and IPFS?](depub/what-is-iscn/iscn-ipfs-relationship.md)
 * [Why the decentralization nature of ISCN is good to content ecosystem?](depub/what-is-iscn/benefits.md)
@@ -41,7 +41,6 @@ description: Frequently Asked Questions
 
 * [Is there a decentralized wallet for LikeCoin?](general-guides/wallet/)
 * [How to transfer LikeCoin?](general-guides/wallet/like-pay.md)[  ](general-guides/wallet/keplr/)
-* [Does LikeCoin support hardware wallets?](general-guides/wallet/hardware-wallet.md)
 * [Is there a multisig wallet for LikeCoin?](general-guides/wallet/multisig.md)
 * [How to find my wallet address?](general-guides/wallet/wallet-address.md)
 * [Any block explorer for LikeCoin?](general-guides/wallet/block-explorer/)
@@ -55,9 +54,9 @@ description: Frequently Asked Questions
 * [Where to buy LikeCoin?](general-guides/trade/buy-likecoin.md)
 * [Can I buy LikeCoin by credit card?](general-guides/trade/trade-in-osmosis.md)
 
-## [Liquidity Mining](faq.md#undefined)
+## [Liquidity Mining](general-guides/liquidity/)
 
-* [How to provide liquidity on Osmosis?](general-guides/liquidity/osmosis.md#providing-liquidity-to-the-liquidity-pool)
+* [How to provide liquidity on Osmosis?](general-guides/liquidity/osmosis.md)
 * [How to earn liquidity mining incentives on Osmosis?](general-guides/liquidity/osmosis.md#bonding-shares-for-liquidity-mining-incentives)
 
 ## [Stake](general-guides/stake/) <a href="#wo-shi-du-zhe" id="wo-shi-du-zhe"></a>
@@ -98,7 +97,7 @@ description: Frequently Asked Questions
 * [Cannot login Liker Land with your Liker ID and don't know what to do? Try resetting password!](user-guide/liker-id/register/reset-password.md)
 * [Can I export my private key?](user-guide/liker-id/register/export-seed-words.md)
 
-### [LikeCoin button](faq.md#likecoin-button)
+### [LikeCoin button](user-guide/creator/)
 
 * [How to embed LikeCoin button into a self-hosted WordPress and publishing post to blockchain?](user-guide/wordpress.md)
 * [What are the functions of the LikeCoin button?](user-guide/creator/)
