@@ -22,7 +22,7 @@ Users can also check an ISCN record and its details in [app.like.co](https://app
 
 #### Recommend:thumbsup:Users can [Emal/Social](authcore.md) login and link to [app.like.co](https://app.like.co/) to try out and register an ISCN.
 
-Users can also register an ISCN using [Keplr](keplr.md), [Cosmostation](cosmostation.md), [Cosmostation app](cosmostation-app.md) or [LikeCoin app](likecoin-app.md).
+Users can also register an ISCN using [Keplr](keplr.md), [Cosmostation](cosmostation.md), [Cosmostation app](cosmostation-app.md)...etc.
 
 Or register an ISCN on [Matters](matters.md).
 

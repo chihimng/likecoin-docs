@@ -2,7 +2,11 @@
 description: Register an ISCN by LikeCoin app
 ---
 
-# LikeCoin app
+# Register an ISCN by LikeCoin app
+
+{% hint style="danger" %}
+Archived on 2024/08/19. Information is out of date.
+{% endhint %}
 
 ## Step 1: Login app.like.co
 
