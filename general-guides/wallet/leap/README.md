@@ -42,22 +42,6 @@ Note that Leap does not support the registration of Liker ID yet.
 [mport-wallet-into-leap.md](mport-wallet-into-leap.md)
 {% endcontent-ref %}
 
-#### Collect Writing NFT:
-
-{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
-[collect-writing-nft-on-desktop.md](../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md)
-{% endcontent-ref %}
-
-#### Swap LikeCoin and earn liquidity mining incentives on Osmosis:
-
-{% content-ref url="../../trade/trade-in-osmosis.md" %}
-[trade-in-osmosis.md](../../trade/trade-in-osmosis.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../liquidity/" %}
-[liquidity](../../liquidity/)
-{% endcontent-ref %}
-
 ## Leap Mobile Wallet
 
 Leap also launched a mobile wallet, which has the same function as the Leap Browser Extension. Since it is still in the trial stage, please refer to the [Leap official website](https://www.leapwallet.io/) for more details.

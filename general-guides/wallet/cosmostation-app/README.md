@@ -41,17 +41,3 @@ Please note that Cosmostation does not support the registration of Liker ID yet.
 {% content-ref url="import-wallet-into-cosmostation-app.md" %}
 [import-wallet-into-cosmostation-app.md](import-wallet-into-cosmostation-app.md)
 {% endcontent-ref %}
-
-#### Use Cosmostation app to register ISCN, collect and mint Writing NFT:&#x20;
-
-{% content-ref url="../../../depub/what-is-iscn/app.like.co/" %}
-[app.like.co](../../../depub/what-is-iscn/app.like.co/)
-{% endcontent-ref %}
-
-{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-mobile.md" %}
-[collect-writing-nft-on-mobile.md](../../../depub/collect-writing-nft/collect-writing-nft-on-mobile.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../../depub/nft-portal/" %}
-[nft-portal](../../../depub/nft-portal/)
-{% endcontent-ref %}

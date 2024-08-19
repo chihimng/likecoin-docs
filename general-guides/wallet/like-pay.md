@@ -51,25 +51,3 @@ Login [Liker Land](https://liker.land/civic).
 Connect to the payment page in the browser, with the format https://like.co/\[Liker ID]. If the Liker ID is ckxpress, the payment page is [https://like.co/ckxpress](https://like.co/ckxpress). Enter the amount of LikeCoin to be transferred. Please make sure that your wallet has enough LikeCoin for the [transaction fee ](transaction-fee.md)other than what you want to transfer. Input the number of LikeCoin you want to send and click "Confirm" to finish the transfer.
 
 ![Transaction Fee displayed below the \[Confirm\] button](../../.gitbook/assets/like-pay-5-en.png)
-
-## Other functions
-
-{% content-ref url="../stake/delegation-of-likecoin/" %}
-[delegation-of-likecoin](../stake/delegation-of-likecoin/)
-{% endcontent-ref %}
-
-{% content-ref url="../../depub/what-is-iscn/app.like.co/" %}
-[app.like.co](../../depub/what-is-iscn/app.like.co/)
-{% endcontent-ref %}
-
-{% content-ref url="../../depub/nft-portal/" %}
-[nft-portal](../../depub/nft-portal/)
-{% endcontent-ref %}
-
-{% content-ref url="../../depub/collect-writing-nft/" %}
-[collect-writing-nft](../../depub/collect-writing-nft/)
-{% endcontent-ref %}
-
-{% content-ref url="../../user-guide/depub.space/" %}
-[depub.space](../../user-guide/depub.space/)
-{% endcontent-ref %}

@@ -37,31 +37,3 @@ Note that the Cosmostation does not support registration of Liker ID yet.
 {% content-ref url="import-wallet-into-cosmostation.md" %}
 [import-wallet-into-cosmostation.md](import-wallet-into-cosmostation.md)
 {% endcontent-ref %}
-
-#### Use Cosmostation to register ISCN, collect and mint Writing NFT, and enjoy depub.space:
-
-{% content-ref url="../../../depub/what-is-iscn/app.like.co/" %}
-[app.like.co](../../../depub/what-is-iscn/app.like.co/)
-{% endcontent-ref %}
-
-{% content-ref url="../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md" %}
-[collect-writing-nft-on-desktop.md](../../../depub/collect-writing-nft/collect-writing-nft-on-desktop.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../../depub/nft-portal/" %}
-[nft-portal](../../../depub/nft-portal/)
-{% endcontent-ref %}
-
-{% content-ref url="../../../user-guide/depub.space/" %}
-[depub.space](../../../user-guide/depub.space/)
-{% endcontent-ref %}
-
-#### Swap LikeCoin and earn liquidity mining incentives on Osmosis:
-
-{% content-ref url="../../trade/trade-in-osmosis.md" %}
-[trade-in-osmosis.md](../../trade/trade-in-osmosis.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../liquidity/" %}
-[liquidity](../../liquidity/)
-{% endcontent-ref %}
