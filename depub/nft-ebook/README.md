@@ -64,6 +64,18 @@ A page appears saying you have successfully claimed the eBook, you can also clic
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 10-en.png" alt=""><figcaption><p>Go to Bookshelf and check your collection</p></figcaption></figure>
 
+## Step 9: Reading the NFT eBook
+
+Users can click “Open Book” and select any one of the file formats to read the NFT eBook.
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 11-en.png" alt=""><figcaption><p>Select any one of the file formats to read the NFT eBook</p></figcaption></figure>
+
+## Step 10: Downloading the NFT eBook File
+
+If the author of the purchased NFT eBook allows downloading the file, click the download icon in the top right corner to download the book file.
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>Click download icon to download the NFT eBook</p></figcaption></figure>
+
 ### Import EPUB files to various ereaders
 
 If the purchased EPUB does not have DRM, besides using USB to import EPUB files to ereaders, different brands also support uploading via network interfaces:
