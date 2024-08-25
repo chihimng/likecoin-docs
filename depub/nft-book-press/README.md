@@ -160,11 +160,13 @@ Return to LikeCoin NFT BookPress, click "Continue to publish NFT Book", and the 
 If you accidentally closed the page, you can enter your NFT Class ID in [Step 1](./#register-iscn) "Enter ISCN ID or NFT Class ID", and you will see "Continue to publish NFT Book". The Class ID is the string after the URL of your ebook. For example, your NFT URL is  https://liker.land/zh-Hant/nft/class/likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mfz0yz57gffwsrgrasl2m59x, and the NFT Class ID is likenft1qq06n42guzvt087wxunaajvz3alx6wadq6mf z0yz57gffwsrgrasl2m59x.
 {% endhint %}
 
+### New NFT Book Listing
+
 The NFT Class ID of the minted ebook appears in the New NFT Book Listing
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 22.png" alt=""><figcaption><p>The NFT Class ID of the minted ebook appears in the New NFT Book Listing</p></figcaption></figure>
 
-#### Pricing and Availability
+### Pricing and Availability
 
 * Unit Price in USD (Minimum 0.99 or 0 for free) - The minimum price is 0.9 US dollars, or enter 0 to give it away for free.
 * Total number of NFT ebook/edition for sale - Fill in the sales quantity of this version of the ebook. Suppose you minted 10 books, you can set 5 books as version one, and the other 5 books as version two, etc. Click "Add Edition" below to add multiple different versions. Note that the total number of ebooks available for sale in each version cannot exceed the minted quantity.
@@ -179,20 +181,20 @@ The NFT Class ID of the minted ebook appears in the New NFT Book Listing
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 24 (1).png" alt=""><figcaption><p>Sign memo and manually deliver each NFT</p></figcaption></figure>
 
-#### Product Information
+### Product Information
 
 * Product name - You can set the version of the ebook according to personal preference, such as Standard Edition, Free version, etc.
 * Description (Optional) - You can enter a Chinese and English description of the ebook version.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23a.png" alt=""><figcaption><p>Product Information</p></figcaption></figure>
 
-#### Shipping Options
+### Shipping Options
 
 Physical Goods - After selecting “Includes physical good that requires shipping,” it indicates that the book version is a physical copy, and readers will need to pay for shipping. However, you need to configure the settings in Advanced Settings first before this option can be enabled.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 26.png" alt=""><figcaption><p>Shipping Options</p></figcaption></figure>
 
-#### Connect to a Stripe Account
+### Connect to a Stripe Account
 
 Click to start connecting to the Stripe account, see details:
 
@@ -202,25 +204,25 @@ Click to start connecting to the Stripe account, see details:
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 27.png" alt=""><figcaption><p>Connect to a Stripe Account</p></figcaption></figure>
 
-#### Email to receive sales notification
+### Email to receive sales notification
 
 Enter the email address that needs to receive sales notifications, then click “Add”.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23b.png" alt=""><figcaption><p>Email to receive sales notification</p></figcaption></figure>
 
-#### Advance Settings
+### Advance Settings
 
 Click Advanced Settings to configure the following additional options:
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23c (1).png" alt=""><figcaption><p>Advance Settings</p></figcaption></figure>
 
-#### Default Currency
+### Default Currency
 
 Change the default US dollar display to Hong Kong dollars.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23d.png" alt=""><figcaption><p>Default Display</p></figcaption></figure>
 
-**Shipping Options**
+### **Shipping Options**
 
 Shipping options, click the “+Add” in the top right corner.
 
@@ -236,7 +238,7 @@ Once done, click “Save" to save this shipping method.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23g.png" alt=""><figcaption><p>Editing Shipping Options</p></figcaption></figure>
 
-#### Share sales data to wallets
+### Share sales data to wallets
 
 Enter the wallet address that needs to receive sales data, then click “Add”. The Liker Land wallet address is added by default. Click “Grant” in the Send NFT Grant section to authorize this wallet to automatically send ebooks for you.
 
@@ -246,7 +248,7 @@ Click “Submit” on the Send NFT Authz Grants Management Page to authorize.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23i.png" alt=""><figcaption><p>Send NFT Authz Grants Management Page</p></figcaption></figure>
 
-#### DRM Options
+### DRM Options
 
 * Force NFT claim before view - Selecting Must claim NFT to view means that readers must claim the ebook to read
 * Disable File Download - Selecting Disable Download means not allowing readers to download the ebook, only allowing online reading.

@@ -89,7 +89,7 @@
 * [Decentralized Publishing](depub/decentralized-publishing.md)
 * [Writing NFT FAQ](depub/writing-nft.md)
 * [Publish ebook](depub/nft-book-press/README.md)
-  * [Manage NFT eBooks](depub/nft-book-press/nft-book-store.md)
+  * [Manage ebooks](depub/nft-book-press/nft-book-store.md)
   * [Manage Book Collection](depub/nft-book-press/collection.md)
   * [Manage User Setting](depub/nft-book-press/manage-user-setting/README.md)
     * [Manage Stripe Account](depub/nft-book-press/manage-user-setting/stripe.md)
