@@ -16,7 +16,7 @@ Visit the Liker Land Bookstore and find the NFT eBook you want to replenish. Not
 
 Visit the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Mint NFT", enter the website, and click the "Connect Wallet" link in the upper right corner to connect with Keplr.
 
-<figure><img src="../../.gitbook/assets/NFT Book Press 16.png" alt=""><figcaption><p>Visit the LikeCoin NFT BookPress website, click "Mint NFT"</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Visit the LikeCoin NFT BookPress website, click "Mint NFT"</p></figcaption></figure>
 
 
 
