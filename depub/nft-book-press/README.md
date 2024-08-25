@@ -22,7 +22,7 @@ and other follow up actions:
 
 4. [Manage NFT books](nft-book-store.md)
 5. [Manage Book Collection](collection.md)
-6. [NFT Book Press User Setting](manage-user-setting/)
+6. [NFT Book Press User Setting](user-setting.md)
 7. [ebooks Replenishment](replenishment.md)
 8. [Creator’s Introduction on Liker Land BookStore](./#creators-introduction)
 9. [Transfer ebook or Batch send NFT to more than one wallet](./#transfer-nft-ebook-or-batch-send-nft-to-more-than-one-wallet)
@@ -198,8 +198,8 @@ Physical Goods - After selecting “Includes physical good that requires shippin
 
 Click to start connecting to the Stripe account, see details:
 
-{% content-ref url="manage-user-setting/stripe.md" %}
-[stripe.md](manage-user-setting/stripe.md)
+{% content-ref url="user-setting.md" %}
+[user-setting.md](user-setting.md)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 27.png" alt=""><figcaption><p>Connect to a Stripe Account</p></figcaption></figure>
@@ -286,8 +286,8 @@ You can continue to:
 
 ## Manage User Setting
 
-{% content-ref url="manage-user-setting/" %}
-[manage-user-setting](manage-user-setting/)
+{% content-ref url="user-setting.md" %}
+[user-setting.md](user-setting.md)
 {% endcontent-ref %}
 
 ## Creator’s Introduction
