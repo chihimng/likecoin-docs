@@ -6,7 +6,7 @@ description: How to connect a Stripe account
 
 The following section will introduce how to connect a Stripe account for withdrawal. For more details, please refer to the [FAQ: Listing Liker Land NFT eBooks](../nft-book-press-faq.md).
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Manage Stripe Account", after entering the website, click "Connect Wallet" in the upper right corner to connect to Keplr."
+Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Connect Wallet" in the upper right corner to connect to your wallet, the click "Manage User Setting".
 
 ## Stripe Connect Status <a href="#stripe-connect-status" id="stripe-connect-status"></a>
 
