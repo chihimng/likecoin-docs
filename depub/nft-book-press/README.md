@@ -169,7 +169,7 @@ The NFT Class ID of the minted ebook appears in the New NFT Book Listing
 ### Pricing and Availability
 
 * Unit Price in USD (Minimum 0.99 or 0 for free) - The minimum price is 0.9 US dollars, or enter 0 to give it away for free.
-* Total number of NFT ebook/edition for sale - Fill in the sales quantity of this version of the ebook. Suppose you minted 10 books, you can set 5 books as version one, and the other 5 books as version two, etc. Click "Add Edition" below to add multiple different versions. Note that the total number of ebooks available for sale in each version cannot exceed the minted quantity.
+* Total number of NFT ebook for sale - Fill in the sales quantity of this version of the ebook. Suppose you minted 10 books, you can set 5 books as version one, and the other 5 books as version two, etc. Click "Add Edition" below to add multiple different versions. Note that the total number of ebooks available for sale in each version cannot exceed the minted quantity.
 * Delivery method of this book - You can choose between two different ways to send ebooks:
   1. Automatic deliver NFT - Automatically send the ebook to the reader. Once this option is set, it cannot be changed.
      * Memo of this book - If you choose to automatically send the ebook to the reader, a memo will be automatically added to the reader upon delivery.

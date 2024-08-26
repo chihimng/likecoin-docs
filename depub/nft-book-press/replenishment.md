@@ -42,6 +42,6 @@ Click on the version that needs replenishing. If you need to create a new editio
 
 ## Step 5: Adjust the quantity of ebooks available for sale <a href="#mint-nft-book" id="mint-nft-book"></a>
 
-Simply modify the “Total number of NFT ebook/edition for sale”, and then click “Save Changes” to replenish the ebooks. 😊
+Simply modify the “Total number of NFT for sale of this book”, and then click “Save Changes” to replenish the ebooks.
 
-<figure><img src="../../.gitbook/assets/Add Books 5.png" alt=""><figcaption><p>Modify the “Total number of NFT ebook/edition for sale”,</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Add Books 5.png" alt=""><figcaption><p>Modify the “Total number of NFT for sale of this book”</p></figcaption></figure>
