@@ -4,7 +4,7 @@ description: Add or modify user settings and join the Affiliation Program
 
 # User Setting
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Connect Wallet" in the upper right corner to connect to your wallet, the click "User Setting".
+Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the upper right corner to connect to your wallet, the click "User Setting".
 
 If the Stripe account is not set up, it will display “No.” It is recommended to complete the Book Affiliation Program and Stripe Connect settings one by one to receive book sale payments and email notifications.
 

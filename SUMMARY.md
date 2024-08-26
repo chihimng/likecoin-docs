@@ -91,7 +91,7 @@
 * [Publish ebook](depub/nft-book-press/README.md)
   * [Manage ebooks](depub/nft-book-press/nft-book-store.md)
   * [Manage Book Collection](depub/nft-book-press/collection.md)
-  * [User Setting](depub/nft-book-press/user-setting.md)
+  * [User Setting](depub/nft-book-press/settings.md)
   * [Affiliation Link](depub/nft-book-press/affiliation-link.md)
   * [NFT eBooks Replenishment](depub/nft-book-press/replenishment.md)
   * [Modify NFT eBook](depub/nft-book-press/modify-nft-ebook.md)

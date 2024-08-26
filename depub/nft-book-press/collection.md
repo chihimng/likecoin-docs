@@ -6,7 +6,7 @@ description: Set up NFT eBook bundle sales
 
 NFT Book Collection combine multiple NFT eBooks into a bundle for sale, suitable for books series or various promotions.
 
-Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Connect Wallet" in the upper right corner to connect to your wallet, the click "Manage Book Collection".
+Go to the [LikeCoin NFT Book Press](https://likecoin.github.io/nft-book-press/) website, click "Sign in" in the upper right corner to connect to your wallet, the click "Manage Book Collection".
 
 ### NFT Book Collections <a href="#nft-book-collections" id="nft-book-collections"></a>
 
