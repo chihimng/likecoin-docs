@@ -1,8 +1,8 @@
 ---
-description: NFT eBook FAQ
+description: ebook FAQ
 ---
 
-# FAQ: Listing Liker Land NFT eBooks
+# FAQ: Listing Liker Land ebooks
 
 Book Press provides self-publishing services for Liker Land. We offer authors and publishers a platform to self-publish their works, and we also act as a distributor. As an author, you become both the creator and publisher of your work. Liker Land serves as an e-book service to sell your works, without claiming any copyright or demanding a share of profits from sales on other platforms.
 

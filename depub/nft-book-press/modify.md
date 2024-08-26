@@ -1,10 +1,10 @@
 ---
-description: Modify NFT eBook description or book files
+description: Modify ebook description or book files
 ---
 
-# Modify NFT eBook
+# Modify ebook
 
-If there are any errors in the ISCN content, epub, or pdf file content of NFT eBooks, they can be modified in the following ways:
+If there are any errors in the ISCN content, epub, or pdf file content of ebooks, they can be modified in the following ways:
 
 **Step 1**: Go to "My Works" at app.like.co and find the ISCN of the corresponding book.
 
@@ -28,6 +28,6 @@ If there are any errors in the ISCN content, epub, or pdf file content of NFT eB
 
 <figure><img src="../../.gitbook/assets/Change NFT Book 6.png" alt=""><figcaption><p>Click "Update ISCN"</p></figcaption></figure>
 
-**Step 6**: After the ISCN is updated, the version number is displayed as /2, representing the second version of the ISCN. At the same time, readers who have purchased the NFT eBook can re-download the new version.
+**Step 6**: After the ISCN is updated, the version number is displayed as /2, representing the second version of the ISCN. At the same time, readers who have purchased the ebook can re-download the new version.
 
 <figure><img src="../../.gitbook/assets/Change NFT Book 7.png" alt=""><figcaption><p>ISCN is updated</p></figcaption></figure>

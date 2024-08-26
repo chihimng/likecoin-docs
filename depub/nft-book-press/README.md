@@ -5,7 +5,7 @@ description: Publish eook with LikeCoin NFT Book Press
 # Publish ebook
 
 {% hint style="info" %}
-Before publishing, you can refer to the [FAQ: Listing Liker Land ebooks](nft-book-press-faq.md)
+Before publishing, you can refer to the [FAQ: Listing Liker Land ebooks](faq.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -22,19 +22,19 @@ and other follow up actions:
 
 4. [Manage NFT books](nft-book-store.md)
 5. [Manage Book Collection](collection.md)
-6. [NFT Book Press User Setting](settings.md)
+6. [NFT Book Press User Setting](user.md)
 7. [ebooks Replenishment](replenishment.md)
 8. [Creator’s Introduction on Liker Land BookStore](./#creators-introduction)
 9. [Transfer ebook or Batch send NFT to more than one wallet](./#transfer-nft-ebook-or-batch-send-nft-to-more-than-one-wallet)
 10. [Import EPUB files to various ereaders](./#import-epub-files-to-various-ereaders)
-11. [Modify ebook](modify-nft-ebook.md)
-12. [Burn ebook](burn-nft-ebook.md)
+11. [Modify ebook](modify.md)
+12. [Burn ebook](burn.md)
 
 ***
 
 ## Create an EPUB file and enter metadata
 
-Create an [EPUB](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../what-is-iscn/). First, create the EPUB file for the eBook, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. Taking the commonly used EPUB editing software as an example:
+Create an [EPUB](https://en.wikipedia.org/wiki/EPUB) file and enter [metadata](../what-is-iscn/). First, create the EPUB file for the ebook, and ensure that the metadata has been entered and organized. Metadata includes book title, author, cover image, publication date, description, etc. Taking the commonly used EPUB editing software as an example:
 
 #### calibre
 
@@ -198,8 +198,8 @@ Physical Goods - After selecting “Includes physical good that requires shippin
 
 Click to start connecting to the Stripe account, see details:
 
-{% content-ref url="settings.md" %}
-[settings.md](settings.md)
+{% content-ref url="user.md" %}
+[user.md](user.md)
 {% endcontent-ref %}
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 27.png" alt=""><figcaption><p>Connect to a Stripe Account</p></figcaption></figure>
@@ -252,7 +252,7 @@ Click “Submit” on the Send NFT Authz Grants Management Page to authorize.
 
 * Force NFT claim before view - Selecting Must claim NFT to view means that readers must claim the ebook to read
 * Disable File Download - Selecting Disable Download means not allowing readers to download the ebook, only allowing online reading.
-* Insert cutomized message page in eBook - Automatically insert a custom message page into the EPUB file.
+* Insert cutomized message page in ebook - Automatically insert a custom message page into the EPUB file.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23j.png" alt=""><figcaption><p>DRM Options</p></figcaption></figure>
 
@@ -286,8 +286,8 @@ You can continue to:
 
 ## Manage User Setting
 
-{% content-ref url="settings.md" %}
-[settings.md](settings.md)
+{% content-ref url="user.md" %}
+[user.md](user.md)
 {% endcontent-ref %}
 
 ## Creator’s Introduction
