@@ -1,10 +1,10 @@
 ---
-description: How to Purchase NFT eBooks
+description: How to Purchase ebooks
 ---
 
-# Purchase NFT eBooks
+# Purchase ebooks
 
-No matter if you have a crypto wallet or not, collecting NFT eBooks on desktop or mobile is equally convenient:
+No matter if you have a crypto wallet or not, collecting ebooks on desktop or mobile is equally convenient:
 
 ## Step 1: Start Purchasing
 
@@ -24,13 +24,13 @@ The Stripe page will appear. Enter your email and credit card information, then 
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 3.png" alt=""><figcaption><p>Enter your information on the Stripe payment page</p></figcaption></figure>
 
-## Step 4: Successful Purchase of NFT eBook
+## Step 4: Successful Purchase of ebook
 
-A page pops up saying Thank you for your support, click "Start Claiming my eBook" to receive the NFT eBook. At the same time, you will also receive an email to claim the book.
+A page pops up saying Thank you for your support, click "Start Claiming my eBook" to receive the ebook. At the same time, you will also receive an email to claim the book.
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 4-en.png" alt=""><figcaption><p> Click "Start Claiming my eBook"</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 5.png" alt=""><figcaption><p> Email notification of climing an NFT eBook</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect NFT Book 5.png" alt=""><figcaption><p> Email notification of climing an ebook</p></figcaption></figure>
 
 ## Step 5: Connect Liker Land Account
 
@@ -58,23 +58,23 @@ Enter the message you want to leave for the author, and after completion, click 
 
 ## Step 8: Successfully Claim the eBook
 
-A page appears saying you have successfully claimed the eBook, you can also click "View Collection" to check the NFT eBooks you have purchased.
+A page appears saying you have successfully claimed the eBook, you can also click "View Collection" to check the ebooks you have purchased.
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 9-en.png" alt=""><figcaption><p>You have successfully claimed your eBook page appears</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 10-en.png" alt=""><figcaption><p>Go to Bookshelf and check your collection</p></figcaption></figure>
 
-## Step 9: Reading the NFT eBook
+## Step 9: Reading the ebook
 
-Users can click “Open Book” and select any one of the file formats to read the NFT eBook.
+Users can click “Open Book” and select any one of the file formats to read the ebook.
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 11-en.png" alt=""><figcaption><p>Select any one of the file formats to read the NFT eBook</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect NFT Book 11-en.png" alt=""><figcaption><p>Select any one of the file formats to read the ebook</p></figcaption></figure>
 
-## Step 10: Downloading the NFT eBook File
+## Step 10: Downloading the ebook File
 
-If the author of the purchased NFT eBook allows downloading the file, click the download icon in the top right corner to download the book file.
+If the author of the purchased ebook allows downloading the file, click the download icon in the top right corner to download the book file.
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>Click download icon to download the NFT eBook</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>Click download icon to download the ebook</p></figcaption></figure>
 
 ### Import EPUB files to various ereaders
 

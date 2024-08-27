@@ -176,7 +176,7 @@ The NFT Class ID of the minted ebook appears in the New NFT Book Listing
      * Memo of this book - If you choose to automatically send the ebook to the reader, a memo will be automatically added to the reader upon delivery.
   2. Sign memo and manually deliver each NFT - Sign and manually send the ebook to the reader
      * Is Physical only good - If you choose to sign manually, this option will pop up to ask if the book only contains a physical version, displaying "This edition does not contain digital file/NFT". If selected, it means this version does not provide an ebook file and the physical book will be sent by the author. Please add the postage option in Advanced Settings.
-* Allow custom price - Readers can provide [extra tip](../nft-ebook/#step-2-show-your-support-with-a-tip) to the author when purchasing the ebook.
+* Allow custom price - Readers can provide [extra tip](../ebook/#step-2-show-your-support-with-a-tip) to the author when purchasing the ebook.
 
 <figure><img src="../../.gitbook/assets/NFT Book Press 23.png" alt=""><figcaption><p>Pricing and Availability</p></figcaption></figure>
 

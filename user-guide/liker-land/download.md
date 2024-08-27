@@ -26,7 +26,7 @@ Log in to the LikeCoin app and you can find the following:
 
 ## Option 2: NFT Bookstore
 
-* [Browse the Book Store](../../depub/nft-ebook/)
+* [Browse the Book Store](../../depub/ebook/)
 * [My Dashboard](../../depub/liker-land-web/dashboard.md)
 
 ## Option 3: [Notifications](../../depub/liker-land-web/notifications.md)

@@ -10,7 +10,7 @@ One significant advantage of publishing books as NFTs is that it creates a uniqu
 
 With BookForest, readers can have their digital books signed by the author, which provides a personal touch and adds value to the book. Moreover, readers can trade their digital books with other readers, allowing for a new level of interaction and engagement between readers.
 
-Here's the instruction of how to buy NFT eBooks on BookForest:
+Here's the instruction of how to buy ebooks on BookForest:
 
 ## Step 1: Connect wallet
 
@@ -20,7 +20,7 @@ Go to BookForest website and click "Connect Your Wallet". If you are connecting 
 
 <figure><img src="../../../.gitbook/assets/bookforest 1.png" alt=""><figcaption><p>Click "Approve" to connect with Keplr</p></figcaption></figure>
 
-## Step 2: Purchase the NFT eBook
+## Step 2: Purchase the ebook
 
 Choose the book you want to buy in the carousell or BookForest new drops.
 
@@ -34,7 +34,7 @@ Enter into the Stripe payment page, fill in your email and credit card informati
 
 <figure><img src="../../../.gitbook/assets/bookforest 4.png" alt=""><figcaption><p>Enter into the Stripe payment page, fill in your email and credit card information and click "Buy"</p></figcaption></figure>
 
-## Step 3: NFT eBook purchase completed
+## Step 3: ebook purchase completed
 
 The "Thank you!" page appears.
 
@@ -44,4 +44,4 @@ Additionally you will receive a confirmation email.
 
 <figure><img src="../../../.gitbook/assets/bookforest 6.png" alt=""><figcaption><p>Receive a confirmation email</p></figcaption></figure>
 
-The purchased NFT eBook will be displayed in "[My Bookshelf](../../liker-land-web/bookshelf.md)".
+The purchased ebook will be displayed in "[My Bookshelf](../../liker-land-web/bookshelf.md)".
