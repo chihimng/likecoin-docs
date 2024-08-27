@@ -92,13 +92,9 @@ Learn more about Email/Social login:
 
 ### Step 3: Check your NFT Collection
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../.gitbook/assets/Writing NFT 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
-
-Click "Login".
-
-<figure><img src="../../.gitbook/assets/Writing NFT 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 A pop-up window appears, click Email/Social to login to Liker Land.
 
@@ -116,13 +112,9 @@ Users who have registered with [Email/Social](../../user-guide/liker-id/register
 
 ### Step 1: Log in to Liker Land
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../.gitbook/assets/Writing NFT 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
-
-Click "Login".
-
-<figure><img src="../../.gitbook/assets/Writing NFT 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Writing NFT 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 A pop-up window appears, click Email/Social to login to Liker Land.
 
