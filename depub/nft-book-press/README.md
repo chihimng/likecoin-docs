@@ -23,12 +23,13 @@ and other follow up actions:
 4. [Manage NFT books](nft-book-store.md)
 5. [Manage Book Collection](collection.md)
 6. [NFT Book Press User Setting](user.md)
-7. [ebooks Replenishment](replenishment.md)
-8. [Creator’s Introduction on Liker Land BookStore](./#creators-introduction)
-9. [Transfer ebook or Batch send NFT to more than one wallet](./#transfer-nft-ebook-or-batch-send-nft-to-more-than-one-wallet)
-10. [Import EPUB files to various ereaders](./#import-epub-files-to-various-ereaders)
-11. [Modify ebook](modify.md)
-12. [Burn ebook](burn.md)
+7. [Affiliation Link Setting](affiliation-link.md)
+8. [ebooks Replenishment](replenishment.md)
+9. [Modify ebook](modify.md)
+10. [Burn ebook](burn.md)
+11. [Transfer ebook or Batch send NFT to more than one wallet](../transfer-writing-nft/)
+12. [Import EPUB files to various ereaders](./#ereader)
+13. [Creator’s Introduction on Liker Land BookStore](../../user-guide/liker-id/edit-avatar-displayname.md)
 
 ***
 
@@ -270,47 +271,7 @@ Go back to Liker Land to check that the ebook has been successfully listed for s
 
 ***
 
-You can continue to:
-
-## Manage ebook
-
-{% content-ref url="nft-book-store.md" %}
-[nft-book-store.md](nft-book-store.md)
-{% endcontent-ref %}
-
-## Manage Book Collection
-
-{% content-ref url="collection.md" %}
-[collection.md](collection.md)
-{% endcontent-ref %}
-
-## Manage User Setting
-
-{% content-ref url="user.md" %}
-[user.md](user.md)
-{% endcontent-ref %}
-
-## Creator’s Introduction
-
-Set your own introduction, profile picture, and display name so your supporters can know you better.&#x20;
-
-{% content-ref url="../../user-guide/liker-id/edit-avatar-displayname.md" %}
-[edit-avatar-displayname.md](../../user-guide/liker-id/edit-avatar-displayname.md)
-{% endcontent-ref %}
-
-## Transfer ebook or Batch send NFT to more than one wallet
-
-Transfer or Gift ebook.
-
-{% content-ref url="../transfer-writing-nft/" %}
-[transfer-writing-nft](../transfer-writing-nft/)
-{% endcontent-ref %}
-
-{% content-ref url="nft-book-store.md" %}
-[nft-book-store.md](nft-book-store.md)
-{% endcontent-ref %}
-
-### Import EPUB files to various ereaders
+### Import EPUB files to various ereaders <a href="#ereader" id="ereader"></a>
 
 Besides using USB to import EPUB files to ereaders, different brands also support uploading via network interfaces:
 

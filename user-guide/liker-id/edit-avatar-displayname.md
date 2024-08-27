@@ -44,7 +44,7 @@ Click on "Change Avatar" or "Edit" to modify your email. Click on "Display Name"
 
 Your name and avatar will appear in various [Liker Land](https://liker.land/) scenarios:
 
-### Bookshelf
+### My Bookshelf
 
 {% content-ref url="../../depub/liker-land-web/bookshelf.md" %}
 [bookshelf.md](../../depub/liker-land-web/bookshelf.md)

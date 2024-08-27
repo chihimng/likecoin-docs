@@ -10,13 +10,13 @@ description: A Writing NFT is an NFT representing the ownership of a written wor
 
 A "Writing NFT" is a non-fungible token (NFT) representing the ownership of a written work, such as an article or any other type of text, with or without accompanying illustrations. In other words, it is digital evidence of the ownership of a piece of written content.
 
-Technically, Writing NFTs cover all types of text-based NFTs, including Article NFTs and NFT eBooks. Unless otherwise specified, the term Writing NFT generally refers to Article NFT.
+Technically, Writing NFTs cover all types of text-based NFTs, including Article NFTs and ebooks. Unless otherwise specified, the term Writing NFT generally refers to Article NFT.
 
 ### How to collect Writing NFT？
 
-There are several ways to collect a NFT eBook or Article NFT:
+There are several ways to collect a ebooks or Article NFT:
 
-1. Check out the Liker Land NFT Bookstore, where [NFT eBooks](https://liker.land/en/store) and [Article NFTs](https://liker.land/en/store/articles) are available.
+1. Check out the Liker Land NFT Bookstore, where [ebooks](https://liker.land/en/store) and [Article NFTs](https://liker.land/en/store/articles) are available.
 2. Visit the [Bookshelf](liker-land-web/bookshelf.md) page of the author or collector and purchase the NFT there.
 3. Look for an [NFT Widget](nft-portal/nft-widget.md) that is embedded in the content you're interested in.
 
@@ -44,9 +44,9 @@ Set the selling price of NFT in the [NFT Marketplace](collect-writing-nft/nft-ma
 
 [The price changes dynamically based on supply and demand of the NFT](collect-writing-nft/dynamic-pricing.md). Creators do not need to set the price and quantity. Readers do not need to set the bidding price too, just collect when the price feels right. The market price will decrease when someone sells in the [NFT Marketplace](collect-writing-nft/nft-marketplace.md).
 
-### How to list NFT eBook for sale?
+### How to list ebooks for sale?
 
-Use [LikeCoin NFT Book Press](nft-book-press/) to publish NFT e-books.
+Use [LikeCoin NFT Book Press](nft-book-press/) to publish ebooks.
 
 ### How to list Article NFT for sale?
 
