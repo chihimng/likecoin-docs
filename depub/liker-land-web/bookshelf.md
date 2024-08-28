@@ -4,7 +4,7 @@ description: Check out other users' NFT collections
 
 # My Bookshelf
 
-My Bookshelf includes the following features:
+[My Bookshelf](https://liker.land/en/bookshelf?tab=collected) includes the following features:
 
 ## Collected
 

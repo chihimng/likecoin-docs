@@ -10,13 +10,13 @@ If you have any questions, feel free to contact us at [publish@liker.land](mailt
 
 ***
 
-## eBook rights attribution
+## ebook rights attribution
 
-Liker Land is only responsible for acting as an agent to distribute your work on our platform. The publishing rights and copyrights of the eBook still belong to the author (or legal representative). Liker Land reproduces and publishes the eBook with your authorized consent.
+Liker Land is only responsible for acting as an agent to distribute your work on our platform. The publishing rights and copyrights of the ebook still belong to the author (or legal representative). Liker Land reproduces and publishes the ebook with your authorized consent.
 
-## eBook Platform Service Fee
+## ebook Platform Service Fee
 
-eBook platforms typically charge a certain percentage as a service fee:
+ebook platforms typically charge a certain percentage as a service fee:
 
 Generally, this fee is 35% of the actual selling price. 30% is the sales channel commission\*, while the remaining 5% is the platform fee.
 
@@ -28,15 +28,15 @@ The actual cost depends on the file size and exchange rates, making it difficult
 
 For example, let's consider Zhou Zuoren's book "雨天的書" (The Book of Rainy Days). The storage fee for a 2.7 MB file is 0.12 USD (charged only once). Additionally, printing one e-book costs approximately 0.005 USD (based on the number of copies printed).
 
-## eBook Royalties
+## ebook Royalties
 
-The calculation for eBook royalties is as follows:
+The calculation for ebook royalties is as follows:
 
 Actual selling price of the book deducting the platform service fee is the net amount available for royalties.
 
-For eBooks, the formula is:
+For ebooks, the formula is:
 
-eBook Royalty = (Actual Selling Price) × 35% + (Actual Selling Price × 4.4% for Stripe credit card fees) + $0.30
+ebook Royalty = (Actual Selling Price) × 35% + (Actual Selling Price × 4.4% for Stripe credit card fees) + $0.30
 
 For example, if your book is listed on Liker Land with a selling price of $100, the royalty you would receive per sale is:
 
@@ -60,7 +60,7 @@ Please visit the [Stripe Receive payouts page](https://docs.stripe.com/payouts) 
 
 ***
 
-## About Listing ([Detailed Tutorial](nft-book-press/))
+## About Listing ([Detailed Tutorial](./))
 
 ### Do you provide EPUB file creation services?
 

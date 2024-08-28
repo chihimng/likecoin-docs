@@ -5,7 +5,7 @@ description: Publish eook with LikeCoin NFT Book Press
 # Publish ebook
 
 {% hint style="info" %}
-Before publishing, you can refer to the [FAQ: Listing Liker Land ebooks](../faq.md)
+Before publishing, you can refer to the [FAQ: Listing Liker Land ebooks](faq.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -27,7 +27,7 @@ and other follow up actions:
 8. [ebooks Replenishment](replenishment.md)
 9. [Modify ebook](modify.md)
 10. [Burn ebook](burn.md)
-11. [Transfer ebook or Batch send NFT to more than one wallet](../transfer-writing-nft.md)
+11. [Transfer ebook or Batch send NFT to more than one wallet](../transfer-writing-nft/)
 12. [Import EPUB files to various ereaders](./#ereader)
 13. [Creator’s Introduction on Liker Land BookStore](../../user-guide/liker-id/edit-avatar-displayname.md)
 

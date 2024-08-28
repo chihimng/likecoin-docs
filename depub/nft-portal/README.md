@@ -60,8 +60,8 @@ Set your own introduction, profile picture, and display name so your supporters 
 
 After publishing the NFT, creators can Transfer NFT or Batch send NFT to more than one wallet.
 
-{% content-ref url="../transfer-writing-nft.md" %}
-[transfer-writing-nft.md](../transfer-writing-nft.md)
+{% content-ref url="../transfer-writing-nft/" %}
+[transfer-writing-nft](../transfer-writing-nft/)
 {% endcontent-ref %}
 
 ## Display NFT Widget

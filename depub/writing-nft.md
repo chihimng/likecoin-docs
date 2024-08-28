@@ -34,7 +34,7 @@ At the [My Dashboard](../archive/archive/writing-nft/dashboard.md) page.
 
 ### How to transfer NFT?
 
-[Transfer](transfer-writing-nft.md) can be done at the NFT page, just enter the wallet address of the receiver to transfer.
+[Transfer](transfer-writing-nft/) can be done at the NFT page, just enter the wallet address of the receiver to transfer.
 
 ### How to sell NFT in the secondary market?
 
