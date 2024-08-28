@@ -98,7 +98,7 @@ The minting process is complete! A message saying "Complete!" will appear, indic
 
 <figure><img src="../.gitbook/assets/W3Press mint 8.png" alt=""><figcaption><p>Click "View NFT"</p></figcaption></figure>
 
-You can also check your creations on the Liker Land [My Dashboard](../depub/liker-land-web/dashboard.md).
+You can also check your creations on the Liker Land [My Dashboard](../archive/archive/writing-nft/dashboard.md).
 
 <figure><img src="../.gitbook/assets/W3Press mint 9-en.png" alt=""><figcaption><p>Check your creations on the Liker Land My Dashboard</p></figcaption></figure>
 

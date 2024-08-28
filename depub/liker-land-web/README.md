@@ -8,29 +8,33 @@ After logging in to Liker Land web - [https://Liker.Land](https://liker.land/), 
 
 <figure><img src="../../.gitbook/assets/Liker Land menu-en.png" alt=""><figcaption><p>Liker Kand menu</p></figcaption></figure>
 
-## **Option 1: Book Store -** [**https://liker.land/zh-Hant/store**](https://liker.land/zh-Hant/store)
-
-The bookstore displays selected NFT eBooks,&#x20;
-
-## **Option 2: Top Articles -** [**https://liker.land/en/store/articles**](https://liker.land/en/store/articles)
-
-Display popular and latest article Writing NFT recommendations.
-
-## **Option 3:** My Dashboard - [https://liker.land/en/feed?view=town](https://liker.land/en/feed?view=town)
-
-Access your [My Dashboard](dashboard.md).
-
-## Option 4: My Bookshelf - https://liker.land/en/\[wallet address]?tab=collected
+## Option 1: My Bookshelf - [https://liker.land/en/bookshelf?tab=collected](https://liker.land/en/bookshelf?tab=collected)
 
 Access your [Bookshelf](bookshelf.md).
 
-## **Option 5: Mint NFT -** [**https://app.like.co/nft/url**](https://app.like.co/nft/url)
+## Option 2: Notifications - [https://liker.land/en/notifications](https://liker.land/en/notifications)
 
-Use the [NFT Portal](../nft-portal/) to mint NFTs.
+Check the lastest [Notifications](notifications.md).
 
-## **Option 6: Settings -** [**https://liker.land/en/settings/**](https://liker.land/en/settings/)
+## **Option 3:** Account and Settings **-** [**https://liker.land/en/settings/**](https://liker.land/en/settings/)
 
-<figure><img src="../../.gitbook/assets/Liker Land settings-en.png" alt=""><figcaption><p>Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Liker Land setting-en.png" alt=""><figcaption><p>Account and Settings</p></figcaption></figure>
+
+### User information
+
+Click the wallet address to copy it; the gems indicate the rarity of the collected NFTs; and you can check the LIKE balance inside the wallet.
+
+<figure><img src="../../.gitbook/assets/Liker Land setting Liker ID.png" alt=""><figcaption><p>User information</p></figcaption></figure>
+
+### Statistics
+
+You can view the number of NFTs collected, Asset Value (LIKE), the number of NFTs created, and the number of NFTs collectors. Click on Total Sales (LIKE) to view NFT Sales Earnings, Resales Earnings, and Royalties.
+
+<figure><img src="../../.gitbook/assets/Dashboard 2-en.png" alt=""><figcaption><p>Statistics</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/My Dashboard Total Sales Sample 1.png" alt=""><figcaption><p>Sales Earnings sample</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/My Dashboard Total Sales Sample 2.png" alt=""><figcaption><p>Royalties sample</p></figcaption></figure>
 
 ### Email - [https://liker.land/en/settings/email](https://liker.land/en/settings/email)
 
@@ -52,7 +56,7 @@ Use the [NFT Portal](../nft-portal/) to mint NFTs.
 [liker-id](../../user-guide/liker-id/)
 {% endcontent-ref %}
 
-### Export Wallet Seed Words (For Liker ID registered through Email/Social only)
+### Export Wallet Seed Words (For Liker ID registered through Email/Social only) - [https://like.co/in/widget/authcore/seedwords?language=en](https://like.co/in/widget/authcore/seedwords?language=en)
 
 {% content-ref url="../../user-guide/liker-id/register/export-seed-words.md" %}
 [export-seed-words.md](../../user-guide/liker-id/register/export-seed-words.md)

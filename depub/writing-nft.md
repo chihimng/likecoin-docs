@@ -30,7 +30,7 @@ Use the [Follow Creators](liker-land-web/follow-creators.md) function or subscri
 
 ### Where can I check out my NFT collection?
 
-At the [My Dashboard](liker-land-web/dashboard.md) page.
+At the [My Dashboard](../archive/archive/writing-nft/dashboard.md) page.
 
 ### How to transfer NFT?
 
