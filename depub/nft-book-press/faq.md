@@ -4,7 +4,7 @@ description: ebook FAQ
 
 # FAQ: Listing ebooks
 
-Book Press provides self-publishing services for Liker Land. We offer authors and publishers a platform to self-publish their works, and we also act as a distributor. As an author, you become both the creator and publisher of your work. Liker Land serves as an e-book service to sell your works, without claiming any copyright or demanding a share of profits from sales on other platforms.
+Book Press provides self-publishing services for Liker Land. We offer authors and publishers a platform to self-publish their works, and we also act as a distributor. As an author, you become both the creator and publisher of your work. Liker Land serves as an ebook service to sell your works, without claiming any copyright or demanding a share of profits from sales on other platforms.
 
 If you have any questions, feel free to contact us at [publish@liker.land](mailto:publish@liker.land).
 
@@ -26,7 +26,7 @@ Generally, this fee is 35% of the actual selling price. 30% is the sales channel
 
 The actual cost depends on the file size and exchange rates, making it difficult to be calculated precisely. However, if you already have a file, you can directly estimate it using the system.
 
-For example, let's consider Zhou Zuoren's book "雨天的書" (The Book of Rainy Days). The storage fee for a 2.7 MB file is 0.12 USD (charged only once). Additionally, printing one e-book costs approximately 0.005 USD (based on the number of copies printed).
+For example, let's consider Zhou Zuoren's book "雨天的書" (The Book of Rainy Days). The storage fee for a 2.7 MB file is 0.12 USD (charged only once). Additionally, printing one ebook costs approximately 0.005 USD (based on the number of copies printed).
 
 ## ebook Royalties
 

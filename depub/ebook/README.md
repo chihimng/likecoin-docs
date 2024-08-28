@@ -8,7 +8,7 @@ No matter if you have a crypto wallet or not, collecting ebooks on desktop or mo
 
 ## Step 1: Start Purchasing
 
-Go to the e-book’s page and click "Purchase".
+Go to the ebook’s page and click "Purchase".
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 1-en.png" alt=""><figcaption><p>Click "Purchase".</p></figcaption></figure>
 
