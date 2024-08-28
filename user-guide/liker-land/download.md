@@ -24,12 +24,12 @@ Log in to the LikeCoin app and you can find the following:
 * [Delegate LikeCoin](../../general-guides/stake/)
 * [Civic Liker](../civic-liker/)
 
-## Option 2: NFT Bookstore
+## Option 2: Bookstore
 
-* [Browse the Book Store](../../depub/ebook/)
-* [My Dashboard](../../archive/archive/writing-nft/dashboard.md)
+* [Browse the Bookstore](../../depub/ebook/)
+* [My Dashboard](../../depub/liker-land/bookshelf.md)
 
-## Option 3: [Notifications](../../depub/liker-land-web/notifications.md)
+## Option 3: [Notifications](../../depub/liker-land/notifications.md)
 
 ## Option 4: Settings
 

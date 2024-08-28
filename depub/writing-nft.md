@@ -17,7 +17,7 @@ Technically, Writing NFTs cover all types of text-based NFTs, including Article 
 There are several ways to collect a ebooks or Article NFT:
 
 1. Check out the Liker Land NFT Bookstore, where [ebooks](https://liker.land/en/store) and [Article NFTs](https://liker.land/en/store/articles) are available.
-2. Visit the [Bookshelf](liker-land-web/bookshelf.md) page of the author or collector and purchase the NFT there.
+2. Visit the [Bookshelf](liker-land/bookshelf.md) page of the author or collector and purchase the NFT there.
 3. Look for an [NFT Widget](collect-writing-nft/nft-widget.md) that is embedded in the content you're interested in.
 
 ### I do not have a Liker ID, can I buy Writing NFT?
@@ -26,15 +26,15 @@ Yes. Readers can buy Writing NFT with credit card or [LikeCoin](https://like.co/
 
 ### How to know that there are new NFTs for sale?
 
-Use the [Follow Creators](liker-land-web/follow-creators.md) function or subscribe [Liker Land Substack](https://newsletter.liker.land/).
+Use the [Follow Creators](liker-land/follow-creators.md) function or subscribe [Liker Land Substack](https://newsletter.liker.land/).
 
 ### Where can I check out my NFT collection?
 
-At the [My Dashboard](../archive/archive/writing-nft/dashboard.md) page.
+At the [My Dashboard](../archive/archive/liker-land/dashboard.md) page.
 
 ### How to transfer NFT?
 
-[Transfer](transfer-writing-nft/) can be done at the NFT page, just enter the wallet address of the receiver to transfer.
+[Transfer](transfer-nft.md) can be done at the NFT page, just enter the wallet address of the receiver to transfer.
 
 ### How to sell NFT in the secondary market?
 
@@ -52,7 +52,7 @@ Use [LikeCoin NFT Book Press](nft-book-press/) to publish ebooks.
 
 If you want to publish your written works as NFTs, you can do so via several platforms that support LikeCoin Writing NFTs, such as [WordPress websites](../user-guide/wordpress.md), [Liker.Social](https://liker.social/), and [illustBuy](https://illustbuy.com/). Additionally, you can use the [NFT portal](https://app.like.co/nft/url) to publish any web page as an NFT.&#x20;
 
-Once your NFTs are published, they will be automatically listed. Others can collect them through [Liker Land](https://liker.land/?utm\_source=docs) or an [NFT Widget](collect-writing-nft/nft-widget.md) or [Bookshelf](liker-land-web/bookshelf.md) without any additional work on your part.
+Once your NFTs are published, they will be automatically listed. Others can collect them through [Liker Land](https://liker.land/?utm\_source=docs) or an [NFT Widget](collect-writing-nft/nft-widget.md) or [Bookshelf](liker-land/bookshelf.md) without any additional work on your part.
 
 ### How to set the Article NFT quantity for sale?
 
@@ -60,7 +60,7 @@ There is no upper limit in principle. However, as the marked price will increase
 
 ### I do not have a Liker ID, can I sell Writing NFT?
 
-Sure. The [Web3Press plugin](../user-guide/wordpress.md) supports [NFT Widgets](collect-writing-nft/nft-widget.md) with Keplr wallet address. You can also login your wallet to the[ NFT Portal](../developer/likenft/nft-portal/) to mint NFT, and then display your work on the [Bookshelf](liker-land-web/bookshelf.md), and share the link for readers to purchase.
+Sure. The [Web3Press plugin](../user-guide/wordpress.md) supports [NFT Widgets](collect-writing-nft/nft-widget.md) with Keplr wallet address. You can also login your wallet to the[ NFT Portal](../developer/likenft/nft-portal/) to mint NFT, and then display your work on the [Bookshelf](liker-land/bookshelf.md), and share the link for readers to purchase.
 
 ### How to install NFT Widget?
 
@@ -68,7 +68,7 @@ You can install the LikeCoin [Web3Press plugin](../user-guide/wordpress.md), and
 
 ### Any other way to sell my NFT besides by NFT Widget?
 
-Yes, you can always share the link of your NFT which can be copied from the [Bookshelf](liker-land-web/bookshelf.md) page or the [NFT Marketplace.](collect-writing-nft/nft-marketplace.md)
+Yes, you can always share the link of your NFT which can be copied from the [Bookshelf](liker-land/bookshelf.md) page or the [NFT Marketplace.](collect-writing-nft/nft-marketplace.md)
 
 ### To Find more latest news about Writing NFT
 

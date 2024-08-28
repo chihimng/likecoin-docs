@@ -44,4 +44,4 @@ Additionally you will receive a confirmation email.
 
 <figure><img src="../../../.gitbook/assets/bookforest 6.png" alt=""><figcaption><p>Receive a confirmation email</p></figcaption></figure>
 
-The purchased ebook will be displayed in "[My Bookshelf](../../liker-land-web/bookshelf.md)".
+The purchased ebook will be displayed in "[My Bookshelf](../../liker-land/bookshelf.md)".

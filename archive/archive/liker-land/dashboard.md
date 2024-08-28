@@ -4,6 +4,10 @@ description: Display Window and Store Shelf of NFT
 
 # My Dashboard
 
+{% hint style="danger" %}
+Archived on 2024/08/28. Information is out of date.
+{% endhint %}
+
 ## **Liker Land web**
 
 Upon logging in to [Liker Land](https://like.co/), users can utilize the following functions in [My Dashboard](https://liker.land/en/feed?view=town):
@@ -46,7 +50,7 @@ After viewing your followers, you can click on "Export my follower list" to expo
 
 ### Public Bookshelf
 
-Click on Public Bookshelf to directly link to your personal [Public Bookshelf](../../../depub/liker-land-web/bookshelf.md).
+Click on Public Bookshelf to directly link to your personal [Public Bookshelf](../../../depub/liker-land/bookshelf.md).
 
 <figure><img src="../../../.gitbook/assets/Bookshelf-en.png" alt=""><figcaption><p>Public Bookshelf</p></figcaption></figure>
 

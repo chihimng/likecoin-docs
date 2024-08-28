@@ -27,7 +27,7 @@ and other follow up actions:
 8. [ebooks Replenishment](replenishment.md)
 9. [Modify ebook](modify.md)
 10. [Burn ebook](burn.md)
-11. [Transfer ebook or Batch send NFT to more than one wallet](../transfer-writing-nft/)
+11. [Transfer ebook or Batch send NFT to more than one wallet](../transfer-nft.md)
 12. [Import EPUB files to various ereaders](./#ereader)
 13. [Creator’s Introduction on Liker Land BookStore](../../user-guide/liker-id/edit-avatar-displayname.md)
 

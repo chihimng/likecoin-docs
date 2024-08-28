@@ -48,7 +48,7 @@ Or go to the NFT details page and click "Collect" or the current NFT price. To b
 
 <figure><img src="../../.gitbook/assets/Buy NFT 2-en.png" alt=""><figcaption><p>NFT Content Details</p></figcaption></figure>
 
-Or else go to the creator's [Bookshelf](../liker-land-web/bookshelf.md) (website: https://liker.land/\[wallet address] ) and click the current NFT price or "[Collect All](collect-all.md)";
+Or else go to the creator's [Bookshelf](../liker-land/bookshelf.md) (website: https://liker.land/\[wallet address] ) and click the current NFT price or "[Collect All](collect-all.md)";
 
 <figure><img src="../../.gitbook/assets/Buy NFT 3-en.png" alt=""><figcaption><p>Bookshelf</p></figcaption></figure>
 
@@ -100,7 +100,7 @@ A pop-up window appears, click Email/Social to login to Liker Land.
 
 <figure><img src="../../.gitbook/assets/Writing NFT 3-en.png" alt=""><figcaption><p>Login to Liker Land</p></figcaption></figure>
 
-Go to "[My Bookshelf](../liker-land-web/bookshelf.md)" via the menu to view the NFT that you've collected.
+Go to "[My Bookshelf](../liker-land/bookshelf.md)" via the menu to view the NFT that you've collected.
 
 <figure><img src="../../.gitbook/assets/Buy NFT pay by card 7-en.png" alt=""><figcaption><p>View purchased Writing NFTs in My Dashboard</p></figcaption></figure>
 
@@ -136,7 +136,7 @@ Payment Authentication page pop-up, enter your OTP code and press "VERIFY".
 
 ### Step 3: Check your NFT Collection
 
-Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Bookshelf](../liker-land-web/bookshelf.md) to check out the NFT that you have collected.
+Payment is successful! appears, the Writing NFT is successfully collected with an animated 3D book cover. Click "View the NFT" to see the details of the NFT purchased or you can go to [My Bookshelf](../liker-land/bookshelf.md) to check out the NFT that you have collected.
 
 <figure><img src="../../.gitbook/assets/Buy NFT Finish-en.png" alt=""><figcaption><p>Successfully purchased Writing NFT</p></figcaption></figure>
 

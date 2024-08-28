@@ -24,13 +24,13 @@ The "Export" function allows users to input the creator's or collector's Liker I
 
 ### [**Mint NFT**](https://likecoin.github.io/iscn-nft-tools/mint-nft)
 
-Directly mint NFTs using ISCN ID or [NFT Class ID](liker-land-web/nft-details.md#nft-class-id), or provide an ISCN data JSON file for minting NFTs.
+Directly mint NFTs using ISCN ID or [NFT Class ID](liker-land/nft-details.md#nft-class-id), or provide an ISCN data JSON file for minting NFTs.
 
 <figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 4.png" alt=""><figcaption><p>Mint NFT</p></figcaption></figure>
 
 ### [**Send NFT**](https://likecoin.github.io/iscn-nft-tools/send-nft)
 
-Send NFTs by providing an NFT CSV file for mass distribution. See the guide for [Batch send NFT to supporters](transfer-writing-nft/#batch-send-nft-to-supporters).
+Send NFTs by providing an NFT CSV file for mass distribution. See the guide for [Batch send NFT to supporters](transfer-nft.md#batch-send-nft-to-supporters).
 
 <figure><img src="../.gitbook/assets/LikeCoin ISCNNFT Tools 2.png" alt=""><figcaption><p>Send NFT</p></figcaption></figure>
 
