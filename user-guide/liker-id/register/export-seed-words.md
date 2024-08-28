@@ -41,13 +41,9 @@ Click "Copy" to copy them to another location.
 
 ### Step 1: Go to the URL for exporting seed words
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
-
-Click "Login".
-
-<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
@@ -69,11 +65,7 @@ Click "Press to reauthenticate".
 
 ### Step 3: Re-login to Liker Land
 
-Log in to [Liker Land](https://like.co/) with [Keplr](../../../general-guides/wallet/keplr/) or [LikeCoin app](../../liker-land/download.md).
-
-<figure><img src="../../../.gitbook/assets/Seed Words 3pre-en.png" alt=""><figcaption></figcaption></figure>
-
-Or Click "Switch to legacy interface" to log in to [Liker Land](https://like.co/) with your email and password, or use any [social profile](social-media-logins.md) login.
+Log in to [Liker Land](https://like.co/) with your email and password, or use any [social profile](social-media-logins.md) to login again.
 
 ![Re-login to Liker Land](<../../../.gitbook/assets/Seed Words 3en.png>)
 

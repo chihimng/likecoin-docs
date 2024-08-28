@@ -22,13 +22,9 @@ On the [LikeCoin app](../../liker-land/download.md) click "Sign In"
 
 make sure that you are being logged out. You may go to the menu at the top right hand corner and find the "Logout" option.
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
-
-Click "Login".
-
-<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 

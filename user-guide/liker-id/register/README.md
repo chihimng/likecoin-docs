@@ -60,13 +60,9 @@ Lastly, please note that all LikeCoin and Civic Liker referral programs ended on
 
 ## Register a Liker ID through Email/Social (with Authcore) on Liker Land web
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
-
-Click "Login".
-
-<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 

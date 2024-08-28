@@ -22,6 +22,6 @@ From the LikeCoin button on each creation, readers can:
 
 ### NFT Widget
 
-If the article has been published as a Writing NFT, the LikeCoin button will evolve into an [NFT Widget](../../depub/nft-portal/nft-widget.md) with clap and [collect Writing NFT](../../depub/collect-writing-nft/) functions.
+If the article has been published as a Writing NFT, the LikeCoin button will evolve into an [NFT Widget](../../depub/collect-writing-nft/nft-widget.md) with clap and [collect Writing NFT](../../depub/collect-writing-nft/) functions.
 
 <figure><img src="../../.gitbook/assets/NFT Widget-en.png" alt=""><figcaption><p>NFT Widget with clap and collect Writing NFT functions</p></figcaption></figure>

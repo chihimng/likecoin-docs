@@ -66,8 +66,8 @@ After publishing the NFT, creators can Transfer NFT or Batch send NFT to more th
 
 ## Display NFT Widget
 
-After publishing the NFT, creators can embed an [NFT Widget](nft-widget.md) into any webpage by iframe.
+After publishing the NFT, creators can embed an [NFT Widget](../collect-writing-nft/nft-widget.md) into any webpage by iframe.
 
-{% content-ref url="nft-widget.md" %}
-[nft-widget.md](nft-widget.md)
+{% content-ref url="../collect-writing-nft/nft-widget.md" %}
+[nft-widget.md](../collect-writing-nft/nft-widget.md)
 {% endcontent-ref %}

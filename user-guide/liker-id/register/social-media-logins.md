@@ -31,13 +31,9 @@ Click on the social media login ( except Matters ), follow the on-screen instruc
 
 ### Web
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
-
-Click "Login".
-
-<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
@@ -45,7 +41,7 @@ Click "Email/Social" using Liker ID by email or social login
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
 
-<figure><img src="../../../.gitbook/assets/Authcore Liker ID-en.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
 
 Click "AuthCore Settings" in the upper right corner.
 

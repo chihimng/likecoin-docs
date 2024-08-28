@@ -4,6 +4,18 @@ description: How to check and copy my LikeCoin wallet address?
 
 # Wallet Address
 
+## Liker Land web
+
+Log in to [Liker Land](https://liker.land/), go directly to [Account and Settings](../../depub/liker-land-web/) and click on the wallet address to copy it.
+
+<figure><img src="../../.gitbook/assets/Liker Land Wallet Address-en.png" alt=""><figcaption><p>Copy wallet address on Liker Land web</p></figcaption></figure>
+
+## LikeCoin app
+
+Click "Receive," and then click "Copy" below the QR code to copy the wallet address.
+
+![Copy wallet address on LikeCoin app](<../../.gitbook/assets/wallet address liker land app en.png>)
+
 ## Keplr
 
 After logging in, Click "Deposit" then click "Copy" to copy the wallet address.
@@ -21,15 +33,3 @@ Click on "LikeCoin," then click on "Deposit" and the copy icon to copy the walle
 After logging in, click the wallet address to copy it directly.
 
 <figure><img src="../../.gitbook/assets/Leap wallet address.png" alt=""><figcaption><p>Copy Leap wallet address</p></figcaption></figure>
-
-## LikeCoin app
-
-Click "Receive," and then click "Copy" below the QR code to copy the wallet address.
-
-![Copy wallet address on LikeCoin app](<../../.gitbook/assets/wallet address liker land app en.png>)
-
-## Liker Land web
-
-Log in to [Liker Land ](https://liker.land/)and click "Settings" directly, or go to [https://like.co/in/settings](https://like.co/in/settings) to check it.
-
-<figure><img src="../../.gitbook/assets/Wallet Address Liker Land-en.png" alt=""><figcaption><p>Copy wallet address on Liker Land web</p></figcaption></figure>

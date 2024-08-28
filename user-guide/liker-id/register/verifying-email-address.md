@@ -14,13 +14,9 @@ The followings are for [Liker ID registered through Email/Social (with Authcore)
 
 ### Step 1: Go to Liker ID setting
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
-
-Click "Login".
-
-<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
@@ -28,7 +24,7 @@ Click "Email/Social" using Liker ID by email or social login
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
 
-<figure><img src="../../../.gitbook/assets/Authcore Liker ID-en.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
 
 Click ‘Edit’ in ‘Your Email’ to go to the ‘Manage email’ page.
 
@@ -60,13 +56,9 @@ The following steps need to be performed on a desktop computer, and a smartphone
 
 ### Step 1: Login Liker Land web
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
-
-Click "Login".
-
-<figure><img src="../../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" using Liker ID by email or social login
 
@@ -74,7 +66,7 @@ Click "Email/Social" using Liker ID by email or social login
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
 
-<figure><img src="../../../.gitbook/assets/Authcore Liker ID-en.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
 
 ### Step 2: Go to security settings
 

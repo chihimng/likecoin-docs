@@ -52,7 +52,7 @@ Or else go to the creator's [Bookshelf](../liker-land-web/bookshelf.md) (website
 
 <figure><img src="../../.gitbook/assets/Buy NFT 3-en.png" alt=""><figcaption><p>Bookshelf</p></figcaption></figure>
 
-Also can click "Collect Now" on [NFT Widget](../nft-portal/nft-widget.md);
+Also can click "Collect Now" on [NFT Widget](nft-widget.md);
 
 <figure><img src="../../.gitbook/assets/Buy NFT 4-en.png" alt=""><figcaption><p>NFT Widget</p></figcaption></figure>
 

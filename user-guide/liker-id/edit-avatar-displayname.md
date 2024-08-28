@@ -18,13 +18,9 @@ Click on the settings icon located at the lower right-hand corner and select "Pr
 
 ### Web
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
-
-Click "Login".
-
-<figure><img src="../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 Click "Email/Social" or Keplr to login.
 
@@ -32,7 +28,7 @@ Click "Email/Social" or Keplr to login.
 
 After logging in, click on the avatar in the upper right corner, click ‘Settings’, and then click ‘Liker ID’.”
 
-<figure><img src="../../.gitbook/assets/Authcore Liker ID-en.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore Liker ID.png" alt=""><figcaption><p>click "Settings", and then click "Liker ID"</p></figcaption></figure>
 
 Click on "Change Avatar" or "Edit" to modify your email. Click on "Display Name" and "Description" to change them, and don't forget to click "Save".
 

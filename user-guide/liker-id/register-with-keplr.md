@@ -42,19 +42,15 @@ Install the Keplr wallet before registering your Liker ID. If you have already c
 
 ### Step 2: Login to Keplr
 
-Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Enter Store".
+Go to the upper right corner of the [Liker Land website](https://liker.land/en) and click "Login".
 
-<figure><img src="../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p> Click "Enter Store"</p></figcaption></figure>
-
-Click "Login".
-
-<figure><img src="../../.gitbook/assets/Authcore 2-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Authcore 1-en.png" alt=""><figcaption><p>Click "Login"</p></figcaption></figure>
 
 A pop-up window appears, click Keplr to login to Liker Land.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Click Keplr to login to Liker Land</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 02-en.png" alt=""><figcaption><p>Click Keplr to login to Liker Land</p></figcaption></figure>
 
-In the Keplr pop-up window, click "Approve".
+In the Keplr pop-up window, click "Approve". If another Keplr window appears, always click "Approve".
 
 <figure><img src="../../.gitbook/assets/Keplr Register Liker ID 04.png" alt=""><figcaption><p>In the Keplr pop-up window, click "Approve".</p></figcaption></figure>
 
@@ -66,13 +62,9 @@ After logging in to [Liker Land](https://liker.land/), click "[Settings](https:/
 
 <figure><img src="../../.gitbook/assets/Keplr Register Liker ID 06-en.png" alt=""><figcaption><p>Click "Liker ID"</p></figcaption></figure>
 
-In Sign in/up click "Keplr Wallet".
+In Sign in/up, Sign into "Keplr" again.
 
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 03-en.png" alt=""><figcaption><p>In Sign in/up click "Keplr Wallet".</p></figcaption></figure>
-
-In the Keplr pop-up window, click "Approve".
-
-<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 09-en.png" alt=""><figcaption><p>In the Keplr pop-up window, click "Approve".</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Keplr Register Liker ID 08-en.png" alt=""><figcaption><p>In Sign in/up, Sign into "Keplr" again</p></figcaption></figure>
 
 Fill in your desired Liker ID, then click "Confirm".
 
