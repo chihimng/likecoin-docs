@@ -14,12 +14,10 @@ description: Frequently Asked Questions
 * [I couldn't find the answers in the Docs, is there a way that I can contact customer service?](https://go.crisp.chat/chat/embed/?website\_id=5c009125-5863-4059-ba65-43f177ca33f7)
 * [How to connect with other LikeCoin users in the community?](general-guides/community/)
 
-## [Writing NFT](depub/writing-nft.md) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
-
-* [FAQ](depub/writing-nft.md)
-
 ## [Decentralized Publishing](depub/decentralized-publishing.md) <a href="#likecoin-zan-shang-gong-min-gong-he-guo" id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
+* [Listing ebooks FAQ](depub/nft-book-press/faq.md)
+* [Writing NFT FAQ](depub/writing-nft.md)
 * [What is Decentralized Publishing #DePub?](depub/decentralized-publishing.md)
 * [What is ISCN?](developer/iscn/)
 * [What is the relationship between ISCN and IPFS?](depub/what-is-iscn/iscn-ipfs-relationship.md)
