@@ -98,7 +98,7 @@ If the author of the purchased ebook allows downloading the file, click the down
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>Click download icon to download the ebook</p></figcaption></figure>
 
-### Import EPUB files to various ereaders
+## Import EPUB files to various ereaders
 
 If the purchased EPUB does not have DRM, besides using USB to import EPUB files to ereaders, different brands also support uploading via network interfaces:
 

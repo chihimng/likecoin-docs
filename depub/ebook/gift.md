@@ -10,7 +10,7 @@ The ebook gifting feature is only applicable for credit card payments. The steps
 
 Go to the e-book’s page and click "Gift".
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Click "Gift".</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gift 1-en.png" alt=""><figcaption><p>Click "Gift".</p></figcaption></figure>
 
 ## Step 2: Fill in Details
 
@@ -33,3 +33,22 @@ After successfully sending the ebook, you’ll see a thank-you page.
 The recipient will receive an email notification. Once they claim the book, you’ll also receive an email notification.
 
 <figure><img src="../../.gitbook/assets/Gift 5-en.png" alt=""><figcaption><p> Email notification of gifting an ebook</p></figcaption></figure>
+
+## Step 5: Reading the ebook
+
+After claming the book, click “Open Book” and select any one of the file formats to read the ebook.
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 11-en.png" alt=""><figcaption><p>Select any one of the file formats to read the ebook</p></figcaption></figure>
+
+## Step 6: Downloading the ebook File
+
+If the author of the purchased ebook allows downloading the file, click the download icon in the top right corner to download the book file.
+
+<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>Click download icon to download the ebook</p></figcaption></figure>
+
+## Import EPUB files to various ereaders
+
+If the purchased EPUB does not have DRM, besides using USB to import EPUB files to ereaders, different brands also support uploading via network interfaces:
+
+* Kindle - [Send to Kindle](https://www.amazon.com/-/zh\_TW/gp/sendtokindle)
+* Boox - [The Complete Guide of Transferring Files](https://shop.boox.com/blogs/news/the-complete-guide-of-transferring-files)
