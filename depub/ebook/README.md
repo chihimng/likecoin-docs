@@ -48,9 +48,11 @@ On the Stripe page, enter your email and credit card information, then click "Pa
 
 ## Step 5: Successful Purchase of ebook
 
-A page pops up saying Thank you for your support, click "Start Claiming my eBook" to receive the ebook. At the same time, you will also receive an email to claim the book.
+A page pops up saying Thank you for your support, click "Continue" to receive the ebook. At the same time, you will also receive an email to claim the book.
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 4-en.png" alt=""><figcaption><p> Click "Start Claiming my eBook"</p></figcaption></figure>
+
+Click ‘Read your book’ to start claiming your ebook.
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 5.png" alt=""><figcaption><p> Email notification of climing an ebook</p></figcaption></figure>
 
