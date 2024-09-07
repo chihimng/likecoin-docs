@@ -86,23 +86,20 @@ A page appears saying you have successfully claimed the eBook, you can also clic
 
 <figure><img src="../../.gitbook/assets/Collect NFT Book 9-en.png" alt=""><figcaption><p>You have successfully claimed your eBook page appears</p></figcaption></figure>
 
+Or check the purchased ebooks in ‘[My Bookshelf](https://liker.land/en/bookshelf?tab=collected)"
+
 <figure><img src="../../.gitbook/assets/Collect NFT Book 10-en.png" alt=""><figcaption><p>Go to Bookshelf and check your collection</p></figcaption></figure>
 
-## Step 10: Reading the ebook
+Read more:
 
-Users can click “Open Book” and select any one of the file formats to read the ebook.
+{% content-ref url="read.md" %}
+[read.md](read.md)
+{% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/Collect NFT Book 11-en.png" alt=""><figcaption><p>Select any one of the file formats to read the ebook</p></figcaption></figure>
+{% content-ref url="ereaders/" %}
+[ereaders](ereaders/)
+{% endcontent-ref %}
 
-## Step 11: Downloading the ebook File
-
-If the author of the purchased ebook allows downloading the file, click the download icon in the top right corner to download the book file.
-
-<figure><img src="../../.gitbook/assets/Collect NFT Book 12.png" alt=""><figcaption><p>Click download icon to download the ebook</p></figcaption></figure>
-
-## Import EPUB files to various ereaders
-
-If the purchased EPUB does not have DRM, besides using USB to import EPUB files to ereaders, different brands also support uploading via network interfaces:
-
-* Kindle - [Send to Kindle](https://www.amazon.com/-/zh\_TW/gp/sendtokindle)
-* Boox - [The Complete Guide of Transferring Files](https://shop.boox.com/blogs/news/the-complete-guide-of-transferring-files)
+{% content-ref url="gift.md" %}
+[gift.md](gift.md)
+{% endcontent-ref %}
